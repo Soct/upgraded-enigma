@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Agrégateur (Vue.js)</title>
+    
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+<body>
+
+    <div id="app">
+        
+        <h1>Compétitions en cours</h1>
+        
+        <div class="filter-controls" v-if="!loading">
+            <input 
+                type="text" 
+                v-model="searchQuery" 
+                placeholder="Rechercher par nom..." 
+                class="search-bar"
+            >
+            
+            <div class="controls-row">
+                
+                <div class="toggle-container">
+                    <input 
+                        type="checkbox" 
+                        v-model="hideEnded" 
+                        id="hide-ended-toggle"
+                    >
+                    <label for="hide-ended-toggle">Masquer les terminés</label>
+                </div>
+                
+                <div class="toggle-container">
+                    <input 
+                        type="checkbox" 
+                        v-model="filterHasPrize" 
+                        id="has-prize-toggle"
+                    >
+                    <label for="has-prize-toggle">Afficher uniquement avec prix</label>
+                </div>
+                
+                <div class="sort-container">
+                    <label for="sort-select">Trier par :</label>
+                    <select id="sort-select" v-model="sortBy">
+                        <option value="deadline-asc">Date de fin (la plus proche)</option>
+                        <option value="name-asc">Nom (A-Z)</option>
+                        <option value="launched-desc">Date de début (la plus récente)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="source-filter">
+                <h4>Filtrer par Source</h4>
+                <div class="source-checkbox-item" v-for="source in availableSources" :key="source">
+                    <input 
+                        type="checkbox" 
+                        :id="'source-' + source" 
+                        :value="source" 
+                        v-model="selectedSources"
+                    >
+                    <label :for="'source-' + source">{{ source }}</label>
+                </div>
+            </div>
+            
+            <div class="tags-filter">
+                <h4>Filtrer par Tags</h4>
+                <div class="tags-filter-container">
+                    <div v-for="tag in allTags" :key="tag" class="tag-checkbox-item">
+                        <input 
+                            type="checkbox" 
+                            :id="'tag-' + tag" 
+                            :value="tag" 
+                            v-model="selectedTags"
+                        >
+                        <label :for="'tag-' + tag">{{ tag }}</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <p v-if="loading">Chargement des données initiales...</p>
+        
+        <p v-if="!loading && codabenchLoading" class="loading-secondary">
+            Chargement Codabench... 
+            {{ codabenchProgressCurrent }} / {{ codabenchProgressTotal }} compétitions chargées.
+        </p>
+
+        <p v-if="error" style="color: red;">Erreur: {{ error }}</p>
+        
+        <div v-if="!loading && !error">
+            
+            <div v-for="competition in paginatedCompetitions" :key="competition.url" class="competition-card">
+                <h3>{{ competition.name }}</h3>
+                <div class="deadline" :class="{ ended: isEnded(competition.deadline) }">
+                    {{ calculateRemainingTime(competition.deadline) }}
+                </div>
+                <div class="details">
+                    <p><strong>Début :</strong> {{ formatDisplayDate(competition.launched) }}</p>
+                    <p><strong>Prix :</strong> {{ competition.prize }}</p>
+                    <p><strong>Plateforme :</strong> {{ competition.platform }}</p>
+                    <p><strong>Conférence :</strong> {{ competition.conference }} {{ competition.conference_year }}</p>
+                </div>
+                <div class="tags-container">
+                    <span v-for="tag in competition.tags" :key="tag" class="tag">
+                        {{ tag }}
+                    </span>
+                </div>
+                <a :href="competition.url" target="blank" class="main-link">
+                    Voir la compétition
+                </a>
+            </div>
+            
+            <p v-if="sortedAndFilteredCompetitions.length === 0">
+                Aucune compétition ne correspond à vos filtres.
+            </p>
+            
+            <div class="pagination-controls" v-if="totalPages > 1">
+                <button @click="prevPage" :disabled="currentPage === 1">
+                    Précédent
+                </button>
+                <span>Page {{ currentPage }} sur {{ totalPages }}</span>
+                <button @click="nextPage" :disabled="currentPage === totalPages">
+                    Suivant
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js" type="module"></script>
+</body>
+</html>
