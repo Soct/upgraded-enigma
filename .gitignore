@@ -4,7 +4,6 @@ node_modules/
 # Fichiers de log NPM
 npm-debug.log*
 yarn-error.log
-package-lock.json
 
 # Fichiers système (macOS et Windows)
 .DS_Store
