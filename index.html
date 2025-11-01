@@ -15,10 +15,10 @@
         <h1>ML Competition List</h1>
         
         <p v-if="loading">Chargement des données...</p>
-        
         <p v-if="error" style="color: red;">Erreur: {{ error }}</p>
         
         <div class="filter-controls" v-if="!loading">
+            
             <input 
                 type="text" 
                 v-model="searchQuery" 
@@ -26,25 +26,27 @@
                 class="search-bar"
             >
             
-            <div class="controls-row">
+            <div class="quick-filters">
                 <div class="toggle-container">
-                    <input 
-                        type="checkbox" 
-                        v-model="hideEnded" 
-                        id="hide-ended-toggle"
-                    >
+                    <input type="checkbox" v-model="hideEnded" id="hide-ended-toggle">
                     <label for="hide-ended-toggle">Masquer les terminés</label>
                 </div>
-                
                 <div class="toggle-container">
-                    <input 
-                        type="checkbox" 
-                        v-model="filterHasPrize" 
-                        id="has-prize-toggle"
-                    >
+                    <input type="checkbox" v-model="filterHasPrize" id="has-prize-toggle">
                     <label for="has-prize-toggle">Afficher uniquement avec prix</label>
                 </div>
-                
+                <div class="toggle-container">
+                    <input type="checkbox" v-model="filterIsNew" id="is-new-toggle">
+                    <label for="is-new-toggle">Afficher uniquement les nouveaux</label>
+                </div>
+                <div class="toggle-container">
+                    <input type="checkbox" v-model="filterIsRecent" id="is-recent-toggle">
+                    <label for="is-recent-toggle">Afficher uniquement les récents</label>
+                </div>
+                <div class="toggle-container">
+                    <input type="checkbox" v-model="filterIsUpcoming" id="is-upcoming-toggle">
+                    <label for="is-upcoming-toggle">Afficher uniquement à venir</label>
+                </div>
                 <div class="sort-container">
                     <label for="sort-select">Trier par :</label>
                     <select id="sort-select" v-model="sortBy">
@@ -55,23 +57,33 @@
                 </div>
             </div>
 
-            <div class="source-filter">
-                <h4>Filtrer par Source</h4>
-                <div class="source-checkbox-item" v-for="source in availableSources" :key="source">
-                    <input 
-                        type="checkbox" 
-                        :id="'source-' + source" 
-                        :value="source" 
-                        v-model="selectedSources"
-                    >
-                    <label :for="'source-' + source">{{ source }}</label>
+            <details class="collapsible-filter">
+                <summary>Filtrer par Source ({{ selectedSources.length }} / {{ availableSources.length }})</summary>
+                <div class="filter-container">
+                    <div class="source-checkbox-item" v-for="source in availableSources" :key="source">
+                        <input 
+                            type="checkbox" 
+                            :id="'source-' + source" 
+                            :value="source" 
+                            v-model="selectedSources"
+                        >
+                        <label :for="'source-' + source">{{ source }}</label>
+                    </div>
                 </div>
-            </div>
+            </details>
             
-            <div class="tags-filter">
-                <h4>Filtrer par Tags</h4>
-                <div class="tags-filter-container">
-                    <div v-for="tag in allTags" :key="tag" class="tag-checkbox-item">
+            <details class="collapsible-filter">
+                <summary>Filtrer par Tags ({{ selectedTags.length }} cochés)</summary>
+                
+                <input 
+                    type="text" 
+                    v-model="tagSearchQuery" 
+                    placeholder="Rechercher un tag..." 
+                    class="tag-search-bar"
+                >
+                
+                <div class="filter-container">
+                    <div class="tag-checkbox-item" v-for="tag in filteredTags" :key="tag">
                         <input 
                             type="checkbox" 
                             :id="'tag-' + tag" 
@@ -81,14 +93,19 @@
                         <label :for="'tag-' + tag">{{ tag }}</label>
                     </div>
                 </div>
-            </div>
+            </details>
+
         </div>
         
         <div v-if="!loading && !error">
             
             <div v-for="competition in paginatedCompetitions" :key="competition.url" class="competition-card">
                 
-                <span v-if="competition.isNew" style="background: #e6ffed; color: #006421; padding: 3px 8px; border-radius: 10px; font-size: 0.8em; font-weight: bold;">Nouveau</span>
+                <div class="badge-container">
+                    <span v-if="competition.isNew" class="badge badge-new">Nouveau</span>
+                    <span v-if="isRecent(competition.launched)" class="badge badge-recent">Récent</span>
+                    <span v-if="isUpcoming(competition.launched)" class="badge badge-upcoming">À venir</span>
+                </div>
 
                 <h3>{{ competition.name }}</h3>
                 

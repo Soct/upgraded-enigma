@@ -1,4 +1,4 @@
-// Fichier: script.js (Le script "Front-End")
+// Fichier: script.js
 
 const { createApp } = Vue;
 
@@ -11,19 +11,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 loading: true, 
                 error: null,
                 githubData: [],
+                
                 searchQuery: '',
                 hideEnded: true,
                 filterHasPrize: false,
+                filterIsNew: false, 
+                filterIsRecent: false,
+                filterIsUpcoming: false, 
                 sortBy: 'deadline-asc',
                 currentPage: 1, 
                 itemsPerPage: 10,
                 selectedTags: [],
+                
+                tagSearchQuery: '', // NOUVELLE VARIABLE
+                
                 availableSources: [], 
                 selectedSources: []
             };
-        }, // (virgule)
+        },
 
-        // ---------- BLOC 2: computed (COMPLET) ----------
+        // ---------- BLOC 2: computed ----------
         computed: {
             allTags() {
                 const tagsSet = new Set();
@@ -34,9 +41,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 });
                 return Array.from(tagsSet).sort();
             },
+
+            // NOUVELLE COMPUTED
+            filteredTags() {
+                if (!this.tagSearchQuery) {
+                    return this.allTags;
+                }
+                const query = this.tagSearchQuery.toLowerCase();
+                return this.allTags.filter(tag => tag.toLowerCase().includes(query));
+            },
+            
             sortedAndFilteredCompetitions() {
                 let list = [...this.githubData];
                 list = list.filter(comp => this.selectedSources.includes(comp.source));
+                
                 if (this.searchQuery) {
                     const query = this.searchQuery.toLowerCase();
                     list = list.filter(comp => comp.name && comp.name.toLowerCase().includes(query));
@@ -47,6 +65,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (this.filterHasPrize) {
                     list = list.filter(comp => comp.prize && comp.prize !== "N/A");
                 }
+                if (this.filterIsNew) {
+                    list = list.filter(comp => comp.isNew === true);
+                }
+                if (this.filterIsRecent) {
+                    list = list.filter(comp => this.isRecent(comp.launched));
+                }
+                if (this.filterIsUpcoming) {
+                    list = list.filter(comp => this.isUpcoming(comp.launched));
+                }
                 if (this.selectedTags.length > 0) {
                     list = list.filter(comp => {
                         if (comp.tags && Array.isArray(comp.tags)) {
@@ -55,6 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         return false; 
                     });
                 }
+                
                 const parseDate = (dateString) => {
                     if (!dateString) return new Date('2100-01-01');
                     try { return new Date(dateString); } catch (e) { return new Date('2100-01-01'); }
@@ -68,11 +96,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 else if (this.sortBy === 'launched-desc') {
                     list.sort((a, b) => parseDate(b.launched) - parseDate(a.launched));
                 }
+                
                 list.sort((a, b) => {
                     if (a.isNew && !b.isNew) return -1;
                     if (!a.isNew && b.isNew) return 1;
                     return 0;
                 });
+                
                 return list;
             },
             totalPages() {
@@ -83,16 +113,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 const endIndex = startIndex + this.itemsPerPage;
                 return this.sortedAndFilteredCompetitions.slice(startIndex, endIndex);
             }
-        }, // (virgule)
+        },
         
-        // ---------- BLOC 3: watch (COMPLET) ----------
+        // ---------- BLOC 3: watch ----------
         watch: {
             sortedAndFilteredCompetitions() {
                 this.currentPage = 1;
             }
-        }, // (virgule)
+        },
 
-        // ---------- BLOC 4: methods (COMPLET) ----------
+        // ---------- BLOC 4: methods ----------
         methods: {
             calculateRemainingTime(dateString) {
                 if (!dateString) return "Date de fin non spécifiée"; 
@@ -125,6 +155,27 @@ document.addEventListener('DOMContentLoaded', () => {
                     return dateString;
                 }
             },
+            isRecent(dateString) {
+                if (!dateString) return false;
+                const now = new Date();
+                const sevenDaysAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
+                try {
+                    const launchDate = new Date(dateString);
+                    return launchDate >= sevenDaysAgo && launchDate <= now;
+                } catch (e) {
+                    return false;
+                }
+            },
+            isUpcoming(dateString) {
+                if (!dateString) return false;
+                const now = new Date();
+                try {
+                    const launchDate = new Date(dateString);
+                    return launchDate > now;
+                } catch (e) {
+                    return false;
+                }
+            },
             nextPage() {
                 if (this.currentPage < this.totalPages) {
                     this.currentPage++;
@@ -135,18 +186,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     this.currentPage--;
                 }
             }
-        }, // (virgule)
+        },
 
-        // ---------- BLOC 5: mounted (MODIFIÉ) ----------
+        // ---------- BLOC 5: mounted ----------
         async mounted() {
             try {
-                // MODIFIÉ: Ajout des chemins 'sources/'
                 const filesToLoad = [
                     './sources/ml_contest.json',
                     './sources/codabench.json'
                 ];
 
-                // 2. On les charge tous en parallèle
                 const promises = filesToLoad.map(file => 
                     fetch(file).then(res => {
                         if (!res.ok) {
@@ -157,12 +206,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 );
                 const allDataArrays = await Promise.all(promises);
                 
-                // 3. On fusionne les tableaux
                 const allData = allDataArrays.flat();
                 
                 this.githubData = allData; 
 
-                // 4. On génère dynamiquement les filtres de source
                 const sources = new Set(allData.map(d => d.source));
                 this.availableSources = [...sources];
                 this.selectedSources = [...sources];
@@ -175,4 +222,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }).mount('#app');
 
-}); // Fin du DOMContentLoaded
+});
