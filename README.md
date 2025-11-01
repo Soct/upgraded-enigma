@@ -4,6 +4,8 @@ Une application web front-end qui centralise les compétitions de ML de "ML Cont
 
 Ce projet est construit en **JavaScript "vanilla"** (ES6+ Modules) et utilise **Vue.js 3 (via CDN)** pour la réactivité, sans nécessiter de build system.
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://soct.github.io/upgraded-enigma/)
+
 ---
 
 ## 🚀 Fonctionnalités
@@ -46,6 +48,7 @@ Créez un nouveau fichier dans le dossier `/sources/`, par exemple `maSuperApi.j
 
 Ce fichier doit exporter une fonction `async` qui récupère et **formate** les données.
 
+
 ```javascript
 // Fichier: /sources/maSuperApi.js
 
@@ -81,3 +84,6 @@ export async function loadMaSuperApi() {
         return []; // Toujours renvoyer un tableau vide en cas d'erreur
     }
 }
+```
+
+### 2. Modifiez *uniquement* `sources/index.js` pour ajouter votre nouvelle source au tableau `allLoaders`.
