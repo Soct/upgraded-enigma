@@ -1,0 +1,14 @@
+# Dépendances Node.js (essentiel)
+node_modules/
+
+# Fichiers de log NPM
+npm-debug.log*
+yarn-error.log
+package-lock.json
+
+# Fichiers système (macOS et Windows)
+.DS_Store
+Thumbs.db
+
+# Fichiers de l'éditeur (optionnel, mais bonne pratique)
+.vscode/

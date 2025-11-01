@@ -12,17 +12,10 @@
 
     <div id="app">
         
-        <h1>Compétitions en cours</h1>
+        <h1>ML Competition List</h1>
         
-        <p v-if="loading">Chargement des données initiales...</p>
+        <p v-if="loading">Chargement des données...</p>
         
-        <div v-if="!loading && Object.keys(activeSlowLoaders).length > 0">
-            <p v-for="(loader, name) in activeSlowLoaders" :key="name" class="loading-secondary">
-                Chargement {{ name }}... 
-                {{ loader.current }} / {{ loader.total }} compétitions chargées.
-            </p>
-        </div>
-
         <p v-if="error" style="color: red;">Erreur: {{ error }}</p>
         
         <div class="filter-controls" v-if="!loading">
@@ -95,6 +88,8 @@
             
             <div v-for="competition in paginatedCompetitions" :key="competition.url" class="competition-card">
                 
+                <span v-if="competition.isNew" style="background: #e6ffed; color: #006421; padding: 3px 8px; border-radius: 10px; font-size: 0.8em; font-weight: bold;">Nouveau</span>
+
                 <h3>{{ competition.name }}</h3>
                 
                 <div class="deadline" :class="{ ended: isEnded(competition.deadline) }">
@@ -135,6 +130,6 @@
             
         </div>
         
-    </div> <script src="script.js" type="module"></script>
+    </div> <script src="script.js" defer></script>
 </body>
 </html>

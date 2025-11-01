@@ -1,0 +1,45 @@
+# Fichier: .github/workflows/update-data.yml
+
+name: Mise à jour auto des données de compétition
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *'
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Étape 1: Récupérer le code
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      # Étape 2: Configurer Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      # Étape 3: Installer les dépendances
+      - name: Installer les dépendances
+        run: npm install
+
+      # Étape 4: Exécuter le script de build
+      - name: Exécuter le script de build des données
+        run: node build-data.js
+
+      # Étape 5: Commiter les fichiers JSON
+      - name: Commiter les fichiers de données
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Mise à jour automatique des données (via GitHub Action)"
+          
+          # MODIFIÉ: On cible les fichiers dans 'sources/'
+          file_pattern: "sources/*.json"
+          
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
