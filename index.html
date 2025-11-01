@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon Agrégateur (Vue.js)</title>
+    <title>ML Competition List</title>
     
     <link rel="stylesheet" href="style.css">
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
@@ -14,6 +14,17 @@
         
         <h1>Compétitions en cours</h1>
         
+        <p v-if="loading">Chargement des données initiales...</p>
+        
+        <div v-if="!loading && Object.keys(activeSlowLoaders).length > 0">
+            <p v-for="(loader, name) in activeSlowLoaders" :key="name" class="loading-secondary">
+                Chargement {{ name }}... 
+                {{ loader.current }} / {{ loader.total }} compétitions chargées.
+            </p>
+        </div>
+
+        <p v-if="error" style="color: red;">Erreur: {{ error }}</p>
+        
         <div class="filter-controls" v-if="!loading">
             <input 
                 type="text" 
@@ -23,7 +34,6 @@
             >
             
             <div class="controls-row">
-                
                 <div class="toggle-container">
                     <input 
                         type="checkbox" 
@@ -81,33 +91,29 @@
             </div>
         </div>
         
-        <p v-if="loading">Chargement des données initiales...</p>
-        
-        <p v-if="!loading && codabenchLoading" class="loading-secondary">
-            Chargement Codabench... 
-            {{ codabenchProgressCurrent }} / {{ codabenchProgressTotal }} compétitions chargées.
-        </p>
-
-        <p v-if="error" style="color: red;">Erreur: {{ error }}</p>
-        
         <div v-if="!loading && !error">
             
             <div v-for="competition in paginatedCompetitions" :key="competition.url" class="competition-card">
+                
                 <h3>{{ competition.name }}</h3>
+                
                 <div class="deadline" :class="{ ended: isEnded(competition.deadline) }">
                     {{ calculateRemainingTime(competition.deadline) }}
                 </div>
+                
                 <div class="details">
                     <p><strong>Début :</strong> {{ formatDisplayDate(competition.launched) }}</p>
                     <p><strong>Prix :</strong> {{ competition.prize }}</p>
                     <p><strong>Plateforme :</strong> {{ competition.platform }}</p>
                     <p><strong>Conférence :</strong> {{ competition.conference }} {{ competition.conference_year }}</p>
                 </div>
+                
                 <div class="tags-container">
                     <span v-for="tag in competition.tags" :key="tag" class="tag">
                         {{ tag }}
                     </span>
                 </div>
+                
                 <a :href="competition.url" target="blank" class="main-link">
                     Voir la compétition
                 </a>
@@ -126,9 +132,9 @@
                     Suivant
                 </button>
             </div>
+            
         </div>
-    </div>
-
-    <script src="script.js" type="module"></script>
+        
+    </div> <script src="script.js" type="module"></script>
 </body>
 </html>

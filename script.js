@@ -1,35 +1,34 @@
 // Fichier: script.js
 
 const { createApp } = Vue;
-import { loadMLContest } from './sources/mlContest.js';
-import { loadCodabenchProgressive } from './sources/codabench.js';
+// NOUVEL IMPORT : On importe SEULEMENT le fichier baril
+import { allLoaders } from './sources/index.js';
 
 createApp({
     // ---------- BLOC 1: data ----------
     data() {
         return {
             loading: true, 
-            codabenchLoading: false, 
-            codabenchProgressCurrent: 0,
-            codabenchProgressTotal: 0, 
+            slowLoaders: {
+                // Sera rempli dynamiquement, ex: Codabench: { ... }
+            },
             error: null,
             githubData: [], 
             searchQuery: '',
             hideEnded: true,
-            
-            // NOUVELLE VARIABLE
-            filterHasPrize: false, // Par défaut, on n'active pas ce filtre
-            
+            filterHasPrize: false,
             sortBy: 'deadline-asc',
             currentPage: 1, 
             itemsPerPage: 10,
             selectedTags: [],
-            availableSources: ['ML Contest', 'Codabench'], 
-            selectedSources: ['ML Contest', 'Codabench']
+            
+            // Données générées automatiquement !
+            availableSources: allLoaders.map(loader => loader.name), 
+            selectedSources: allLoaders.map(loader => loader.name)
         };
     }, // (virgule)
 
-    // ---------- BLOC 2: computed ----------
+    // ---------- BLOC 2: computed (COMPLET) ----------
     computed: {
         allTags() {
             const tagsSet = new Set();
@@ -41,32 +40,19 @@ createApp({
             return Array.from(tagsSet).sort();
         },
 
-        // COMPUTED MISE À JOUR
         sortedAndFilteredCompetitions() {
             let list = [...this.githubData];
-
-            // --- Filtres ---
             list = list.filter(comp => this.selectedSources.includes(comp.source));
-
             if (this.searchQuery) {
                 const query = this.searchQuery.toLowerCase();
                 list = list.filter(comp => comp.name && comp.name.toLowerCase().includes(query));
             }
-
             if (this.hideEnded) {
                 list = list.filter(comp => !this.isEnded(comp.deadline));
             }
-            
-            // --- NOUVEAU BLOC DE FILTRE ---
             if (this.filterHasPrize) {
-                // On ne garde que les comp. qui ont un 'prize' 
-                // (ni null, ni undefined, ni "N/A")
-                list = list.filter(comp => 
-                    comp.prize && comp.prize !== "N/A"
-                );
+                list = list.filter(comp => comp.prize && comp.prize !== "N/A");
             }
-            // --- FIN NOUVEAU BLOC ---
-
             if (this.selectedTags.length > 0) {
                 list = list.filter(comp => {
                     if (comp.tags && Array.isArray(comp.tags)) {
@@ -75,8 +61,6 @@ createApp({
                     return false; 
                 });
             }
-            
-            // --- Tri (inchangé) ---
             const parseDate = (dateString) => {
                 if (!dateString) return new Date('2100-01-01');
                 try { return new Date(dateString); } catch (e) { return new Date('2100-01-01'); }
@@ -90,7 +74,6 @@ createApp({
             else if (this.sortBy === 'launched-desc') {
                 list.sort((a, b) => parseDate(b.launched) - parseDate(a.launched));
             }
-            
             return list;
         },
         
@@ -102,19 +85,28 @@ createApp({
             const startIndex = (this.currentPage - 1) * this.itemsPerPage;
             const endIndex = startIndex + this.itemsPerPage;
             return this.sortedAndFilteredCompetitions.slice(startIndex, endIndex);
+        },
+
+        activeSlowLoaders() {
+            const active = {};
+            for (const loaderName in this.slowLoaders) {
+                if (this.slowLoaders[loaderName].loading) {
+                    active[loaderName] = this.slowLoaders[loaderName];
+                }
+            }
+            return active;
         }
     }, // (virgule)
     
-    // ---------- BLOC 3: watch ----------
+    // ---------- BLOC 3: watch (COMPLET) ----------
     watch: {
         sortedAndFilteredCompetitions() {
             this.currentPage = 1;
         }
     }, // (virgule)
 
-    // ---------- BLOC 4: methods ----------
+    // ---------- BLOC 4: methods (COMPLET) ----------
     methods: {
-        // (Toutes les méthodes sont complètes et inchangées)
         calculateRemainingTime(dateString) {
             if (!dateString) return "Date de fin non spécifiée"; 
             try {
@@ -156,42 +148,72 @@ createApp({
                 this.currentPage--;
             }
         },
-        async loadSlowData() {
-            this.codabenchLoading = true;
-            this.codabenchProgressTotal = 0; 
+        
+        async loadSlowData(loader) {
+            const loaderName = loader.name;
+            
+            this.slowLoaders[loaderName] = {
+                loading: true,
+                current: 0,
+                total: 0
+            };
             
             const onDataBatch = (batch) => {
                 this.githubData.push(...batch);
             };
             
             const onProgressUpdate = (current, total) => {
-                this.codabenchProgressCurrent = current;
-                this.codabenchProgressTotal = total;
+                this.slowLoaders[loaderName].current = current;
+                this.slowLoaders[loaderName].total = total;
             };
 
             try {
-                // On utilise la fonction progressive
-                await loadCodabenchProgressive(onDataBatch, onProgressUpdate); 
+                await loader.load(onDataBatch, onProgressUpdate);
             } catch (err) {
-                console.error("Erreur de chargement Codabench (progressif):", err);
-                this.error = "Erreur de chargement Codabench. (Voir console)";
+                console.error(`Erreur de chargement ${loaderName} (progressif):`, err);
+                this.error = `Erreur de chargement ${loaderName}. (Voir console)`;
             } finally {
-                this.codabenchLoading = false;
+                this.slowLoaders[loaderName].loading = false;
             }
         }
     }, // (virgule)
 
-    // ---------- BLOC 5: mounted ----------
+    // ---------- BLOC 5: mounted (CORRIGÉ) ----------
     async mounted() {
+        
+        // --- C'EST LA CORRECTION ---
+        // 1. On DÉCLARE les listes ici (portée 'mounted')
+        let simpleLoaders = [];
+        let progressiveLoaders = [];
+        // --- FIN CORRECTION ---
+
         try {
-            const mlContestData = await loadMLContest();
-            this.githubData = this.githubData.concat(mlContestData); 
+            // 2. On ASSIGNE les listes ici (portée 'try')
+            simpleLoaders = allLoaders.filter(l => l.type === 'simple');
+            progressiveLoaders = allLoaders.filter(l => l.type === 'progressive');
+
+            const simplePromises = simpleLoaders.map(loader => loader.load());
+            const settledResults = await Promise.allSettled(simplePromises);
+            
+            settledResults.forEach(result => {
+                if (result.status === 'fulfilled') {
+                    this.githubData = this.githubData.concat(result.value);
+                } else {
+                    console.error("Un chargeur simple a échoué:", result.reason);
+                }
+            });
+
         } catch (err) {
             this.error = "Erreur critique lors du chargement des données initiales.";
-            console.error("Erreur dans mounted (ML Contest):", err);
+            console.error("Erreur dans mounted:", err);
         } finally {
+            // 3. On COUPE le spinner principal
             this.loading = false;
-            this.loadSlowData();
+            
+            // 4. On LANCE les chargeurs lents (maintenant accessible)
+            progressiveLoaders.forEach(loader => {
+                this.loadSlowData(loader);
+            });
         }
     }
 

@@ -1,66 +1,83 @@
 # 🚀 Agrégateur de Compétitions de Machine Learning
 
-Ce projet est une simple application web "front-end" qui agrège les compétitions de Machine Learning (ML) de plusieurs sources en une seule interface unifiée, rapide et filtrable.
+Une application web front-end qui centralise les compétitions de ML de "ML Contest" et "Codabench" en une interface unique, rapide et filtrable.
 
-Il a été conçu pour résoudre le problème de la dispersion des informations sur plusieurs plateformes, en offrant des outils de recherche, de tri et de filtrage puissants pour trouver des compétitions pertinentes.
+Ce projet est construit en **JavaScript "vanilla"** (ES6+ Modules) et utilise **Vue.js 3 (via CDN)** pour la réactivité, sans nécessiter de build system.
 
 ---
 
-## Core Features
+## 🚀 Fonctionnalités
 
-* **Fusion de Sources :** Affiche les données de "ML Contest" et "Codabench" dans une seule liste.
-* **Chargement Asynchrone :** L'application charge d'abord la source la plus rapide (ML Contest) pour une interactivité immédiate, puis charge la source la plus lente (Codabench) en arrière-plan.
-* **Chargement Progressif :** Le chargement de Codabench est progressif : les données s'affichent par lots (par 20) au fur et à mesure de leur arrivée, sans bloquer l'interface.
-* **Barre de Progression :** Un indicateur de chargement dynamique (`xx / 60`) informe l'utilisateur de l'état du chargement en arrière-plan.
-* **Filtrage Puissant :**
-    * **Recherche :** Un champ de recherche textuelle sur le nom de la compétition.
-    * **Sources :** Cases à cocher pour afficher/masquer "ML Contest" ou "Codabench".
-    * **Tags :** Cases à cocher générées dynamiquement pour filtrer par tags (ex: "régression", "NLP").
-    * **Prix :** Case à cocher pour n'afficher que les compétitions ayant un prix.
-    * **Statut :** Case à cocher (cochée par défaut) pour masquer les compétitions terminées.
-* **Tri :** Un menu déroulant pour trier les résultats par date de fin, date de début ou nom.
-* **Pagination :** La liste filtrée et triée est découpée en pages de 10 éléments pour une navigation facile.
+* **Fusion de Sources :** Agrège "ML Contest" et "Codabench".
+* **Chargement Asynchrone :** Charge la source rapide en premier, puis la source lente (Codabench) en arrière-plan avec une barre de progression.
+* **Filtrage Puissant :** Recherche par nom, source, tags, statut (terminé/en cours) et par la présence d'un prix.
+* **Tri :** Trie les résultats par date de fin, date de début ou nom.
+* **Pagination :** Affiche les résultats par pages de 10.
 
 ---
 
 ## 🛠️ Stack Technique
 
-* **Framework :** [Vue.js](https://vuejs.org/) (via CDN, sans build system)
+* **Framework :** Vue.js 3 (via CDN)
 * **Langage :** JavaScript (ES6+ Modules)
-* **Structure :** HTML5
-* **Style :** CSS3 (via un fichier `style.css` séparé)
-* **Données (Sources) :**
-    * **ML Contest :** Un fichier JSON statique hébergé sur GitHub.
-    * **Codabench :** L'API REST publique de Codabench.
-* **Proxy CORS :** Un proxy tiers (`api.codetabs.com`) est utilisé pour contourner les restrictions de sécurité (CORS) de l'API Codabench.
+* **Structure :** HTML5 / CSS3
+* **APIs :** `fetch`, `Promise.allSettled`
+* **Proxy CORS :** Utilisation d'un proxy tiers (`api.codetabs.com`) pour l'API Codabench.
 
 ---
 
-## 🏃‍♀️ Comment Lancer le Projet
+## 🏃‍♀️ Lancer Localement
 
-**⚠️ ATTENTION :** Vous ne pouvez pas lancer ce projet en ouvrant directement `index.html` dans votre navigateur (`file:///...`).
+Vous **devez** utiliser un serveur web local (les `import` de modules JS sont bloqués sur `file:///`).
 
-Les navigateurs bloqueront les requêtes `fetch()` et les `import` de modules JavaScript pour des raisons de sécurité (CORS).
-
-Vous **devez** utiliser un serveur web local. La méthode la plus simple est :
-
-1.  Ouvrez le dossier du projet dans **Visual Studio Code**.
-2.  Installez l'extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-3.  Faites un clic droit sur le fichier `index.html`.
-4.  Choisissez **"Open with Live Server"**.
-5.  Votre navigateur s'ouvrira à une adresse comme `http://127.0.0.1:5500`.
+1.  Ouvrez ce dossier dans **VS Code**.
+2.  Installez l'extension **Live Server**.
+3.  Faites un clic droit sur `index.html` et choisissez **"Open with Live Server"**.
 
 ---
 
-## 📁 Structure des Fichiers
+## 🔌 Comment Ajouter une Nouvelle Source de Données
 
-L'application est divisée en modules logiques pour une meilleure organisation :
-```
-├── 📁 sources/ 
-│    ├── codabench.js (Logique de chargement pour l'API Codabench) 
-│    └── mlContest.js (Logique de chargement pour l'API ML Contest) 
-│ 
-├── index.html (La "coquille" de l'application) 
-├── script.js (Le "cerveau" : l'application Vue.js) 
-└── style.css (Toute la mise en forme)
-```
+L'application est conçue pour être modulaire. Pour ajouter une nouvelle source (par exemple, "MaSuperAPI"), suivez ces étapes :
+
+### 1. Créer un nouveau "Chargeur"
+
+Créez un nouveau fichier dans le dossier `/sources/`, par exemple `maSuperApi.js`.
+
+Ce fichier doit exporter une fonction `async` qui récupère et **formate** les données.
+
+```javascript
+// Fichier: /sources/maSuperApi.js
+
+export async function loadMaSuperApi() {
+    const API_URL = "https://... l'url de votre api ...";
+    
+    // Si l'API a des problèmes de CORS, utilisez le proxy
+    // const PROXY_URL = `https://api.codetabs.com/v1/proxy?quest=${API_URL}`;
+    
+    try {
+        const response = await fetch(API_URL); // ou PROXY_URL
+        const data = await response.json();
+
+        // Étape la plus importante : le "mapping"
+        // Transformez les données de l'API en notre format standard
+        const processedData = data.items.map(item => ({
+            name: item.title,
+            url: item.competition_url,
+            tags: item.keywords || [],
+            launched: item.start_date,
+            deadline: item.end_date,
+            prize: item.prize_money || "N/A",
+            platform: "MaSuperAPI", // Le nom de la plateforme
+            conference: null,
+            conference_year: null,
+            source: "MaSuperAPI" // Le nom du filtre
+        }));
+
+        return processedData;
+
+    } catch (err) {
+        console.error("Erreur de chargement MaSuperAPI:", err);
+        return []; // Toujours renvoyer un tableau vide en cas d'erreur
+    }
+}
