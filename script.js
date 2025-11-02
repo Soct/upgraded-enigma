@@ -3,12 +3,11 @@ const { createApp } = Vue;
 document.addEventListener('DOMContentLoaded', () => {
 
     createApp({
-        // ---------- BLOC 1: data (MODIFIÉ) ----------
+        // ---------- BLOC 1: data ----------
         data() {
             return {
                 loading: true, 
                 error: null,
-                // MODIFIÉ: renommé 'githubData' en 'allCompetitions'
                 allCompetitions: [], 
                 
                 searchQuery: '',
@@ -28,11 +27,10 @@ document.addEventListener('DOMContentLoaded', () => {
             };
         },
 
-        // ---------- BLOC 2: computed (MODIFIÉ) ----------
+        // ---------- BLOC 2: computed ----------
         computed: {
             allTags() {
                 const tagsSet = new Set();
-                // MODIFIÉ: utilise 'allCompetitions'
                 this.allCompetitions.forEach(comp => { 
                     if (comp.tags && Array.isArray(comp.tags)) {
                         comp.tags.forEach(tag => tagsSet.add(tag));
@@ -51,7 +49,6 @@ document.addEventListener('DOMContentLoaded', () => {
             
             sortedAndFilteredCompetitions() {
                 
-                // MODIFIÉ: utilise 'allCompetitions'
                 let list = [...this.allCompetitions];
 
                 // --- Filtres "ET" (cumulatifs) ---
@@ -140,26 +137,49 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 
-        // ---------- BLOC 4: methods ----------
+        // ---------- BLOC 4: methods (MODIFIÉ) ----------
         methods: {
-            calculateRemainingTime(dateString) {
-                if (!dateString) return "Date de fin non spécifiée"; 
+            // MODIFIÉ: Remplacement de 'calculateRemainingTime'
+            getCompetitionStatus(comp) {
+                const now = new Date();
+
+                // 1. Vérifier si l'événement est "À venir"
+                if (this.isUpcoming(comp.launched)) {
+                    try {
+                        const launchDate = new Date(comp.launched);
+                        const diffTime = launchDate - now;
+                        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                        
+                        if (diffDays === 1) return "Démarre demain";
+                        return `Démarre dans ${diffDays} jours`;
+                    } catch (e) { return "Date de début invalide"; }
+                }
+
+                // 2. Vérifier si l'événement est "Terminé"
+                if (this.isEnded(comp.deadline)) {
+                    return "Terminé";
+                }
+
+                // 3. Sinon, l'événement est "En cours"
                 try {
-                    const deadlineDate = new Date(dateString);
-                    const now = new Date();
+                    if (!comp.deadline) return "Date de fin non spécifiée"; 
+                    const deadlineDate = new Date(comp.deadline);
                     const diffTime = deadlineDate - now;
                     const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-                    if (diffDays <= 0) return "Terminé";
+                    
+                    if (diffDays <= 0) return "Terminé"; // Sécurité
                     if (diffDays === 1) return "Dernier jour !";
                     return `${diffDays} jours restants`;
-                } catch (e) { return "Date invalide"; }
+                } catch (e) { return "Date de fin invalide"; }
             },
+            
             isEnded(dateString) {
                 if (!dateString) return false; 
                 try {
                     return new Date(dateString) < new Date(); 
                 } catch (e) { return false; }
             },
+            
             formatDisplayDate(dateString) {
                 if (!dateString) return "N/A"; 
                 try {
@@ -173,6 +193,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     return dateString;
                 }
             },
+            
             isRecent(dateString) {
                 if (!dateString) return false;
                 const now = new Date();
@@ -184,6 +205,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     return false;
                 }
             },
+            
             isUpcoming(dateString) {
                 if (!dateString) return false;
                 const now = new Date();
@@ -194,6 +216,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     return false;
                 }
             },
+            
             nextPage() {
                 if (this.currentPage < this.totalPages) {
                     this.currentPage++;
@@ -206,13 +229,13 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 
-        // ---------- BLOC 5: mounted (MODIFIÉ) ----------
+        // ---------- BLOC 5: mounted ----------
         async mounted() {
             try {
                 const filesToLoad = [
                     './sources/ml_contest.json',
                     './sources/codabench.json',
-                    './sources/kaggle.json' // <-- AJOUT DE LA NOUVELLE SOURCE
+                    './sources/kaggle.json'
                 ];
 
                 const promises = filesToLoad.map(file => 
@@ -227,7 +250,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 const allData = allDataArrays.flat();
                 
-                // MODIFIÉ: utilise 'allCompetitions'
                 this.allCompetitions = allData; 
 
                 const sources = new Set(allData.map(d => d.source));

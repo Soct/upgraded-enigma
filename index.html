@@ -110,9 +110,8 @@
                 <h3>{{ competition.name }}</h3>
                 
                 <div class="deadline" :class="{ ended: isEnded(competition.deadline) }">
-                    {{ calculateRemainingTime(competition.deadline) }}
+                    {{ getCompetitionStatus(competition) }}
                 </div>
-                
                 <div class="details">
                     <p><strong>Début :</strong> {{ formatDisplayDate(competition.launched) }}</p>
                     <p><strong>Prix :</strong> {{ competition.prize }}</p>
