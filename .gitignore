@@ -12,4 +12,3 @@ Thumbs.db
 # Fichiers de l'éditeur (optionnel, mais bonne pratique)
 .vscode/
 .env
-sources/
