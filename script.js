@@ -1,40 +1,39 @@
-// Fichier: script.js
-
 const { createApp } = Vue;
 
 document.addEventListener('DOMContentLoaded', () => {
 
     createApp({
-        // ---------- BLOC 1: data ----------
+        // ---------- BLOC 1: data (MODIFIÉ) ----------
         data() {
             return {
                 loading: true, 
                 error: null,
-                githubData: [],
+                // MODIFIÉ: renommé 'githubData' en 'allCompetitions'
+                allCompetitions: [], 
                 
                 searchQuery: '',
                 hideEnded: true,
                 filterHasPrize: false,
                 filterIsNew: false, 
                 filterIsRecent: false,
-                filterIsUpcoming: false, 
+                filterIsUpcoming: false,
                 sortBy: 'deadline-asc',
                 currentPage: 1, 
                 itemsPerPage: 10,
                 selectedTags: [],
-                
-                tagSearchQuery: '', // NOUVELLE VARIABLE
+                tagSearchQuery: '',
                 
                 availableSources: [], 
                 selectedSources: []
             };
         },
 
-        // ---------- BLOC 2: computed ----------
+        // ---------- BLOC 2: computed (MODIFIÉ) ----------
         computed: {
             allTags() {
                 const tagsSet = new Set();
-                this.githubData.forEach(comp => {
+                // MODIFIÉ: utilise 'allCompetitions'
+                this.allCompetitions.forEach(comp => { 
                     if (comp.tags && Array.isArray(comp.tags)) {
                         comp.tags.forEach(tag => tagsSet.add(tag));
                     }
@@ -42,7 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 return Array.from(tagsSet).sort();
             },
 
-            // NOUVELLE COMPUTED
             filteredTags() {
                 if (!this.tagSearchQuery) {
                     return this.allTags;
@@ -52,28 +50,47 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             
             sortedAndFilteredCompetitions() {
-                let list = [...this.githubData];
+                
+                // MODIFIÉ: utilise 'allCompetitions'
+                let list = [...this.allCompetitions];
+
+                // --- Filtres "ET" (cumulatifs) ---
+
+                // Filtre 1: Source
                 list = list.filter(comp => this.selectedSources.includes(comp.source));
                 
+                // Filtre 2: Recherche
                 if (this.searchQuery) {
                     const query = this.searchQuery.toLowerCase();
                     list = list.filter(comp => comp.name && comp.name.toLowerCase().includes(query));
                 }
+
+                // Filtre 3: Terminés
                 if (this.hideEnded) {
                     list = list.filter(comp => !this.isEnded(comp.deadline));
                 }
+
+                // Filtre 4: Prix
                 if (this.filterHasPrize) {
                     list = list.filter(comp => comp.prize && comp.prize !== "N/A");
                 }
+
+                // Filtre 5: Nouveau
                 if (this.filterIsNew) {
                     list = list.filter(comp => comp.isNew === true);
                 }
+                
+                // Filtre 6: Récent
                 if (this.filterIsRecent) {
                     list = list.filter(comp => this.isRecent(comp.launched));
                 }
+
+                // Filtre 7: À venir
                 if (this.filterIsUpcoming) {
                     list = list.filter(comp => this.isUpcoming(comp.launched));
                 }
+
+                // Filtre 8: Tags
                 if (this.selectedTags.length > 0) {
                     list = list.filter(comp => {
                         if (comp.tags && Array.isArray(comp.tags)) {
@@ -83,6 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     });
                 }
                 
+                // --- Tri (inchangé) ---
                 const parseDate = (dateString) => {
                     if (!dateString) return new Date('2100-01-01');
                     try { return new Date(dateString); } catch (e) { return new Date('2100-01-01'); }
@@ -188,12 +206,13 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         },
 
-        // ---------- BLOC 5: mounted ----------
+        // ---------- BLOC 5: mounted (MODIFIÉ) ----------
         async mounted() {
             try {
                 const filesToLoad = [
                     './sources/ml_contest.json',
-                    './sources/codabench.json'
+                    './sources/codabench.json',
+                    './sources/kaggle.json' // <-- AJOUT DE LA NOUVELLE SOURCE
                 ];
 
                 const promises = filesToLoad.map(file => 
@@ -208,7 +227,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 const allData = allDataArrays.flat();
                 
-                this.githubData = allData; 
+                // MODIFIÉ: utilise 'allCompetitions'
+                this.allCompetitions = allData; 
 
                 const sources = new Set(allData.map(d => d.source));
                 this.availableSources = [...sources];
