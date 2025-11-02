@@ -30,6 +30,9 @@ jobs:
       # Étape 4: Exécuter le script de build
       - name: Exécuter le script de build des données
         run: node build-data.js
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
 
       # Étape 5: Commiter les fichiers JSON
       - name: Commiter les fichiers de données
