@@ -23,32 +23,6 @@
     "isNew": false
   },
   {
-    "name": "Analyse Exoplanet Data (Ariel Data Data Challenge 2025)",
-    "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "regression",
-      "astronomy",
-      "science",
-      "measurable",
-      "multimodal",
-      "analysis"
-    ],
-    "launched": "26 Jun 2025",
-    "registration-deadline": "18 Sep 2025",
-    "deadline": "25 Sep 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Kaggle",
-    "conference": "NeurIPS",
-    "conference_year": 2025,
-    "additional_urls": [
-      "https://www.kaggle.com/competitions/ariel-data-challenge-2025"
-    ],
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Predict Cardiac Risks From Genome Data",
     "url": "https://www.trustii.io/post/announcing-the-cardi-hack-data-challenge-advancing-hypertrophic-cardiomyopathy-hcm-progression?ref=mlcontests",
     "tags": [
@@ -318,132 +292,6 @@
     "isNew": false
   },
   {
-    "name": "Lux AI Season 3",
-    "url": "https://www.kaggle.com/competitions/lux-ai-season-3?ref=mlcontests",
-    "tags": [
-      "reinforcement learning",
-      "game",
-      "pvp",
-      "measurable"
-    ],
-    "launched": "9 Dec 2024",
-    "registration-deadline": "3 Mar 2025",
-    "deadline": "10 Mar 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": "NeurIPS",
-    "conference_year": 2024,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "AI Math Olympiad Progress Prize 2",
-    "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "mathematics",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "17 Oct 2024",
-    "registration-deadline": "25 Mar 2025",
-    "deadline": "1 Apr 2025",
-    "prize": "$2,117,152",
-    "platform": "Kaggle",
-    "sponsor": "XTX Markets",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "NFL Big Data Bowl 2025",
-    "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2025?ref=mlcontests",
-    "tags": [
-      "sports",
-      "analysis",
-      "subjective"
-    ],
-    "launched": "10 Oct 2024",
-    "registration-deadline": "8 Jan 2025",
-    "deadline": "8 Jan 2025",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "The NFL",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Gemini Long Context",
-    "url": "https://www.kaggle.com/competitions/gemini-long-context?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "generative",
-      "video generation",
-      "llm",
-      "subjective",
-      "analysis/visualisation"
-    ],
-    "launched": "17 Oct 2024",
-    "registration-deadline": "1 Dec 2024",
-    "deadline": "1 Dec 2024",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "Google",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Real-Time Market Data Forecasting",
-    "url": "https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting?ref=mlcontests",
-    "tags": [
-      "finance",
-      "tabular",
-      "regression",
-      "custom metric",
-      "timeseries",
-      "forecasting",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "14 Oct 2024",
-    "registration-deadline": "6 Jan 2025",
-    "deadline": "13 Jan 2025",
-    "prize": "$120,000",
-    "platform": "Kaggle",
-    "sponsor": "Jane Street",
-    "conference": null,
-    "conference_year": null,
-    "data-size": 12.3,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Gemma LLM fine-tuning",
-    "url": "https://www.kaggle.com/competitions/gemma-language-tuning?ref=mlcontests",
-    "tags": [
-      "llm",
-      "subjective",
-      "fine-tuning",
-      "multi-lingual"
-    ],
-    "launched": "3 Oct 2024",
-    "registration-deadline": "14 Jan 2025",
-    "deadline": "14 Jan 2025",
-    "prize": "$150,000",
-    "platform": "Kaggle",
-    "sponsor": "Google",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Build a Secure and Local RAG System",
     "url": "https://www.trustii.io/post/build-a-secure-and-flexible-retrieval-augmented-generation-rag-system",
     "tags": [
@@ -490,49 +338,6 @@
     "launched": "1 Aug 2024",
     "registration-deadline": "24 Oct 2024",
     "deadline": "24 Oct 2024",
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Identify Misconceptions in Multiple-Choice Math Answers",
-    "url": "https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics?ref=mlcontests",
-    "tags": [
-      "education",
-      "nlp",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "12 Sep 2024",
-    "registration-deadline": "5 Dec 2024",
-    "deadline": "12 Dec 2024",
-    "prize": "$55,000",
-    "platform": "Kaggle",
-    "sponsor": "The Learning Agency Lab, Gates Foundation, Schmidt Futures, Chan Zuckerberg Initiative",
-    "conference": null,
-    "conference_year": null,
-    "data-size": 0.00091134,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict Problematic Internet Use in Children",
-    "url": "https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use?ref=mlcontests",
-    "tags": [
-      "medical",
-      "timeseries",
-      "education",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "19 Sep 2024",
-    "registration-deadline": "12 Dec 2024",
-    "deadline": "19 Dec 2024",
-    "prize": "$60,000",
-    "platform": "Kaggle",
-    "sponsor": "Child Mind Institute, HCS, Dell, NVIDIA",
-    "conference": null,
-    "conference_year": null,
-    "data-size": 6.73,
     "source": "ML Contest",
     "isNew": false
   },
@@ -650,26 +455,6 @@
     "isNew": false
   },
   {
-    "name": "Predict Agent Performance in Two-Player Board Games",
-    "url": "https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "measurable",
-      "game",
-      "regression"
-    ],
-    "launched": "5 Sep 2024",
-    "registration-deadline": "25 Nov 2024",
-    "deadline": "2 Dec 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Maastricht University",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "LLM Privacy Challenge",
     "url": "https://www.llmagentsafetycomp24.com/?ref=mlcontests",
     "tags": [
@@ -743,29 +528,6 @@
     "prize": null,
     "platform": "Meta Coding Competitions",
     "sponsor": null,
-    "conference": "NeurIPS",
-    "conference-year": 2024,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Ariel Data Challenge 2024",
-    "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
-    "tags": [
-      "science",
-      "data",
-      "regression",
-      "multimodal"
-    ],
-    "launched": "1 Aug 2024",
-    "registration-deadline": "24 Oct 2024",
-    "deadline": "31 Oct 2024",
-    "additional_urls": [
-      "https://www.kaggle.com/competitions/ariel-data-challenge-2024?ref=mlcontests"
-    ],
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "CNES, UKSA, ESA and Kaggle",
     "conference": "NeurIPS",
     "conference-year": 2024,
     "source": "ML Contest",
@@ -985,70 +747,6 @@
     "isNew": false
   },
   {
-    "name": "Identify Skin Cancers in 3D Photographs",
-    "url": "https://www.kaggle.com/competitions/isic-2024-challenge?ref=mlcontests",
-    "tags": [
-      "vision",
-      "classification",
-      "medical",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "27 Jun 2024",
-    "registration-deadline": "30 Aug 2024",
-    "deadline": "6 Sep 2024",
-    "prize": "$80,000",
-    "platform": "Kaggle",
-    "sponsor": "ISIC",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Forecast Grocery Order Volume",
-    "url": "https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge?ref=mlcontests",
-    "tags": [
-      "measurable",
-      "supervised",
-      "forecasting",
-      "timeseries",
-      "regression"
-    ],
-    "launched": " 6 Jun 2024",
-    "registration-deadline": "9 Aug 2024",
-    "deadline": "23 Aug 2024",
-    "prize": "$12,000",
-    "platform": "Kaggle",
-    "sponsor": "Rohlik Group",
-    "conference": null,
-    "conference-year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "ARC Prize 2024",
-    "url": "https://www.kaggle.com/competitions/arc-prize-2024?ref=mlcontests",
-    "tags": [
-      "reasoning",
-      "supervised",
-      "measurable"
-    ],
-    "additional_urls": [
-      "https://arcprize.org/?ref=mlcontests"
-    ],
-    "launched": "11 Jun 2024",
-    "registration-deadline": "3 Nov 2024",
-    "deadline": "10 Nov 2024",
-    "prize": "$600,000",
-    "platform": "Kaggle",
-    "sponsor": "Various",
-    "conference": null,
-    "conference-year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Improve Fine-Tuning Datasets for Sora-like Models",
     "url": "https://tianchi.aliyun.com/competition/entrance/532219?ref=mlcontests",
     "tags": [
@@ -1132,158 +830,6 @@
     "isNew": false
   },
   {
-    "name": "Generate Patent Search Queries",
-    "url": "https://www.kaggle.com/competitions/uspto-explainable-ai?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "search",
-      "generative",
-      "measurable",
-      "nlp"
-    ],
-    "launched": "24 Apr 2024",
-    "registration-deadline": "17 Jul 2024",
-    "deadline": "24 Jul 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "US PTO",
-    "conference": null,
-    "conference_year": null,
-    "data-size": 136.6,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict User Chatbot Preferences",
-    "url": "https://www.kaggle.com/competitions/lmsys-chatbot-arena?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "classification",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "2 May 2024",
-    "registration-deadline": "29 Jul 2024",
-    "deadline": "5 Aug 2024",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "LMSYS ORG",
-    "conference": null,
-    "conference_year": null,
-    "data-size": 0.18419,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Atmospheric Physics Prediction",
-    "url": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "measurable",
-      "science",
-      "physics",
-      "regression"
-    ],
-    "launched": "18 Apr 2024",
-    "registration-deadline": "24 Jun 2024",
-    "deadline": "1 Jul 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "LEAP",
-    "conference": null,
-    "conference_year": null,
-    "data-size": 192.3,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict New Medicines with BELKA",
-    "url": "https://www.kaggle.com/competitions/leash-BELKA?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "science",
-      "classification",
-      "measurable"
-    ],
-    "launched": "4 Apr 2024",
-    "registration-deadline": "1 Jul 2024",
-    "deadline": "2 Jul 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Leash Bio",
-    "conference": "NeurIPS",
-    "conference_year": 2024,
-    "data-size": 58.01,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Automated Essay Scoring",
-    "url": "https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2?ref=mlcontests",
-    "tags": [
-      "education",
-      "nlp",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "3 Apr 2024",
-    "registration-deadline": "25 Jun 2024",
-    "deadline": "2 Jul 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "The Learning Agency Lab",
-    "conference": null,
-    "conference_year": null,
-    "data-size": 0.0362,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "BirdCLEF: Identify Bird Species from Audio",
-    "url": "https://www.kaggle.com/competitions/birdclef-2024?ref=mlcontests",
-    "tags": [
-      "classification",
-      "audio",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "3 Apr 2024",
-    "registration-deadline": "3 Jun 2024",
-    "deadline": "10 Jun 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Cornell Lab of Ornithology",
-    "conference": "LifeCLEF",
-    "conference_year": 2024,
-    "data-size": 23.43,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "SnakeCLEF: Identify Snake Species in Images",
-    "url": "https://sites.google.com/view/fgvc11/competitions/snakeclef2024?ref=mlcontests",
-    "tags": [
-      "vision",
-      "measurable",
-      "supervised",
-      "regression"
-    ],
-    "additional_urls": [
-      "https://huggingface.co/spaces/BVRA/SnakeCLEF2024"
-    ],
-    "launched": " 2024",
-    "registration-deadline": "24 May 2024",
-    "deadline": "24 May 2024",
-    "prize": null,
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": "LifeCLEF",
-    "conference-year": 2024,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Space Optimisation Competition (SpOC) 3.0",
     "url": "https://github.com/esa/SpOC3",
     "tags": [
@@ -1354,102 +900,6 @@
     "isNew": false
   },
   {
-    "name": "PlantTraits: Predict Plant Traits from Photographs",
-    "url": "https://sites.google.com/view/fgvc11/competitions/planttraits2024?ref=mlcontests",
-    "tags": [
-      "vision",
-      "measurable",
-      "supervised",
-      "regression"
-    ],
-    "additional_urls": [
-      "https://www.kaggle.com/competitions/planttraits2024?ref=mlcontests"
-    ],
-    "launched": "2 Feb 2024",
-    "registration-deadline": "2 Jun 2024",
-    "deadline": "2 Jun 2024",
-    "prize": null,
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": "CVPR",
-    "conference-year": 2024,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "iBioHash: Fine-Grained Image Hashing",
-    "url": "https://sites.google.com/view/fgvc11/competitions/ibiohash2024?ref=mlcontests",
-    "tags": [
-      "vision",
-      "measurable",
-      "supervised",
-      "classification"
-    ],
-    "additional_urls": [
-      "https://www.kaggle.com/competitions/ibiohash-2024-fgvc11/overview?ref=mlcontests"
-    ],
-    "launched": "8 Mar 2024",
-    "registration-deadline": "18 May 2024",
-    "deadline": "18 May 2024",
-    "prize": null,
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": "CVPR",
-    "conference-year": 2024,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "HyperLeaf: Predict Properties from Images of Leaves",
-    "url": "https://sites.google.com/view/fgvc11/competitions/hyperleaf2024?ref=mlcontests",
-    "tags": [
-      "vision",
-      "measurable",
-      "supervised",
-      "regression"
-    ],
-    "additional_urls": [
-      "https://www.kaggle.com/competitions/HyperLeaf2024/overview?ref=mlcontests"
-    ],
-    "launched": "8 Mar 2024",
-    "registration-deadline": "2 Jun 2024",
-    "deadline": "2 Jun 2024",
-    "prize": null,
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": "CVPR",
-    "conference-year": 2024,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "GeoLifeCLEF: Classify Plant Species",
-    "url": "https://sites.google.com/view/fgvc11/competitions/geolifeclef2024?ref=mlcontests",
-    "tags": [
-      "vision",
-      "measurable",
-      "supervised",
-      "classification"
-    ],
-    "additional_urls": [
-      "https://www.kaggle.com/competitions/geolifeclef-2024/?ref=mlcontests"
-    ],
-    "launched": "29 Feb 2024",
-    "registration-deadline": "24 May 2024",
-    "deadline": "24 May 2024",
-    "prize": null,
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": "CVPR",
-    "conference-year": 2024,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "FungiCLEF: Classify Fungi in Photos",
     "url": "https://sites.google.com/view/fgvc11/competitions/fungiclef2024?ref=mlcontests",
     "tags": [
@@ -1466,30 +916,6 @@
     "deadline": "24 May 2024",
     "prize": null,
     "platform": "Hugging Face",
-    "sponsor": null,
-    "conference": "CVPR",
-    "conference-year": 2024,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "BugNIST: Classify Bugs in Photos",
-    "url": "https://sites.google.com/view/fgvc11/competitions/bugnist2024?ref=mlcontests",
-    "tags": [
-      "vision",
-      "measurable",
-      "supervised",
-      "classification"
-    ],
-    "additional_urls": [
-      "https://www.kaggle.com/competitions/bugnist2024fgvc?ref=mlcontests"
-    ],
-    "launched": "2 Mar 2024",
-    "registration-deadline": "2 Jun 2024",
-    "deadline": "2 Jun 2024",
-    "prize": null,
-    "platform": "Kaggle",
     "sponsor": null,
     "conference": "CVPR",
     "conference-year": 2024,
@@ -1709,27 +1135,6 @@
     "isNew": false
   },
   {
-    "name": "Reconstruct 3D Scenes from 2D Images",
-    "url": "https://www.kaggle.com/competitions/image-matching-challenge-2024?ref=mlcontests",
-    "tags": [
-      "vision",
-      "measurable",
-      "supervised",
-      "3d"
-    ],
-    "launched": "25 Mar 2024",
-    "registration-deadline": "27 May 2024",
-    "deadline": "3 Jun 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "CTU Prague",
-    "conference": null,
-    "conference_year": null,
-    "data-size": 4.04,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Waymo 2024: Pose Estimation",
     "url": "https://waymo.com/intl/en_us/open/challenges/2023/pose-estimation/?ref=mlcontests",
     "tags": [
@@ -1927,29 +1332,6 @@
     "isNew": false
   },
   {
-    "name": "AI Math Olympiad Progress Prize",
-    "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "mathematics",
-      "classification"
-    ],
-    "additional_urls": [
-      "https://aimo.xtxmarkets.com/updates"
-    ],
-    "launched": "1 Apr 2024",
-    "registration-deadline": "20 Jun 2024",
-    "deadline": "27 Jun 2024",
-    "prize": "$1,048,576",
-    "platform": "Kaggle",
-    "sponsor": "XTX Markets",
-    "conference": null,
-    "conference-year": null,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Create Building Wireframes from Photos",
     "url": "https://huggingface.co/spaces/Building3D/USM3D?ref=mlcontests",
     "tags": [
@@ -2040,121 +1422,6 @@
     "isNew": false
   },
   {
-    "name": "Showcase Gemma LLM Usage",
-    "url": "https://www.kaggle.com/competitions/data-assistants-with-gemma?ref=mlcontests",
-    "tags": [
-      "generative",
-      "subjective",
-      "nlp",
-      "llm",
-      "analysis"
-    ],
-    "additional_urls": [],
-    "launched": "21 Feb 2024",
-    "registration-deadline": "14 Apr 2024",
-    "deadline": "14 Apr 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Google",
-    "conference": null,
-    "conference-year": null,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "LLM Prompt Recovery",
-    "url": "https://www.kaggle.com/competitions/llm-prompt-recovery?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "generative",
-      "nlp",
-      "measurable",
-      "llm"
-    ],
-    "additional_urls": [],
-    "launched": "27 Feb 2024",
-    "registration-deadline": "9 Apr 2024",
-    "deadline": "16 Apr 2024",
-    "prize": "$200,000",
-    "platform": "Kaggle",
-    "sponsor": "Kaggle",
-    "conference": null,
-    "conference-year": null,
-    "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict College Basketball Results",
-    "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2024?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "classification",
-      "sports",
-      "measurable",
-      "open"
-    ],
-    "additional_urls": [],
-    "launched": "27 Feb 2024",
-    "registration-deadline": "21 Mar 2024",
-    "deadline": "21 Mar 2024",
-    "end-date": "10 Apr 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Kaggle",
-    "conference": null,
-    "conference-year": null,
-    "data-size": 0.14828,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Detect Personal Data",
-    "url": "https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "detection",
-      "nlp",
-      "measurable",
-      "education"
-    ],
-    "additional_urls": [],
-    "launched": "17 Jan 2024",
-    "registration-deadline": "16 Apr 2024",
-    "deadline": "23 Apr 2024",
-    "prize": "$60,000",
-    "platform": "Kaggle",
-    "sponsor": "The Learning Agency Lab",
-    "conference": null,
-    "conference-year": null,
-    "data-size": 0.10965,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Credit Risk Model Stability",
-    "url": "https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "classification",
-      "finance",
-      "measurable"
-    ],
-    "additional_urls": [],
-    "launched": "5 Feb 2024",
-    "registration-deadline": "29 Apr 2024",
-    "deadline": "6 May 2024",
-    "prize": "$105,000",
-    "platform": "Kaggle",
-    "sponsor": "Home Credit Group",
-    "conference": null,
-    "conference-year": null,
-    "data-size": 26.76,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Optimise LLM Inference on ARM CPUs",
     "url": "https://aicas2024.org/grand-challenge?ref=mlcontests",
     "tags": [
@@ -2176,30 +1443,6 @@
     "conference": "AICAS",
     "conference-year": 2024,
     "data-size": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Harmful Brain Activity Classification",
-    "url": "https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "classification",
-      "measurable",
-      "science",
-      "medical",
-      "timeseries"
-    ],
-    "additional_urls": [],
-    "launched": "8 Jan 2024",
-    "registration-deadline": "1 Apr 2024",
-    "deadline": "8 Apr 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Harvard Medical School",
-    "conference": null,
-    "conference-year": null,
-    "data-size": 26.4,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2259,25 +1502,6 @@
     "prize": "$15,000",
     "platform": "MIT",
     "sponsor": "HRT, Jane Street, Spark, Others",
-    "additional_urls": [],
-    "conference": null,
-    "conference-year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Santa 2023 - Polytope Permutation Puzzle",
-    "url": "https://www.kaggle.com/competitions/santa-2023?ref=mlcontests",
-    "tags": [
-      "optimisation",
-      "measurable"
-    ],
-    "launched": "18 Dec 2023",
-    "registration-deadline": "24 Jan 2024",
-    "deadline": "31 Jan 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Kaggle",
     "additional_urls": [],
     "conference": null,
     "conference-year": null,
@@ -2388,94 +1612,6 @@
     "isNew": false
   },
   {
-    "name": "Segment Vasculature in Kidney Scans",
-    "url": "https://www.kaggle.com/competitions/blood-vessel-segmentation?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "segmentation",
-      "vision",
-      "medical",
-      "measurable"
-    ],
-    "launched": "7 Nov 2023",
-    "registration-deadline": "30 Jan 2024",
-    "deadline": "6 Feb 2024",
-    "prize": "$80,000",
-    "platform": "Kaggle",
-    "sponsor": "SenNet, HOA",
-    "conference": null,
-    "conference-year": null,
-    "data-size": 43.52,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict Domestic Energy Use in Estonia",
-    "url": "https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "regression",
-      "timeseries",
-      "forecasting",
-      "measurable"
-    ],
-    "launched": "1 Nov 2023",
-    "registration-deadline": "24 Jan 2024",
-    "deadline": "31 Jan 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Enefit",
-    "conference": null,
-    "conference-year": null,
-    "data-size": 1.15,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Detect LLM-Generated Text",
-    "url": "https://www.kaggle.com/competitions/llm-detect-ai-generated-text?ref=mlcontests",
-    "tags": [
-      "classification",
-      "supervised",
-      "measurable",
-      "nlp",
-      "generative"
-    ],
-    "launched": "31 Oct 2023",
-    "registration-deadline": "15 Jan 2024",
-    "deadline": "22 Jan 2024",
-    "prize": "$110,000",
-    "platform": "Kaggle",
-    "sponsor": "Learning Agency Lab",
-    "conference": null,
-    "conference-year": null,
-    "data-size": 0.00443,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "NFL Big Data Bowl 2024",
-    "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/?ref=mlcontests",
-    "tags": [
-      "sports",
-      "vision",
-      "subjective",
-      "analysis"
-    ],
-    "additional_urls": [],
-    "launched": "13 Oct 2023",
-    "registration-deadline": "8 Jan 2024",
-    "deadline": "8 Jan 2024",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": null,
-    "conference-year": null,
-    "data-size": 1.61,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Help Humans Discover Trojans",
     "url": "https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/?ref=mlcontests",
     "tags": [
@@ -2494,50 +1630,6 @@
     "sponsor": "Various",
     "conference": "SATML",
     "conference-year": 2024,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Use Typing Behaviour to Predict Essay Quality",
-    "url": "https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/?ref=mlcontests",
-    "tags": [
-      "regression",
-      "science",
-      "measurable",
-      "supervised",
-      "nlp"
-    ],
-    "additional_urls": [],
-    "launched": "2 Oct 2023",
-    "registration-deadline": "2 Jan 2024",
-    "deadline": "9 Jan 2024",
-    "prize": "$55,000",
-    "platform": "Kaggle",
-    "sponsor": "Various",
-    "conference": null,
-    "conference-year": null,
-    "data-size": 0.48571,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Improve Smartphone Positioning and Navigation",
-    "url": "https://www.kaggle.com/competitions/smartphone-decimeter-2023/?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "geo",
-      "measurable"
-    ],
-    "additional_urls": [],
-    "launched": "12 Sep 2023",
-    "registration-deadline": "16 May 2024",
-    "deadline": "23 May 2024",
-    "prize": "$15,000",
-    "platform": "Kaggle",
-    "sponsor": "Google, ION",
-    "conference": "ION GNSS+",
-    "conference-year": 2024,
-    "data-size": 16.16,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3037,48 +2129,6 @@
     "isNew": false
   },
   {
-    "name": "LLM 20 Questions",
-    "url": "https://www.kaggle.com/competitions/llm-20-questions?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "llm",
-      "generative",
-      "pvp",
-      "measurable"
-    ],
-    "launched": "15 May 2024",
-    "registration-deadline": "6 Aug 2024",
-    "deadline": "13 Aug 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Kaggle",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Classify Lumbar Spine Degenerative Conditions from MRIs",
-    "url": "https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "measurable",
-      "vision",
-      "classification",
-      "medical"
-    ],
-    "launched": "17 May 2024",
-    "registration-deadline": "1 Oct 2024",
-    "deadline": "8 Oct 2024",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "RSNA",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Denoise 3D Seismic Volumes",
     "url": "https://thinkonward.com/app/c/challenges/image-impeccable?ref=mlc",
     "tags": [
@@ -3422,110 +2472,6 @@
     "isNew": false
   },
   {
-    "name": "Find Biological Structures in 3D Volumes",
-    "url": "https://www.kaggle.com/competitions/czii-cryo-et-object-identification?ref=mlcontests",
-    "tags": [
-      "vision",
-      "supervised",
-      "measurable",
-      "biology",
-      "image",
-      "object detection",
-      "custom metric"
-    ],
-    "launched": "6 Nov 2024",
-    "registration-deadline": "29 Jan 2025",
-    "deadline": "5 Feb 2025",
-    "prize": "$75,000",
-    "platform": "Kaggle",
-    "sponsor": "CZ Imaging Institute",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Re-order Text to Minimise Perplexity",
-    "url": "https://www.kaggle.com/competitions/santa-2024?ref=mlcontests",
-    "tags": [
-      "optimisation",
-      "custom metric",
-      "measurable",
-      "nlp",
-      "llm"
-    ],
-    "launched": "21 Nov 2024",
-    "registration-deadline": "24 Jan 2025",
-    "deadline": "31 Jan 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict Human Preferences on Multi-lingual Chatbots",
-    "url": "https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "classification",
-      "languages",
-      "accuracy score"
-    ],
-    "launched": "18 Nov 2024",
-    "registration-deadline": "27 Jan 2025",
-    "deadline": "3 Feb 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Chatbot Arena",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Create Efficient Chess Bots",
-    "url": "https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge?ref=mlcontests",
-    "tags": [
-      "board games",
-      "reinforcement learning",
-      "custom metric",
-      "measurable"
-    ],
-    "launched": "18 Nov 2024",
-    "registration-deadline": "4 Feb 2025",
-    "deadline": "11 Feb 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Fédération Internationale des Echecs (FIDE)",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Create Adversarial Essays for LLM Judges",
-    "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all?ref=mlcontests",
-    "tags": [
-      "text generation",
-      "generative",
-      "nlp",
-      "measurable"
-    ],
-    "launched": "3 Dec 2024",
-    "registration-deadline": "25 Feb 2025",
-    "deadline": "4 Mar 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Geological Image Segmentation",
     "url": "https://thinkonward.com/app/c/challenges/core-values?ref=mlc",
     "tags": [
@@ -3542,47 +2488,6 @@
     "prize": "$30,000",
     "platform": "ThinkOnward",
     "sponsor": null,
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict HCT Transplant Survival Rates",
-    "url": "https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions?ref=mlcontests",
-    "tags": [
-      "healthcare",
-      "classification",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "4 Dec 2024",
-    "registration-deadline": "26 Feb 2025",
-    "deadline": "5 Mar 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "CIBMTR",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Build a Model That Solves Real GitHub Issues",
-    "url": "https://www.kaggle.com/competitions/konwinski-prize?ref=mlcontests",
-    "tags": [
-      "computer science",
-      "custom metric",
-      "generative",
-      "measurable",
-      "llm"
-    ],
-    "launched": "12 Dec 2024",
-    "registration-deadline": "5 Mar 2025",
-    "deadline": "12 Mar 2025",
-    "prize": "$1,225,000",
-    "platform": "Kaggle",
-    "sponsor": "Andy Konwinski",
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
@@ -3683,26 +2588,6 @@
     "isNew": false
   },
   {
-    "name": "Predict College Basketball Results",
-    "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2025?ref=mlcontests",
-    "tags": [
-      "sports",
-      "forecasting",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "10 Feb 2025",
-    "registration-deadline": null,
-    "deadline": "20 Mar 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Kaggle",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Generate Temporally Aligned Audio and Video",
     "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024/problems/temporal-alignment-track?ref=mlcontests",
     "tags": [
@@ -3773,27 +2658,6 @@
     "isNew": false
   },
   {
-    "name": "Generate SVG drawings with LLMs",
-    "url": "https://www.kaggle.com/competitions/drawing-with-llms?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "generative",
-      "vision",
-      "llm",
-      "measurable"
-    ],
-    "launched": "25 Feb 2025",
-    "registration-deadline": "20 May 2025",
-    "deadline": "27 May 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Kaggle",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Program Robots to Navigate Autonomously",
     "url": "https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html#the%20challenge?ref=mlcontests",
     "tags": [
@@ -3851,25 +2715,6 @@
     "isNew": false
   },
   {
-    "name": "Predict RNA Sequence Structure",
-    "url": "https://www.kaggle.com/competitions/stanford-rna-3d-folding?ref=mlcontests",
-    "tags": [
-      "supervised",
-      "science",
-      "regression"
-    ],
-    "launched": "27 Feb 2025",
-    "registration-deadline": "22 May 2025",
-    "deadline": "29 May 2025",
-    "prize": "$75,000",
-    "platform": "Kaggle",
-    "sponsor": "Stanford University",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Identify People From Silhouettes in Videos",
     "url": "https://codalab.lisn.upsaclay.fr/competitions/21845?ref=mlcontests",
     "tags": [
@@ -3893,49 +2738,6 @@
     "isNew": false
   },
   {
-    "name": "Locate Bacterial Flagellar Motors in 3D Tomograms",
-    "url": "https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025?ref=mlcontests",
-    "tags": [
-      "biology",
-      "vision",
-      "science",
-      "object detection",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "5 Mar 2025",
-    "registration-deadline": "28 May 2025",
-    "deadline": "4 Jun 2025",
-    "prize": "$65,000",
-    "platform": "Kaggle",
-    "sponsor": "Brigham Young University",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "BirdCLEF+ 2025: Identify Animal Species From Audio",
-    "url": "https://www.kaggle.com/competitions/birdclef-2025?ref=mlcontests",
-    "tags": [
-      "science",
-      "audio",
-      "classification",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "10 Mar 2025",
-    "registration-deadline": "29 May 2025",
-    "deadline": "5 Jun 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Cornell Lab of Ornithology",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Detect Vacant Land in Satellite Images",
     "url": "https://solafune.com/competitions/5026f2e0-0821-4b02-b09b-78b178482028?menu=about&tab=overview&ref=mlcontests",
     "tags": [
@@ -3952,48 +2754,6 @@
     "prize": "$12,000",
     "platform": "Solafune",
     "sponsor": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "ARC Prize 2025: Abstraction and Reasoning",
-    "url": "https://www.kaggle.com/competitions/arc-prize-2025?ref=mlcontests",
-    "tags": [
-      "reasoning",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "26 Mar 2025",
-    "registration-deadline": "27 Oct 2025",
-    "deadline": "3 Nov 2025",
-    "added": "27 Mar 2025",
-    "prize": "$725,000",
-    "platform": "Kaggle",
-    "sponsor": "ARC Prize Foundation",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Reconstruct 3D Scenes From 2D Image Collections",
-    "url": "https://www.kaggle.com/competitions/image-matching-challenge-2025?ref=mlcontests",
-    "tags": [
-      "computer vision",
-      "supervised",
-      "3d",
-      "clustering",
-      "measurable"
-    ],
-    "launched": "1 Apr 2025",
-    "registration-deadline": "26 May 2025",
-    "deadline": "2 Jun 2025",
-    "added": "3 Apr 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Czech Technical University in Prague",
-    "conference": null,
-    "conference_year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4104,28 +2864,6 @@
     "sponsor": "Waymo",
     "conference": "CVPR",
     "conference-year": 2025,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Geophysical Waveform Inversion",
-    "url": "https://www.kaggle.com/competitions/waveform-inversion?ref=mlcontests",
-    "tags": [
-      "physics",
-      "regression",
-      "supervised",
-      "measurable",
-      "timeseries",
-      "science"
-    ],
-    "launched": "8 Apr 2025",
-    "registration-deadline": "23 Jun 2025",
-    "deadline": "30 Jun 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Yale University",
-    "conference": null,
-    "conference_year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4258,28 +2996,6 @@
     "isNew": false
   },
   {
-    "name": "Use OpenAI Models to Discover Archaeological Sites",
-    "url": "https://www.kaggle.com/competitions/openai-to-z-challenge?ref=mlcontests",
-    "tags": [
-      "subjective",
-      "geo",
-      "vision",
-      "analysis/visualisation",
-      "satellite",
-      "hackathon"
-    ],
-    "launched": "15 May 2025",
-    "registration-deadline": null,
-    "deadline": "29 Jun 2025",
-    "prize": "$200,000",
-    "platform": "Kaggle",
-    "sponsor": "OpenAI",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Edit Formal Maths Proofs Based on Instructions",
     "url": "https://www.codabench.org/competitions/8357/?ref=mlcontests",
     "tags": [
@@ -4347,46 +3063,6 @@
     "isNew": false
   },
   {
-    "name": "Detect Behaviours From Wrist-Worn Sensors",
-    "url": "https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data?ref=mlcontests",
-    "tags": [
-      "healthcare",
-      "timeseries",
-      "measurable",
-      "classification"
-    ],
-    "launched": "30 May 2025",
-    "registration-deadline": "26 Aug 2025",
-    "deadline": "2 Sep 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Child Mind Institute",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Share Insights Based on Meta Kaggle Data",
-    "url": "https://www.kaggle.com/competitions/meta-kaggle-hackathon?ref=mlcontests",
-    "tags": [
-      "tabular",
-      "hackathon",
-      "subjective",
-      "analysis/visualisation"
-    ],
-    "launched": "29 May 2025",
-    "registration-deadline": null,
-    "deadline": "21 Jul 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Kaggle",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Classify Crop Types Using Geospatial Foundation Models",
     "url": "https://zindi.africa/competitions/amini-geofm-decoding-the-field-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
     "tags": [
@@ -4423,28 +3099,6 @@
     "prize": "$1,200",
     "platform": "Zindi",
     "sponsor": "ITU",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict Short-term Crypto Price Movements",
-    "url": "https://www.kaggle.com/competitions/drw-crypto-market-prediction?ref=mlcontests",
-    "tags": [
-      "tabular",
-      "timeseries",
-      "supervised",
-      "finance",
-      "regression",
-      "measurable"
-    ],
-    "launched": "21 May 2025",
-    "registration-deadline": null,
-    "deadline": "25 Jul 2025",
-    "prize": "$25,000",
-    "platform": "Kaggle",
-    "sponsor": "DRW",
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
@@ -4495,26 +3149,6 @@
     "isNew": false
   },
   {
-    "name": "Classify References in Academic Papers",
-    "url": "https://www.kaggle.com/competitions/make-data-count-finding-data-references?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "classification",
-      "analysis",
-      "measurable"
-    ],
-    "launched": "11 Jun 2025",
-    "registration-deadline": "2 Sep 2025",
-    "deadline": "10 Sep 2025",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "Make Data Count",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Extract Useful Data From Scanned Survey Plans",
     "url": "https://zindi.africa/competitions/barbados-lands-and-surveys-plot-automation-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
     "tags": [
@@ -4532,30 +3166,6 @@
     "sponsor": "Lands and Surveys Department, Barbados",
     "conference": null,
     "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict Fundamental Properties of Polymers",
-    "url": "https://www.kaggle.com/competitions/neurips-open-polymer-prediction-2025?ref=mlcontests",
-    "tags": [
-      "chemistry",
-      "science",
-      "measurable",
-      "regression",
-      "supervised"
-    ],
-    "launched": "16 Jun 2025",
-    "registration-deadline": "8 Sep 2025",
-    "deadline": "15 Sep 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "University of Notre Dame",
-    "conference": "NeurIPS",
-    "conference_year": 2025,
-    "additional_urls": [
-      "https://open-polymer-challenge.github.io/"
-    ],
     "source": "ML Contest",
     "isNew": false
   },
@@ -4755,26 +3365,6 @@
     "isNew": false
   },
   {
-    "name": "Gemma 3n Product Hackathon",
-    "url": "https://www.kaggle.com/competitions/google-gemma-3n-hackathon?ref=mlcontests",
-    "tags": [
-      "hackathon",
-      "analysis/visualisation",
-      "subjective",
-      "llm"
-    ],
-    "launched": "26 Jun 2025",
-    "registration-deadline": null,
-    "deadline": "6 Aug 2025",
-    "prize": "$150,000",
-    "platform": "Kaggle",
-    "sponsor": "Google DeepMind",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Data Storytelling Challenge: Infectious Diseases",
     "url": "https://zindi.africa/competitions/adaptation-atlas-data-storytelling-challenge-track-4-infectious-diseases?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
     "tags": [
@@ -4791,50 +3381,6 @@
     "prize": "$1,500",
     "platform": "Zindi",
     "sponsor": "Alliance of Bioversity & CIAT, data.org",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Automate Therapeutic Decision-Making",
-    "url": "https://curebench.ai/?ref=mlcontests",
-    "tags": [
-      "healthcare",
-      "science",
-      "reasoning",
-      "llm"
-    ],
-    "launched": "10 Jul 2025",
-    "registration-deadline": null,
-    "deadline": "10 Sep 2025",
-    "prize": "$10,000",
-    "platform": "Kaggle",
-    "sponsor": "Various",
-    "conference": "NeurIPS",
-    "conference_year": 2025,
-    "additional_urls": [
-      "https://www.kaggle.com/competitions/cure-bench"
-    ],
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Identify Students' Math Misunderstandings",
-    "url": "https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings?ref=mlcontests",
-    "tags": [
-      "education",
-      "nlp",
-      "classification",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "10 Jul 2025",
-    "registration-deadline": "8 Oct 2025",
-    "deadline": "15 Oct 2025",
-    "prize": "$55,000",
-    "platform": "Kaggle",
-    "sponsor": "The Learning Agency Lab",
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
@@ -4989,27 +3535,6 @@
     "isNew": false
   },
   {
-    "name": "Judge Social Media Comments Against Community Rules",
-    "url": "https://www.kaggle.com/competitions/jigsaw-agile-community-rules?ref=mlcontests",
-    "tags": [
-      "classification",
-      "nlp",
-      "english",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "23 Jul 2025",
-    "registration-deadline": "16 Oct 2025",
-    "deadline": "24 Oct 2025",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "Jigsaw/Conversation AI",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Identify Handwritten Words in Historical Records",
     "url": "https://zindi.africa/competitions/barbados-road-historic-handwriting-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
     "tags": [
@@ -5048,94 +3573,6 @@
     "prize": "$1,500",
     "platform": "Zindi",
     "sponsor": "Alliance of Bioversity & CIAT, data.org",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict Commodity Price Movements",
-    "url": "https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge?ref=mlcontests",
-    "tags": [
-      "finance",
-      "regression",
-      "supervised",
-      "timeseries",
-      "forecasting",
-      "measurable"
-    ],
-    "launched": "24 Jul 2025",
-    "registration-deadline": "29 Sep 2025",
-    "deadline": "6 Oct 2025",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "MITSUI & CO., LTD.",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Detect Intracranial Aneurysms in Images",
-    "url": "https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection?ref=mlcontests",
-    "tags": [
-      "medicine",
-      "classification",
-      "vision",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "28 Jul 2025",
-    "registration-deadline": "7 Oct 2025",
-    "deadline": "14 Oct 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Radiological Society of North America",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Solve ARC Problems With Minimal Code",
-    "url": "https://www.kaggle.com/competitions/google-code-golf-2025?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "programming",
-      "generative",
-      "measurable"
-    ],
-    "launched": "31 Jul 2025",
-    "registration-deadline": "23 Oct 2025",
-    "deadline": "30 Oct 2025",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "Google DeepMind",
-    "additional_urls": [
-      "https://sites.google.com/corp/view/neurips-2025-code-golf"
-    ],
-    "conference": "NeurIPS",
-    "conference_year": 2025,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Find Vulnerabilities in OpenAI gpt-oss-20b",
-    "url": "https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming?ref=mlcontests",
-    "tags": [
-      "nlp",
-      "generative",
-      "security",
-      "safety",
-      "hackathon",
-      "subjective"
-    ],
-    "launched": "6 Aug 2025",
-    "registration-deadline": "26 Aug 2025",
-    "deadline": "27 Aug 2025",
-    "prize": "$500,000",
-    "platform": "Kaggle",
-    "sponsor": "OpenAI",
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
@@ -5182,71 +3619,6 @@
     "sponsor": null,
     "conference": "NeurIPS",
     "conference_year": 2025,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Use BigQuery to Solve Data Problems",
-    "url": "https://www.kaggle.com/competitions/bigquery-ai-hackathon?ref=mlcontests",
-    "tags": [
-      "tabular",
-      "nlp",
-      "generative",
-      "hackathon",
-      "subjective",
-      "analysis/visualisation"
-    ],
-    "launched": "12 Aug 2025",
-    "registration-deadline": null,
-    "deadline": "22 Sep 2025",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "Google Cloud",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict Daily Stock Index Returns",
-    "url": "https://www.kaggle.com/competitions/hull-tactical-market-prediction?ref=mlcontests",
-    "tags": [
-      "finance",
-      "tabular",
-      "timeseries",
-      "forecasting",
-      "supervised",
-      "regression"
-    ],
-    "launched": "16 Sep 2025",
-    "registration-deadline": "8 Dec 2025",
-    "deadline": "15 Dec 2025",
-    "prize": "$100,000",
-    "platform": "Kaggle",
-    "sponsor": "Hull Tactical",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Real Estate Demand Prediction",
-    "url": "https://www.kaggle.com/competitions/china-real-estate-demand-prediction?ref=mlcontests",
-    "tags": [
-      "tabular",
-      "regression",
-      "forecasting",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "8 Aug 2025",
-    "registration-deadline": null,
-    "deadline": "22 Oct 2025",
-    "prize": "$10,000",
-    "platform": "Kaggle",
-    "sponsor": null,
-    "conference": null,
-    "conference_year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -5458,70 +3830,6 @@
     "isNew": false
   },
   {
-    "name": "Recognise Behaviours in Videos of Mice",
-    "url": "https://www.kaggle.com/competitions/MABe-mouse-behavior-detection?ref=mlcontests",
-    "tags": [
-      "biology",
-      "timeseries",
-      "vision",
-      "video",
-      "classification",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "18 Sep 2025",
-    "registration-deadline": "8 Dec 2025",
-    "deadline": "15 Dec 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "MABe Challenge",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Analyse NFL Player Movement Data",
-    "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics?ref=mlcontests",
-    "tags": [
-      "analysis/visualisation",
-      "sports",
-      "writing",
-      "subjective"
-    ],
-    "launched": "25 Sep 2025",
-    "registration-deadline": null,
-    "deadline": "17 Dec 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "The NFL",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict NFL Player Movement",
-    "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction?ref=mlcontests",
-    "tags": [
-      "sports",
-      "regression",
-      "measurable",
-      "supervised",
-      "timeseries"
-    ],
-    "launched": "25 Sep 2025",
-    "registration-deadline": "26 Nov 2025",
-    "deadline": "3 Dec 2025",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "The NFL",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
     "name": "Plan Warehouse Inventory to Minimise Cost",
     "url": "https://www.datasource.ai/en/home/data-science-competitions-for-startups/vn2-inventory-planning-challenge/description",
     "tags": [
@@ -5539,28 +3847,6 @@
     "prize": "$21,000",
     "platform": "DataSource.ai",
     "sponsor": "Supchains",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "CAFA 6: Predict Protein Function",
-    "url": "https://www.kaggle.com/competitions/cafa-6-protein-function-prediction?ref=mlcontests",
-    "tags": [
-      "healthcare",
-      "biology",
-      "science",
-      "tabular",
-      "classification",
-      "measurable"
-    ],
-    "launched": "15 Oct 2025",
-    "registration-deadline": "26 Jan 2026",
-    "deadline": "2 Feb 2026",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "Critical Assessment of Functional Annotation",
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
@@ -5597,72 +3883,6 @@
       "https://www.eurocontrol.int/air-navigation-services-performance-review"
     ],
     "added": "15 Oct 2025",
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Extract Timeseries Data from Images of ECG Timeseries",
-    "url": "https://www.kaggle.com/competitions/physionet-ecg-image-digitization?ref=mlcontests",
-    "tags": [
-      "healthcare",
-      "vision",
-      "timeseries",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "21 Oct 2025",
-    "registration-deadline": "15 Jan 2026",
-    "deadline": "22 Jan 2026",
-    "prize": "$50,000",
-    "platform": "Kaggle",
-    "sponsor": "PhysioNet",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Detect Image Forgeries in Biomedical Research",
-    "url": "https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection?ref=mlcontests",
-    "tags": [
-      "science",
-      "biology",
-      "healthcare",
-      "vision",
-      "classification",
-      "supervised",
-      "measurable"
-    ],
-    "launched": "23 Oct 2025",
-    "registration-deadline": "8 Jan 2026",
-    "deadline": "15 Jan 2026",
-    "prize": "$55,000",
-    "platform": "Kaggle",
-    "sponsor": "Recod.AI",
-    "conference": null,
-    "conference_year": null,
-    "source": "ML Contest",
-    "isNew": false
-  },
-  {
-    "name": "Predict Biomass from Images",
-    "url": "https://www.kaggle.com/competitions/csiro-biomass?ref=mlcontests",
-    "tags": [
-      "biology",
-      "vision",
-      "agriculture",
-      "regression",
-      "measurable",
-      "supervised"
-    ],
-    "launched": "28 Oct 2025",
-    "registration-deadline": "21 Jan 2026",
-    "deadline": "28 Jan 2026",
-    "prize": "$75,000",
-    "platform": "Kaggle",
-    "sponsor": "CSIRO",
-    "conference": null,
-    "conference_year": null,
     "source": "ML Contest",
     "isNew": false
   }
