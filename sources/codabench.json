@@ -10,7 +10,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 3",
@@ -1239,7 +1239,7 @@
     "url": "https://www.codabench.org/competitions/9950",
     "tags": [],
     "launched": "2025-08-24T09:00:00Z",
-    "deadline": "2025-11-13T06:00:00Z",
+    "deadline": "2025-11-13T04:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
