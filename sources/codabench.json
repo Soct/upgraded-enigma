@@ -1,5 +1,18 @@
 [
   {
+    "name": "Test1",
+    "url": "https://www.codabench.org/competitions/11453",
+    "tags": [],
+    "launched": "2025-11-12T14:00:00Z",
+    "deadline": "2025-11-12T17:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "2026 SoccerNet Novel View Synthesis Competition - Challenge Phase",
     "url": "https://www.codabench.org/competitions/11339",
     "tags": [],
@@ -1838,19 +1851,6 @@
     "tags": [],
     "launched": "2025-06-15T23:55:00Z",
     "deadline": "2025-09-16T12:00:00Z",
-    "prize": "$2000",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "RoboSense - Track 3",
-    "url": "https://www.codabench.org/competitions/9284",
-    "tags": [],
-    "launched": "2025-06-15T00:05:00Z",
-    "deadline": "2025-09-16T12:05:00Z",
     "prize": "$2000",
     "platform": "Codabench",
     "conference": null,
