@@ -1,5 +1,18 @@
 [
   {
+    "name": "Classify Wheat Seeds",
+    "url": "https://www.codabench.org/competitions/11576",
+    "tags": [],
+    "launched": "2025-11-01T00:00:00Z",
+    "deadline": "2025-12-31T16:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Reto 2: Mejorando el Dataset",
     "url": "https://www.codabench.org/competitions/11550",
     "tags": [],
@@ -10,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Reto 2: Mejorando el Dataset",
@@ -23,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "[Task 2] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
@@ -258,6 +271,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "SemEval-2026 Task 3 - Dimensional Stance Analysis (Track B)",
+    "url": "https://www.codabench.org/competitions/11139",
+    "tags": [],
+    "launched": "2025-09-22T00:00:00Z",
+    "deadline": "2026-01-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "SemEval 2026 Task 6: CLARITY - Subtask 2: Evasion Level",
@@ -719,7 +745,7 @@
     "url": "https://www.codabench.org/competitions/10453",
     "tags": [],
     "launched": "2025-09-10T00:00:00Z",
-    "deadline": "2025-11-11T00:00:00Z",
+    "deadline": "2025-11-14T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1170,76 +1196,11 @@
     "isNew": false
   },
   {
-    "name": "MOSEv2",
-    "url": "https://www.codabench.org/competitions/10062",
-    "tags": [],
-    "launched": "2025-07-31T08:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
     "name": "CIRCO Dataset - Composed Image Retrieval",
     "url": "https://www.codabench.org/competitions/10055",
     "tags": [],
     "launched": "2025-01-01T00:00:00Z",
     "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Benchmark for Label Error Detection Methods in Object Detection",
-    "url": "https://www.codabench.org/competitions/10054",
-    "tags": [],
-    "launched": "2025-08-01T00:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "RANLP 2025 Summer School Competition",
-    "url": "https://www.codabench.org/competitions/10043",
-    "tags": [],
-    "launched": "2025-08-04T10:00:00Z",
-    "deadline": "2025-09-06T23:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "ESDD 2026 Track 2",
-    "url": "https://www.codabench.org/competitions/10015",
-    "tags": [],
-    "launched": "2025-09-01T00:00:00Z",
-    "deadline": "2025-11-26T23:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "ESDD 2026 Track 1",
-    "url": "https://www.codabench.org/competitions/10014",
-    "tags": [],
-    "launched": "2025-09-01T00:00:00Z",
-    "deadline": "2025-11-26T23:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1274,63 +1235,11 @@
     "isNew": false
   },
   {
-    "name": "SemEval 2026 Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays",
-    "url": "https://www.codabench.org/competitions/9963",
-    "tags": [],
-    "launched": "2025-08-08T23:00:00Z",
-    "deadline": "2026-01-09T23:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
     "name": "SICS-155",
     "url": "https://www.codabench.org/competitions/9961",
     "tags": [],
     "launched": "2025-07-01T00:00:00Z",
     "deadline": "2025-08-26T17:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Hebrew Semantic Retrieval National Challenge",
-    "url": "https://www.codabench.org/competitions/9950",
-    "tags": [],
-    "launched": "2025-08-24T09:00:00Z",
-    "deadline": "2025-11-13T10:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "IslamicEval 2025-Subtask 2",
-    "url": "https://www.codabench.org/competitions/9939",
-    "tags": [],
-    "launched": "2025-06-20T00:00:00Z",
-    "deadline": "2025-08-10T11:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Compétition Algorithmique Avancée  CS 3A INFO -- TSP-rd",
-    "url": "https://www.codabench.org/competitions/9896",
-    "tags": [],
-    "launched": "2025-07-26T22:00:00Z",
-    "deadline": "2025-11-11T15:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1812,45 +1721,6 @@
     "tags": [],
     "launched": "2025-06-30T00:00:00Z",
     "deadline": "2025-08-31T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "2025 SKY 산공 학술교류제",
-    "url": "https://www.codabench.org/competitions/9409",
-    "tags": [],
-    "launched": "2025-06-29T15:00:00Z",
-    "deadline": "2025-08-24T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Proyecto del Curso MDS7202 - SodAI",
-    "url": "https://www.codabench.org/competitions/9364",
-    "tags": [],
-    "launched": "2025-07-01T04:00:00Z",
-    "deadline": "2025-07-05T03:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Ultrasound Image Segmentation Challenge",
-    "url": "https://www.codabench.org/competitions/9308",
-    "tags": [],
-    "launched": "2025-06-24T10:00:00Z",
-    "deadline": "2025-07-14T10:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
