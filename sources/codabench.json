@@ -1,5 +1,31 @@
 [
   {
+    "name": "Reto 2: Mejorando el Dataset",
+    "url": "https://www.codabench.org/competitions/11609",
+    "tags": [],
+    "launched": "2025-11-10T00:00:00Z",
+    "deadline": "2025-11-15T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Reto 3: Robustez del modelo",
+    "url": "https://www.codabench.org/competitions/11607",
+    "tags": [],
+    "launched": "2025-11-10T00:00:00Z",
+    "deadline": "2025-12-15T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Classify Wheat Seeds",
     "url": "https://www.codabench.org/competitions/11576",
     "tags": [],
@@ -10,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Reto 2: Mejorando el Dataset",
@@ -76,6 +102,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "Earthquake prediction",
+    "url": "https://www.codabench.org/competitions/11401",
+    "tags": [],
+    "launched": "2025-11-12T20:00:00Z",
+    "deadline": "2025-12-03T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "2026 SoccerNet Novel View Synthesis Competition - Challenge Phase",
@@ -283,7 +322,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 6: CLARITY - Subtask 2: Evasion Level",
@@ -375,6 +414,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "microbELP-NER",
+    "url": "https://www.codabench.org/competitions/10913",
+    "tags": [],
+    "launched": "2025-10-10T16:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "SemEval 2026 Task 6: CLARITY - Subtask 1: Clarity Level",
@@ -1196,6 +1248,19 @@
     "isNew": false
   },
   {
+    "name": "MOSEv2",
+    "url": "https://www.codabench.org/competitions/10062",
+    "tags": [],
+    "launched": "2025-07-31T08:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "CIRCO Dataset - Composed Image Retrieval",
     "url": "https://www.codabench.org/competitions/10055",
     "tags": [],
@@ -1207,6 +1272,58 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "Benchmark for Label Error Detection Methods in Object Detection",
+    "url": "https://www.codabench.org/competitions/10054",
+    "tags": [],
+    "launched": "2025-08-01T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "RANLP 2025 Summer School Competition",
+    "url": "https://www.codabench.org/competitions/10043",
+    "tags": [],
+    "launched": "2025-08-04T10:00:00Z",
+    "deadline": "2025-09-06T23:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ESDD 2026 Track 2",
+    "url": "https://www.codabench.org/competitions/10015",
+    "tags": [],
+    "launched": "2025-09-01T00:00:00Z",
+    "deadline": "2025-11-26T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ESDD 2026 Track 1",
+    "url": "https://www.codabench.org/competitions/10014",
+    "tags": [],
+    "launched": "2025-09-01T00:00:00Z",
+    "deadline": "2025-11-26T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "EEG Foundation Challenge",
@@ -1235,6 +1352,19 @@
     "isNew": false
   },
   {
+    "name": "SemEval 2026 Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays",
+    "url": "https://www.codabench.org/competitions/9963",
+    "tags": [],
+    "launched": "2025-08-08T23:00:00Z",
+    "deadline": "2026-01-09T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "SICS-155",
     "url": "https://www.codabench.org/competitions/9961",
     "tags": [],
@@ -1246,6 +1376,45 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "Hebrew Semantic Retrieval National Challenge",
+    "url": "https://www.codabench.org/competitions/9950",
+    "tags": [],
+    "launched": "2025-08-24T09:00:00Z",
+    "deadline": "2025-11-13T10:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "IslamicEval 2025-Subtask 2",
+    "url": "https://www.codabench.org/competitions/9939",
+    "tags": [],
+    "launched": "2025-06-20T00:00:00Z",
+    "deadline": "2025-08-10T11:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Compétition Algorithmique Avancée  CS 3A INFO -- TSP-rd",
+    "url": "https://www.codabench.org/competitions/9896",
+    "tags": [],
+    "launched": "2025-07-26T22:00:00Z",
+    "deadline": "2025-11-14T19:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "Credit scoring",
@@ -1695,32 +1864,6 @@
     "tags": [],
     "launched": "2025-07-19T00:00:00Z",
     "deadline": "2025-10-31T23:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Challenge Demo",
-    "url": "https://www.codabench.org/competitions/9446",
-    "tags": [],
-    "launched": "2025-06-01T00:00:00Z",
-    "deadline": "2099-12-31T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Efficient Online Continual Visual Instruction Tuning (CVIT) Challenge",
-    "url": "https://www.codabench.org/competitions/9421",
-    "tags": [],
-    "launched": "2025-06-30T00:00:00Z",
-    "deadline": "2025-08-31T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
