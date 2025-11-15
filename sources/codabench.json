@@ -1,5 +1,18 @@
 [
   {
+    "name": "Reto 2: Mejorando el Dataset (testing)",
+    "url": "https://www.codabench.org/competitions/11653",
+    "tags": [],
+    "launched": "2025-11-10T00:00:00Z",
+    "deadline": "2025-11-15T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "IACV 25 - Exercise 4",
     "url": "https://www.codabench.org/competitions/11639",
     "tags": [],
@@ -10,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ETHZ CVAIAC 2025 Exercise 2: 3D Object Detection from LiDAR Point Clouds",
@@ -23,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WELDING QUALITY DETECTION BENCHMARK",
@@ -31,32 +44,6 @@
     "tags": [],
     "launched": "2025-11-13T08:00:00Z",
     "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
-  },
-  {
-    "name": "Reto 2: Mejorando el Dataset",
-    "url": "https://www.codabench.org/competitions/11609",
-    "tags": [],
-    "launched": "2025-11-10T00:00:00Z",
-    "deadline": "2025-11-15T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Reto 3: Robustez del modelo",
-    "url": "https://www.codabench.org/competitions/11607",
-    "tags": [],
-    "launched": "2025-11-10T00:00:00Z",
-    "deadline": "2025-12-15T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -75,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Classify Wheat Seeds",
@@ -83,32 +70,6 @@
     "tags": [],
     "launched": "2025-11-01T00:00:00Z",
     "deadline": "2025-12-31T16:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Reto 2: Mejorando el Dataset",
-    "url": "https://www.codabench.org/competitions/11550",
-    "tags": [],
-    "launched": "2025-11-10T00:00:00Z",
-    "deadline": "2025-12-15T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Reto 2: Mejorando el Dataset",
-    "url": "https://www.codabench.org/competitions/11549",
-    "tags": [],
-    "launched": "2025-11-10T00:00:00Z",
-    "deadline": "2025-11-15T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1460,7 +1421,7 @@
     "url": "https://www.codabench.org/competitions/9896",
     "tags": [],
     "launched": "2025-07-26T22:00:00Z",
-    "deadline": "2025-11-14T19:00:00Z",
+    "deadline": "2025-11-15T14:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1870,5 +1831,44 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "FAME'26 Grand Challenge",
+    "url": "https://www.codabench.org/competitions/9467",
+    "tags": [],
+    "launched": "2025-04-12T22:00:00Z",
+    "deadline": "2027-03-31T12:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PACE)",
+    "url": "https://www.codabench.org/competitions/9463",
+    "tags": [],
+    "launched": "2025-07-08T06:00:00Z",
+    "deadline": "2025-08-21T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Mouse vs AI: Robust Visual Foraging Challenge",
+    "url": "https://www.codabench.org/competitions/9453",
+    "tags": [],
+    "launched": "2025-07-01T00:00:00Z",
+    "deadline": "2025-11-16T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   }
 ]
