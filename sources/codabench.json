@@ -1,5 +1,18 @@
 [
   {
+    "name": "SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts",
+    "url": "https://www.codabench.org/competitions/11661",
+    "tags": [],
+    "launched": "2025-11-07T21:00:00Z",
+    "deadline": "2025-12-15T20:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Reto 2: Mejorando el Dataset (testing)",
     "url": "https://www.codabench.org/competitions/11653",
     "tags": [],
@@ -10,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 4",
@@ -81,7 +94,7 @@
     "name": "[Task 2] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
     "url": "https://www.codabench.org/competitions/11471",
     "tags": [],
-    "launched": "2025-11-17T00:00:00Z",
+    "launched": "2025-11-24T00:00:00Z",
     "deadline": "2026-01-27T01:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -94,7 +107,7 @@
     "name": "[Task 1] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
     "url": "https://www.codabench.org/competitions/11470",
     "tags": [],
-    "launched": "2025-11-17T00:00:00Z",
+    "launched": "2025-11-24T00:00:00Z",
     "deadline": "2026-01-27T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -1421,7 +1434,7 @@
     "url": "https://www.codabench.org/competitions/9896",
     "tags": [],
     "launched": "2025-07-26T22:00:00Z",
-    "deadline": "2025-11-15T14:00:00Z",
+    "deadline": "2025-11-15T23:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1843,7 +1856,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PRECISE-Africa Breast Ultrasound Segmentation and Classification Challenge (PACE)",
@@ -1856,19 +1869,6 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
-  },
-  {
-    "name": "Mouse vs AI: Robust Visual Foraging Challenge",
-    "url": "https://www.codabench.org/competitions/9453",
-    "tags": [],
-    "launched": "2025-07-01T00:00:00Z",
-    "deadline": "2025-11-16T23:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
+    "isNew": false
   }
 ]
