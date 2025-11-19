@@ -3426,7 +3426,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Improve Benchmarks for Early Training in LLMs",
@@ -3801,7 +3801,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Detecting Energy Flexibility in Buildings",
