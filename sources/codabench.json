@@ -1,5 +1,31 @@
 [
   {
+    "name": "DeSegMaIT",
+    "url": "https://www.codabench.org/competitions/11705",
+    "tags": [],
+    "launched": "2025-11-09T00:00:00Z",
+    "deadline": "2025-12-01T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "DL2025@HSA Shared Task 3 - The Mini9 v2",
+    "url": "https://www.codabench.org/competitions/11698",
+    "tags": [],
+    "launched": "2025-11-15T23:00:00Z",
+    "deadline": "2025-12-08T22:59:59Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Laboratorio 3: Indexación de trayectorias",
     "url": "https://www.codabench.org/competitions/11674",
     "tags": [],
@@ -11,19 +37,6 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
-  },
-  {
-    "name": "DL2025@HSA Shared Task 3 - The Mini9",
-    "url": "https://www.codabench.org/competitions/11673",
-    "tags": [],
-    "launched": "2025-11-18T00:05:00Z",
-    "deadline": "2025-12-08T22:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
   },
   {
     "name": "Join JNUAI.",
@@ -88,7 +101,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ETHZ CVAIAC 2025 Exercise 2: 3D Object Detection from LiDAR Point Clouds",
@@ -221,6 +234,19 @@
     "isNew": false
   },
   {
+    "name": "Gender Inclusive Language Generation - LT-EDI@ACL 2026",
+    "url": "https://www.codabench.org/competitions/11336",
+    "tags": [],
+    "launched": "2025-11-16T00:00:00Z",
+    "deadline": "2026-07-03T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Homophobia and Transphobia Meme Classification - LT-EDI@ACL 2026",
     "url": "https://www.codabench.org/competitions/11335",
     "tags": [],
@@ -231,7 +257,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Counter Narrative Generation on Homophobic and Transphobic Comments - LT-EDI@ACL 2026",
@@ -257,7 +283,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Prompt Recovery for LLM in Telugu - DravidianLangTech@ACL 2026",
@@ -270,7 +296,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Political Multiclass Sentiment Analysis of Tamil X (Twitter) - DravidianLangTech@ACL 2026",
@@ -283,7 +309,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Abusive Tamil Text  Targeting Women on Social Media - DravidianLangTech@ACL 2026",
@@ -419,8 +445,8 @@
     "name": "赛题一：预训练LLM4PG赋能的智能车射频地图构建",
     "url": "https://www.codabench.org/competitions/11192",
     "tags": [],
-    "launched": "2025-10-29T16:00:00Z",
-    "deadline": "2025-12-30T16:00:00Z",
+    "launched": "2025-10-29T08:00:00Z",
+    "deadline": "2025-12-30T08:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1076,7 +1102,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TaskA: Sinhala Language",
@@ -1089,7 +1115,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "UvA Information Retrieval Project",
@@ -1102,7 +1128,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Video-TT Challenge",
@@ -1115,7 +1141,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "JUST-NLP 2025 - Shared Task on Legal Machine Translation",
@@ -1128,7 +1154,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "JUST-NLP 2025 - Shared Task on Legal Summarization",
@@ -1141,7 +1167,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Complex VOS (MOSEv2) Track of the 7th LSVOS Challenge",
@@ -1154,7 +1180,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "RoboSense  - Track 4 - II",
@@ -1167,7 +1193,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTU CE7454 CelebAMask Face Parsing Project",
@@ -1180,7 +1206,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures",
@@ -1193,7 +1219,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 4: Narrative Similarity",
@@ -1206,7 +1232,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Segmentación de Lunares (F1)",
@@ -1219,7 +1245,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AssetOpsBench",
@@ -1232,7 +1258,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "HCMC AI Challenge 2025 (Group B)",
@@ -1245,7 +1271,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "HCMC AI Challenge 2025 (Group A)",
@@ -1258,7 +1284,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PWS CUP 2025",
@@ -1271,7 +1297,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 Spiideo SoccerNet SynLoc - Challenge",
@@ -1456,6 +1482,84 @@
     "isNew": false
   },
   {
+    "name": "RANLP 2025 Summer School Competition",
+    "url": "https://www.codabench.org/competitions/10043",
+    "tags": [],
+    "launched": "2025-08-04T10:00:00Z",
+    "deadline": "2025-09-06T23:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ESDD 2026 Track 2",
+    "url": "https://www.codabench.org/competitions/10015",
+    "tags": [],
+    "launched": "2025-09-01T00:00:00Z",
+    "deadline": "2025-11-26T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ESDD 2026 Track 1",
+    "url": "https://www.codabench.org/competitions/10014",
+    "tags": [],
+    "launched": "2025-09-01T00:00:00Z",
+    "deadline": "2025-11-26T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "EEG Foundation Challenge",
+    "url": "https://www.codabench.org/competitions/9975",
+    "tags": [],
+    "launched": "2025-08-27T16:00:00Z",
+    "deadline": "2025-11-03T12:00:00Z",
+    "prize": "$8,500 USD Prize Pool",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "LiDAR-4D Radar Fusion for Cooperative 3D Object Detection",
+    "url": "https://www.codabench.org/competitions/9974",
+    "tags": [],
+    "launched": "2024-12-20T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "SemEval 2026 Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays",
+    "url": "https://www.codabench.org/competitions/9963",
+    "tags": [],
+    "launched": "2025-08-08T23:00:00Z",
+    "deadline": "2026-01-09T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "SICS-155",
     "url": "https://www.codabench.org/competitions/9961",
     "tags": [],
@@ -1467,6 +1571,58 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "Hebrew Semantic Retrieval National Challenge",
+    "url": "https://www.codabench.org/competitions/9950",
+    "tags": [],
+    "launched": "2025-08-24T09:00:00Z",
+    "deadline": "2025-11-13T10:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "IslamicEval 2025-Subtask 2",
+    "url": "https://www.codabench.org/competitions/9939",
+    "tags": [],
+    "launched": "2025-06-20T00:00:00Z",
+    "deadline": "2025-08-10T11:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Compétition Algorithmique Avancée  CS 3A INFO -- TSP-rd",
+    "url": "https://www.codabench.org/competitions/9896",
+    "tags": [],
+    "launched": "2025-07-26T22:00:00Z",
+    "deadline": "2025-11-17T23:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Credit scoring",
+    "url": "https://www.codabench.org/competitions/9892",
+    "tags": [],
+    "launched": "2025-07-27T00:00:00Z",
+    "deadline": "2025-08-13T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "Beyond Strong Baseline: Multi-UAV Tracking Competition ₊˚⊹",
@@ -1708,32 +1864,6 @@
     "tags": [],
     "launched": "2025-07-12T00:00:00Z",
     "deadline": "2025-07-20T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Inventory Control Problem",
-    "url": "https://www.codabench.org/competitions/9675",
-    "tags": [],
-    "launched": "2025-07-18T05:30:00Z",
-    "deadline": "2025-08-04T18:29:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "IROS 2025 EvSLAM Challenge",
-    "url": "https://www.codabench.org/competitions/9564",
-    "tags": [],
-    "launched": "2025-06-25T00:00:00Z",
-    "deadline": "2026-01-30T08:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
