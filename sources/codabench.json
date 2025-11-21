@@ -1,5 +1,18 @@
 [
   {
+    "name": "IACV 25 - Exercise 5",
+    "url": "https://www.codabench.org/competitions/11709",
+    "tags": [],
+    "launched": "2025-10-01T00:00:00Z",
+    "deadline": "2026-01-01T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "DeSegMaIT",
     "url": "https://www.codabench.org/competitions/11705",
     "tags": [],
@@ -10,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DL2025@HSA Shared Task 3 - The Mini9 v2",
@@ -23,14 +36,14 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Laboratorio 3: Indexación de trayectorias",
     "url": "https://www.codabench.org/competitions/11674",
     "tags": [],
     "launched": "2025-11-13T00:00:00Z",
-    "deadline": "2025-11-20T23:55:00Z",
+    "deadline": "2025-11-21T23:55:00Z",
     "prize": "20 para el primer puesto",
     "platform": "Codabench",
     "conference": null,
@@ -156,11 +169,24 @@
     "isNew": false
   },
   {
+    "name": "Foundation Model Challenge for Ultrasound Image Analysis(FMC_UIA)",
+    "url": "https://www.codabench.org/competitions/11539",
+    "tags": [],
+    "launched": "2025-11-17T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "[Task 2] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
     "url": "https://www.codabench.org/competitions/11471",
     "tags": [],
-    "launched": "2025-11-24T00:00:00Z",
-    "deadline": "2026-01-27T01:00:00Z",
+    "launched": "2025-11-21T01:00:00Z",
+    "deadline": "2026-01-27T06:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -172,7 +198,7 @@
     "name": "[Task 1] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
     "url": "https://www.codabench.org/competitions/11470",
     "tags": [],
-    "launched": "2025-11-24T00:00:00Z",
+    "launched": "2025-11-20T00:00:00Z",
     "deadline": "2026-01-27T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -244,7 +270,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Homophobia and Transphobia Meme Classification - LT-EDI@ACL 2026",
@@ -277,7 +303,7 @@
     "url": "https://www.codabench.org/competitions/11331",
     "tags": [],
     "launched": "2025-01-01T00:00:00Z",
-    "deadline": "2025-12-31T00:00:00Z",
+    "deadline": "2026-07-03T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -290,7 +316,7 @@
     "url": "https://www.codabench.org/competitions/11329",
     "tags": [],
     "launched": "2025-01-01T00:00:00Z",
-    "deadline": "2025-12-31T00:00:00Z",
+    "deadline": "2026-07-03T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1492,7 +1518,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ESDD 2026 Track 2",
@@ -1505,7 +1531,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ESDD 2026 Track 1",
@@ -1518,7 +1544,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "EEG Foundation Challenge",
@@ -1531,7 +1557,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "LiDAR-4D Radar Fusion for Cooperative 3D Object Detection",
@@ -1544,7 +1570,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays",
@@ -1557,7 +1583,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SICS-155",
@@ -1583,7 +1609,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IslamicEval 2025-Subtask 2",
@@ -1596,7 +1622,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Compétition Algorithmique Avancée  CS 3A INFO -- TSP-rd",
@@ -1609,7 +1635,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Credit scoring",
@@ -1622,7 +1648,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Beyond Strong Baseline: Multi-UAV Tracking Competition ₊˚⊹",
