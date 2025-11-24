@@ -10,7 +10,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 5",
@@ -23,20 +23,20 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DeSegMaIT",
     "url": "https://www.codabench.org/competitions/11705",
     "tags": [],
     "launched": "2025-11-09T00:00:00Z",
-    "deadline": "2025-12-01T00:00:00Z",
+    "deadline": "2025-12-01T22:55:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DL2025@HSA Shared Task 3 - The Mini9 v2",
@@ -49,7 +49,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Laboratorio 3: Indexación de trayectorias",
@@ -62,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Join JNUAI.",
@@ -75,7 +75,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts",
@@ -88,7 +88,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Reto 2: Mejorando el Dataset (testing)",
@@ -101,7 +101,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 4",
@@ -114,7 +114,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Dialect based speech recognition and classification in Tamil - DravidianLangTech@ACL 2026",
@@ -127,7 +127,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ETHZ CVAIAC 2025 Exercise 2: 3D Object Detection from LiDAR Point Clouds",
@@ -140,7 +140,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WELDING QUALITY DETECTION BENCHMARK",
@@ -153,7 +153,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "microbELP-NER+EL",
@@ -166,7 +166,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Classify Wheat Seeds",
@@ -179,7 +179,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Foundation Model Challenge for Ultrasound Image Analysis(FMC_UIA)",
@@ -192,7 +192,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "[Task 2] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
@@ -205,7 +205,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "[Task 1] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
@@ -218,7 +218,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Test1",
@@ -231,7 +231,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Earthquake prediction",
@@ -244,7 +244,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 SoccerNet Novel View Synthesis Competition - Challenge Phase",
@@ -257,7 +257,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 3",
@@ -270,7 +270,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Gender Inclusive Language Generation - LT-EDI@ACL 2026",
@@ -283,7 +283,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Homophobia and Transphobia Meme Classification - LT-EDI@ACL 2026",
@@ -296,7 +296,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Counter Narrative Generation on Homophobic and Transphobic Comments - LT-EDI@ACL 2026",
@@ -309,7 +309,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Depression Detection from Malayalam and Tamil Speech Data - DravidianLangTech@ACL 2026",
@@ -322,7 +322,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Prompt Recovery for LLM in Telugu - DravidianLangTech@ACL 2026",
@@ -335,7 +335,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Hope Speech Detection - DravidianLangTech@ACL 2026",
@@ -348,7 +348,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Political Multiclass Sentiment Analysis of Tamil X (Twitter) - DravidianLangTech@ACL 2026",
@@ -361,7 +361,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Abusive Tamil Text  Targeting Women on Social Media - DravidianLangTech@ACL 2026",
@@ -374,7 +374,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Multi Level Political Meme Classification - DravidianLangTech@ACL 2026",
@@ -387,7 +387,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CVPR Workshop26 EgoCross",
@@ -400,7 +400,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "INFO 557 Fall 2025",
@@ -413,7 +413,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TEST",
@@ -426,7 +426,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 SoccerNet Player-Centric Ball Action Spotting - Validation Phase",
@@ -439,7 +439,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "赛题四：自动驾驶场景的交通事故风险预测",
@@ -452,7 +452,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CMU 18734 17731 - Course Project",
@@ -465,7 +465,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 SoccerNet Player-Centric Ball Action Spotting - Challenge Phase",
@@ -478,7 +478,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "赛题三：无线基座模型WiFo赋能的多模态信息智能车定位",
@@ -491,7 +491,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "赛题一：预训练LLM4PG赋能的智能车射频地图构建",
@@ -504,7 +504,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Anti-BAD Challenge - IEEE SaTML 2026",
@@ -517,7 +517,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DL2025@HSA Shared Task 2 - Temperature Prediction",
@@ -530,7 +530,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "赛题二：无线基座模型WiFo赋能的多模态感知辅助智能车射频链路预测",
@@ -543,7 +543,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AI-ccelerating Unit Commitment",
@@ -556,7 +556,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval-2026 Task 3 - Dimensional Stance Analysis (Track B)",
@@ -569,7 +569,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 6: CLARITY - Subtask 2: Evasion Level",
@@ -582,7 +582,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 2",
@@ -595,7 +595,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 Soccernet Challenge - VQA  (Challenge)",
@@ -608,7 +608,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 Soccernet Challenge - VQA  (Test)",
@@ -621,7 +621,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Robust Thermal-Image Object Detection Challenge",
@@ -634,7 +634,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ETHZ CVAIAC 2025 Exercise 1: Dense Predictions from Single Image",
@@ -647,7 +647,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval-2026 Task 3 - Dimensional Aspect-Based Sentiment Analysis (Track A)",
@@ -660,7 +660,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "microbELP-NER",
@@ -673,7 +673,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 6: CLARITY - Subtask 1: Clarity Level",
@@ -686,7 +686,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 5 - Rating Plausibility of Word Senses in Ambiguous Stories through Narrative Understanding",
@@ -699,20 +699,20 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PROMID 2025 - Misinformation Detection in Social Media Texts @ FIRE 2025",
     "url": "https://www.codabench.org/competitions/10869",
     "tags": [],
     "launched": "2025-10-05T22:00:00Z",
-    "deadline": "2025-11-22T12:59:00Z",
+    "deadline": "2025-11-24T12:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 SoccerNet Ball Action Anticipation Competition - Challenge Phase",
@@ -725,7 +725,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "INFO 511 Fall 2025 - Healthcare Equity Explorer",
@@ -738,7 +738,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 SoccerNet Ball Action Anticipation Competition - Test Phase",
@@ -751,7 +751,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DL2025@HSA Shared Task 1 - Solar Panel Type Classification",
@@ -764,7 +764,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ML for Physics - UIBK W25",
@@ -777,7 +777,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "GutBrainIE - Mention-level Relation Extraction (M-RE) Task",
@@ -790,7 +790,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "GutBrainIE - Named Entity Linking (NEL) Task",
@@ -803,7 +803,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "GutBrainIE - Named Entity Recognition (NER) Task",
@@ -816,7 +816,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CS701 Course Project 2025",
@@ -829,7 +829,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Shared Task: Mozilla Common Voice Spontaneous Speech ASR",
@@ -842,7 +842,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predicting Coastal Flooding Events - Scientific Out-of-Distribution Challenge",
@@ -855,7 +855,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 10 PsyCoMark — Subtask 1: Conspiracy Marker Extraction",
@@ -868,7 +868,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 10 PsyCoMark  — Subtask 2: Conspiracy Detection",
@@ -881,7 +881,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "STP Open Challenge",
@@ -894,7 +894,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 9 - Subtask 3: Multilingual Text Classification Challenge - Manifestation Identification",
@@ -907,7 +907,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 9 - Subtask 2: Multilingual Text Classification Challenge - Polarization Type Classification",
@@ -920,7 +920,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Object Detection Assignment 2025-2026",
@@ -933,7 +933,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Image Recognition Assignment 2025-2026",
@@ -946,7 +946,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "FinSurvival Challenge - Advancing Survival Modeling for Financial Transactions",
@@ -959,7 +959,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "1st Workshop on Category-Level Object Pose Estimation for Robotic Manipulation (WCLOP 2025) - Phase 2",
@@ -972,7 +972,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 1",
@@ -985,7 +985,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Shared Task on Patient-Centric Question Answering",
@@ -998,7 +998,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Machine Translation Challenge! CS-779",
@@ -1011,7 +1011,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 9 - Subtask 1: Multilingual Text Classification Challenge - Polarization Detection",
@@ -1024,7 +1024,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PWS CUP 2025 CLONE",
@@ -1037,7 +1037,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Data-Centric Land Cover Classification Challenge",
@@ -1050,7 +1050,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "test",
@@ -1063,7 +1063,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TaskA-English Language-Eval",
@@ -1076,7 +1076,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TaskB- English Language-eval",
@@ -1089,7 +1089,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Task B- sinhala language",
@@ -1102,7 +1102,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TaskB-Portuguse",
@@ -1115,7 +1115,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TaskA- German Language",
@@ -1128,7 +1128,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TaskA: Portuguse Language",
@@ -1141,7 +1141,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TaskA: Greek Language",
@@ -1154,7 +1154,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TaskA: Sinhala Language",
@@ -1167,7 +1167,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "UvA Information Retrieval Project",
@@ -1180,7 +1180,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Video-TT Challenge",
@@ -1193,7 +1193,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "JUST-NLP 2025 - Shared Task on Legal Machine Translation",
@@ -1206,7 +1206,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "JUST-NLP 2025 - Shared Task on Legal Summarization",
@@ -1219,7 +1219,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Complex VOS (MOSEv2) Track of the 7th LSVOS Challenge",
@@ -1232,7 +1232,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "RoboSense  - Track 4 - II",
@@ -1245,7 +1245,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTU CE7454 CelebAMask Face Parsing Project",
@@ -1258,7 +1258,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 7: Everyday Knowledge Across Diverse Languages and Cultures",
@@ -1271,7 +1271,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 4: Narrative Similarity",
@@ -1284,7 +1284,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Segmentación de Lunares (F1)",
@@ -1297,7 +1297,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AssetOpsBench",
@@ -1310,7 +1310,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "HCMC AI Challenge 2025 (Group B)",
@@ -1323,7 +1323,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "HCMC AI Challenge 2025 (Group A)",
@@ -1336,7 +1336,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PWS CUP 2025",
@@ -1349,7 +1349,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 Spiideo SoccerNet SynLoc - Challenge",
@@ -1362,7 +1362,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Sub-task B: Token-level Offensive Language Detection",
@@ -1375,7 +1375,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "UIT-DSC 2025: UIT Data Science Challenge",
@@ -1388,7 +1388,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WSLP 2025 Shared Task - ISL Word/Gloss Recognition",
@@ -1401,7 +1401,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 Spiideo SoccerNet SynLoc - Test",
@@ -1414,7 +1414,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IndoML 2025 Datathon Tack-2: Providing Guidance",
@@ -1427,7 +1427,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WSLP 2025 Shared Task ISL to English Translation",
@@ -1440,7 +1440,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "BLP25 Task 2: Code Generation in Bangla",
@@ -1453,7 +1453,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "COMP34711_CW1  Distributional semantics",
@@ -1466,7 +1466,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WSLP 2025 Shared Task - ISL Word Presence Prediction",
@@ -1479,7 +1479,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2025 ICCV CLVL - Long Video Understanding Challenge (InfiniBench)",
@@ -1492,7 +1492,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "MOSEv2",
@@ -1505,7 +1505,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CIRCO Dataset - Composed Image Retrieval",
@@ -1518,7 +1518,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Benchmark for Label Error Detection Methods in Object Detection",
@@ -1531,7 +1531,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "RANLP 2025 Summer School Competition",
@@ -1544,7 +1544,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ESDD 2026 Track 2",
@@ -1557,7 +1557,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ESDD 2026 Track 1",
@@ -1570,7 +1570,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "EEG Foundation Challenge",
@@ -1583,7 +1583,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "LiDAR-4D Radar Fusion for Cooperative 3D Object Detection",
@@ -1596,7 +1596,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays",
@@ -1609,7 +1609,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SICS-155",
@@ -1622,7 +1622,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Hebrew Semantic Retrieval National Challenge",
@@ -1635,7 +1635,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IslamicEval 2025-Subtask 2",
@@ -1648,7 +1648,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Compétition Algorithmique Avancée  CS 3A INFO -- TSP-rd",
@@ -1661,7 +1661,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Credit scoring",
@@ -1674,7 +1674,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Beyond Strong Baseline: Multi-UAV Tracking Competition ₊˚⊹",
@@ -1687,7 +1687,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Beetles Scientific-Mood ML Challenge",
@@ -1700,7 +1700,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2025 ICCV CLVL - 3D Vision and Language Challenge",
@@ -1713,7 +1713,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IslamicEval 2025-Subtask 1C",
@@ -1726,7 +1726,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IslamicEval 2025-Subtask 1B",
@@ -1739,7 +1739,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IslamicEval 2025-Subtask 1A",
@@ -1752,7 +1752,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NSF HDR Scientific Modeling out of distribution: Neural Forecasting",
@@ -1765,7 +1765,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Machine Translation Challenge! E-Masters",
@@ -1778,7 +1778,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WMT 2025 Evaluation Shared Task 1 -- Segment Level",
@@ -1791,7 +1791,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "VLSP 2025 - VSASV",
@@ -1804,7 +1804,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "MOTChallenge-25",
@@ -1817,7 +1817,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "1st Workshop on Category-Level Object Pose Estimation for Robotic Manipulation (WCLOP 2025)",
@@ -1830,7 +1830,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IUGC 2025 Test 335-501images",
@@ -1843,7 +1843,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IUGC 2025 Test 168-334images",
@@ -1856,7 +1856,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IUGC 2025 Test 1-167images",
@@ -1869,7 +1869,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AI-Powered Metalens Imaging and Restoration Challenging",
@@ -1882,7 +1882,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "VLSP2025 DRiLL shared task",
@@ -1895,6 +1895,6 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   }
 ]
