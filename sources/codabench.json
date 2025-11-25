@@ -156,6 +156,19 @@
     "isNew": false
   },
   {
+    "name": "Behind the Secrets of Large Language Models",
+    "url": "https://www.codabench.org/competitions/11605",
+    "tags": [],
+    "launched": "2025-11-30T23:00:00Z",
+    "deadline": "2026-01-31T22:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "microbELP-NER+EL",
     "url": "https://www.codabench.org/competitions/11581",
     "tags": [],
@@ -1878,19 +1891,6 @@
     "launched": "2025-09-13T08:00:00Z",
     "deadline": "2025-11-09T18:00:00Z",
     "prize": "SGD1000 for top winner",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "VLSP2025 DRiLL shared task",
-    "url": "https://www.codabench.org/competitions/9722",
-    "tags": [],
-    "launched": "2025-07-14T17:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
