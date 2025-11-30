@@ -1,5 +1,31 @@
 [
   {
+    "name": "Swin CIFAR-10 Image Classification Challenge",
+    "url": "https://www.codabench.org/competitions/11933",
+    "tags": [],
+    "launched": "2025-11-29T20:00:00Z",
+    "deadline": "2025-12-07T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ARHAHA 2026 :  Arabic Humor Automatic Generation Shared Task",
+    "url": "https://www.codabench.org/competitions/11927",
+    "tags": [],
+    "launched": "2025-12-15T00:00:00Z",
+    "deadline": "2026-02-09T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "CT-DEB'26",
     "url": "https://www.codabench.org/competitions/11891",
     "tags": [],
@@ -10,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Tatar Text Detoxification",
@@ -23,7 +49,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "KSAA-2026 Shared Task on Arabic Speech Dictation with Automatic Diacritization",
@@ -361,7 +387,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Earthquake prediction",
@@ -965,8 +991,8 @@
     "name": "Shared Task: Mozilla Common Voice Spontaneous Speech ASR",
     "url": "https://www.codabench.org/competitions/10820",
     "tags": [],
-    "launched": "2025-12-01T00:00:00Z",
-    "deadline": "2025-12-07T00:00:00Z",
+    "launched": "2025-11-29T00:00:00Z",
+    "deadline": "2025-12-08T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1865,32 +1891,6 @@
     "launched": "2025-06-20T00:00:00Z",
     "deadline": "2025-08-10T12:00:00Z",
     "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "IslamicEval 2025-Subtask 1A",
-    "url": "https://www.codabench.org/competitions/9820",
-    "tags": [],
-    "launched": "2025-06-20T00:00:00Z",
-    "deadline": "2025-08-13T12:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "NSF HDR Scientific Modeling out of distribution: Neural Forecasting",
-    "url": "https://www.codabench.org/competitions/9806",
-    "tags": [],
-    "launched": "2025-09-17T21:00:00Z",
-    "deadline": "2026-02-02T22:00:00Z",
-    "prize": "$4000",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
