@@ -10,7 +10,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ARHAHA 2026 :  Arabic Humor Automatic Generation Shared Task",
@@ -23,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CT-DEB'26",
@@ -43,7 +43,7 @@
     "url": "https://www.codabench.org/competitions/11881",
     "tags": [],
     "launched": "2025-11-29T07:00:00Z",
-    "deadline": "2025-11-30T19:00:00Z",
+    "deadline": "2025-11-30T20:10:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -185,8 +185,8 @@
     "name": "Laboratorio 3: Indexación de trayectorias",
     "url": "https://www.codabench.org/competitions/11674",
     "tags": [],
-    "launched": "2025-11-13T00:00:00Z",
-    "deadline": "2025-11-21T23:55:00Z",
+    "launched": "2025-11-13T05:00:00Z",
+    "deadline": "2025-11-22T04:55:00Z",
     "prize": "20 para el primer puesto",
     "platform": "Codabench",
     "conference": null,
