@@ -1,5 +1,31 @@
 [
   {
+    "name": "PARSEME 2.0 Multilingual Shared Task on Identification and Paraphrasing of Multiword Expressions - subtask 1 on MWE identification",
+    "url": "https://www.codabench.org/competitions/12003",
+    "tags": [],
+    "launched": "2025-12-02T22:01:00Z",
+    "deadline": "2025-12-09T12:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "PARSEME 2.0 Multilingual Shared Task on Identification and Paraphrasing of Multiword Expressions - subtask 2 on MWE paraphrasing",
+    "url": "https://www.codabench.org/competitions/12002",
+    "tags": [],
+    "launched": "2025-12-02T22:01:00Z",
+    "deadline": "2025-12-09T12:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Swin CIFAR-10 Image Classification Challenge",
     "url": "https://www.codabench.org/competitions/11933",
     "tags": [],
@@ -23,7 +49,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 11 - Subtask 3: Disentangling Content and Formal Reasoning in Language Models",
@@ -36,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 11 - Subtask 2: Disentangling Content and Formal Reasoning in Language Models",
@@ -49,7 +75,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 11 - Subtask 1: Disentangling Content and Formal Reasoning in Language Models",
@@ -62,7 +88,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ARHAHA 2026 :  Arabic Humor Automatic Generation Shared Task",
@@ -107,14 +133,14 @@
     "name": "DLCV Fall 2025 Final Project Challenge 2 - Layer Decomposition (PicCollage)",
     "url": "https://www.codabench.org/competitions/11868",
     "tags": [],
-    "launched": "2025-11-26T00:00:00Z",
+    "launched": "2025-12-03T00:00:00Z",
     "deadline": "2025-12-22T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "KSAA-2026 Shared Task on Arabic Speech Dictation with Automatic Diacritization",
@@ -185,7 +211,7 @@
     "name": "DLCV Fall 2025 Final Project Challenge 1 - Warehouse Spatial Intelligence",
     "url": "https://www.codabench.org/competitions/11784",
     "tags": [],
-    "launched": "2025-11-26T00:00:00Z",
+    "launched": "2025-12-03T00:00:00Z",
     "deadline": "2025-12-22T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -784,7 +810,7 @@
     "url": "https://www.codabench.org/competitions/11139",
     "tags": [],
     "launched": "2025-09-22T00:00:00Z",
-    "deadline": "2026-01-31T00:00:00Z",
+    "deadline": "2026-01-30T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -875,7 +901,7 @@
     "url": "https://www.codabench.org/competitions/10918",
     "tags": [],
     "launched": "2025-09-22T00:00:00Z",
-    "deadline": "2026-01-31T00:00:00Z",
+    "deadline": "2026-01-30T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1864,32 +1890,6 @@
     "tags": [],
     "launched": "2025-06-20T00:00:00Z",
     "deadline": "2025-08-10T11:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Compétition Algorithmique Avancée  CS 3A INFO -- TSP-rd",
-    "url": "https://www.codabench.org/competitions/9896",
-    "tags": [],
-    "launched": "2025-07-26T22:00:00Z",
-    "deadline": "2025-11-17T23:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Credit scoring",
-    "url": "https://www.codabench.org/competitions/9892",
-    "tags": [],
-    "launched": "2025-07-27T00:00:00Z",
-    "deadline": "2025-08-13T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
