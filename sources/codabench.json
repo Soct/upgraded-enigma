@@ -1,5 +1,31 @@
 [
   {
+    "name": "Automated Expense Categorization",
+    "url": "https://www.codabench.org/competitions/12024",
+    "tags": [],
+    "launched": "2025-12-02T00:00:00Z",
+    "deadline": "2026-05-22T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "EHRStruct 2026 - LLM Structured EHR Challenge",
+    "url": "https://www.codabench.org/competitions/12019",
+    "tags": [],
+    "launched": "2025-12-05T00:00:00Z",
+    "deadline": "2026-04-05T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "EPIC-KITCHENS VISOR Semi-supervised VOS",
     "url": "https://www.codabench.org/competitions/12004",
     "tags": [],
@@ -10,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PARSEME 2.0 Multilingual Shared Task on Identification and Paraphrasing of Multiword Expressions - subtask 1 on MWE identification",
@@ -1232,7 +1258,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AdMIRe 2.0: Advancing Multimodal Idiomaticity Representation  (IMAGES AND TEXT)",
@@ -1245,7 +1271,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 1",
@@ -1864,32 +1890,6 @@
     "tags": [],
     "launched": "2024-12-20T00:00:00Z",
     "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "SemEval 2026 Task 2: Predicting Variation in Emotional Valence and Arousal over Time from Ecological Essays",
-    "url": "https://www.codabench.org/competitions/9963",
-    "tags": [],
-    "launched": "2025-08-08T23:00:00Z",
-    "deadline": "2026-01-09T23:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "SICS-155",
-    "url": "https://www.codabench.org/competitions/9961",
-    "tags": [],
-    "launched": "2025-07-01T00:00:00Z",
-    "deadline": "2025-08-26T17:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
