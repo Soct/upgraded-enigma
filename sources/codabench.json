@@ -1,10 +1,10 @@
 [
   {
-    "name": "Automated Expense Categorization",
-    "url": "https://www.codabench.org/competitions/12024",
+    "name": "EACL 2026 Abjad NLP Shared Task: Medical text classification in Arabic",
+    "url": "https://www.codabench.org/competitions/12025",
     "tags": [],
-    "launched": "2025-12-02T00:00:00Z",
-    "deadline": "2026-05-22T00:00:00Z",
+    "launched": "2025-12-04T00:00:00Z",
+    "deadline": "2026-01-25T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -23,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "EPIC-KITCHENS VISOR Semi-supervised VOS",
@@ -277,7 +277,7 @@
     "url": "https://www.codabench.org/competitions/11705",
     "tags": [],
     "launched": "2025-11-09T00:00:00Z",
-    "deadline": "2025-12-05T22:55:00Z",
+    "deadline": "2025-12-09T22:55:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -949,6 +949,19 @@
     "isNew": false
   },
   {
+    "name": "NeurIPS 2025 Weak Lensing Uncertainty Challenge (Phase-2)",
+    "url": "https://www.codabench.org/competitions/10902",
+    "tags": [],
+    "launched": "2025-12-15T00:00:00Z",
+    "deadline": "2026-03-01T00:00:00Z",
+    "prize": "A pool of 4000 USD",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "SemEval 2026 Task 6: CLARITY - Subtask 1: Clarity Level",
     "url": "https://www.codabench.org/competitions/10879",
     "tags": [],
@@ -1109,7 +1122,7 @@
     "url": "https://www.codabench.org/competitions/10820",
     "tags": [],
     "launched": "2025-11-29T00:00:00Z",
-    "deadline": "2025-12-09T05:00:00Z",
+    "deadline": "2025-12-13T05:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1878,19 +1891,6 @@
     "launched": "2025-08-27T16:00:00Z",
     "deadline": "2025-11-03T12:00:00Z",
     "prize": "$8,500 USD Prize Pool",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "LiDAR-4D Radar Fusion for Cooperative 3D Object Detection",
-    "url": "https://www.codabench.org/competitions/9974",
-    "tags": [],
-    "launched": "2024-12-20T00:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
