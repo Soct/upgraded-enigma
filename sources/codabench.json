@@ -1,5 +1,18 @@
 [
   {
+    "name": "CIS-515-SWIN-CIFAR-ASSIGNMENT",
+    "url": "https://www.codabench.org/competitions/12076",
+    "tags": [],
+    "launched": "2025-10-01T00:00:00Z",
+    "deadline": "2025-12-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "EACL 2026 Abjad NLP Shared Task: Medical text classification in Arabic",
     "url": "https://www.codabench.org/competitions/12025",
     "tags": [],
@@ -10,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "EHRStruct 2026 - LLM Structured EHR Challenge",
@@ -959,7 +972,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 6: CLARITY - Subtask 1: Clarity Level",
@@ -1865,32 +1878,6 @@
     "launched": "2025-09-01T00:00:00Z",
     "deadline": "2026-01-31T23:59:00Z",
     "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "ESDD 2026 Track 1",
-    "url": "https://www.codabench.org/competitions/10014",
-    "tags": [],
-    "launched": "2025-09-01T00:00:00Z",
-    "deadline": "2026-01-31T23:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "EEG Foundation Challenge",
-    "url": "https://www.codabench.org/competitions/9975",
-    "tags": [],
-    "launched": "2025-08-27T16:00:00Z",
-    "deadline": "2025-11-03T12:00:00Z",
-    "prize": "$8,500 USD Prize Pool",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
