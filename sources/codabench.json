@@ -1,16 +1,55 @@
 [
   {
-    "name": "ARI 510 Driver Risk Classification Benchmark",
-    "url": "https://www.codabench.org/competitions/12118",
+    "name": "ARI510 Credit Card Fraud Detection",
+    "url": "https://www.codabench.org/competitions/12134",
     "tags": [],
-    "launched": "2025-09-08T07:00:00Z",
-    "deadline": "2025-12-13T07:00:00Z",
+    "launched": "2025-09-03T09:00:00Z",
+    "deadline": null,
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
     "isNew": true
+  },
+  {
+    "name": "ARI510 Thermal Anomaly Detection",
+    "url": "https://www.codabench.org/competitions/12133",
+    "tags": [],
+    "launched": "2025-12-10T17:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Solar Panel Anomaly/Hotspot Detection Benchmark",
+    "url": "https://www.codabench.org/competitions/12130",
+    "tags": [],
+    "launched": "2025-12-10T12:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ARI 510 Driver Risk Classification Benchmark",
+    "url": "https://www.codabench.org/competitions/12118",
+    "tags": [],
+    "launched": "2025-09-08T14:00:00Z",
+    "deadline": "2025-12-13T15:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": false
   },
   {
     "name": "ARI 510 - ICU Prolonged Stay Prediction Challenge",
@@ -23,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "MEDIQA-EVAL @ ClinicalNLP 2026: Evaluating Metrics for Multimodal Question Answering",
@@ -36,7 +75,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "MEDIQA-SYNUR @ ClinicalNLP 2026: Nurse Observation Extraction",
@@ -75,7 +114,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Subtask B(Sentiment Analysis) for Shared Task on Multimodal Hate and Sentiment Understanding in Low-Resource Memes@CHiPSAL2026",
@@ -114,7 +153,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Shared Task on Toxic Behavioral Intent understanding in Gaming Chat Logs@EEUCA with ACL 2026",
@@ -127,7 +166,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CIS-515-SWIN-CIFAR-ASSIGNMENT",
@@ -141,19 +180,6 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
-  },
-  {
-    "name": "AgriPotential: Viticulture Edition",
-    "url": "https://www.codabench.org/competitions/12055",
-    "tags": [],
-    "launched": "2025-12-05T00:00:00Z",
-    "deadline": "2027-12-20T23:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
   },
   {
     "name": "EACL 2026 Abjad NLP Shared Task: Medical text classification in Arabic",
@@ -861,7 +887,7 @@
     "name": "INFO 557 Fall 2025",
     "url": "https://www.codabench.org/competitions/11263",
     "tags": [],
-    "launched": "2025-10-20T14:00:00Z",
+    "launched": "2025-10-20T21:00:00Z",
     "deadline": "2025-12-12T16:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -992,7 +1018,7 @@
     "url": "https://www.codabench.org/competitions/11181",
     "tags": [],
     "launched": "2025-10-30T00:00:00Z",
-    "deadline": "2025-12-31T00:00:00Z",
+    "deadline": "2025-12-15T16:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1304,7 +1330,7 @@
     "url": "https://www.codabench.org/competitions/10820",
     "tags": [],
     "launched": "2025-11-29T00:00:00Z",
-    "deadline": "2025-12-13T05:00:00Z",
+    "deadline": "2025-12-13T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1942,32 +1968,6 @@
     "tags": [],
     "launched": "2025-08-10T00:00:00Z",
     "deadline": "2025-09-15T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "COMP34711_CW1  Distributional semantics",
-    "url": "https://www.codabench.org/competitions/10076",
-    "tags": [],
-    "launched": "2025-08-08T00:00:00Z",
-    "deadline": "2025-10-31T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "WSLP 2025 Shared Task - ISL Word Presence Prediction",
-    "url": "https://www.codabench.org/competitions/10066",
-    "tags": [],
-    "launched": "2025-08-15T00:00:00Z",
-    "deadline": "2025-10-20T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
