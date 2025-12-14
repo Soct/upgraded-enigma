@@ -3968,7 +3968,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Infer Heat Sources from Thermal Patterns",
@@ -3990,7 +3990,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Shopping Basket Recommendation",
@@ -4010,7 +4010,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build Speech Recognition Systems for Caribbean Voices",
@@ -4030,7 +4030,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Identify Urban Heat Islands on Satellite Data",
@@ -4051,6 +4051,6 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]

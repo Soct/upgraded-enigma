@@ -10,7 +10,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "test",
@@ -23,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Solar Hotspot Detection Benchmark",
@@ -208,6 +208,19 @@
     "isNew": false
   },
   {
+    "name": "AgriPotential: Viticulture Edition",
+    "url": "https://www.codabench.org/competitions/12055",
+    "tags": [],
+    "launched": "2025-12-04T12:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "EACL 2026 Abjad NLP Shared Task: Medical text classification in Arabic",
     "url": "https://www.codabench.org/competitions/12025",
     "tags": [],
@@ -283,7 +296,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Swin CIFAR-10 Image Classification Challenge",
@@ -1969,19 +1982,6 @@
     "launched": "2025-08-01T00:00:00Z",
     "deadline": null,
     "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "IndoML 2025 Datathon Tack-2: Providing Guidance",
-    "url": "https://www.codabench.org/competitions/10123",
-    "tags": [],
-    "launched": "2025-08-15T06:30:00Z",
-    "deadline": "2025-10-12T18:30:00Z",
-    "prize": "INR 2,00,000",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
