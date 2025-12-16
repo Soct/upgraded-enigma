@@ -3942,7 +3942,7 @@
     "deadline": "2 Feb 2026",
     "prize": "$40,000",
     "platform": "Zindi",
-    "sponsor": "HUAWEI, interdigital, Next G Cloud, XFLOW RESEARCH, RelationalAI, ITU",
+    "sponsor": "Various",
     "conference": "MWC Barcelona",
     "conference_year": 2026,
     "source": "ML Contest",
@@ -4052,5 +4052,68 @@
     "conference_year": null,
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Predict The Financial Wellbeing of Small Businesses",
+    "url": "https://zindi.africa/competitions/dataorg-financial-health-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+    "tags": [
+      "supervised",
+      "classification",
+      "finance",
+      "measurable"
+    ],
+    "launched": "12 Dec 2025",
+    "registration-deadline": "01 Mar 2026",
+    "deadline": "01 Mar 2026",
+    "prize": "$1,500",
+    "platform": "Zindi",
+    "sponsor": "data.org",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Train LLMs to Play Chess",
+    "url": "https://www.aicrowd.com/challenges/global-chess-challenge-2025?ref=mlcontests",
+    "tags": [
+      "pvp",
+      "llm",
+      "simulation",
+      "generative",
+      "nlp",
+      "control",
+      "measurable"
+    ],
+    "launched": "2 Dec 2025",
+    "registration-deadline": "31 Dec 2025",
+    "deadline": "31 Dec 2025",
+    "prize": "$17,000",
+    "platform": "AIcrowd",
+    "sponsor": "AWS Trainium, AGI House",
+    "conference": null,
+    "conference-year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Estimate Consumption from Survey Data",
+    "url": "https://www.drivendata.org/competitions/305/competition-worldbank-poverty/?ref=mlcontests",
+    "tags": [
+      "tabular",
+      "regression",
+      "supervised",
+      "measurable"
+    ],
+    "launched": "6 Dec 2025",
+    "registration-deadline": "4 Feb 2026",
+    "deadline": "4 Feb 2026",
+    "prize": "$10,000",
+    "platform": "DrivenData",
+    "sponsor": "The World Bank",
+    "conference": null,
+    "conference-year": null,
+    "source": "ML Contest",
+    "isNew": true
   }
 ]

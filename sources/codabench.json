@@ -374,7 +374,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CT-DEB'26",
@@ -520,6 +520,19 @@
     "isNew": false
   },
   {
+    "name": "DeSegMaIT",
+    "url": "https://www.codabench.org/competitions/11705",
+    "tags": [],
+    "launched": "2025-11-09T00:00:00Z",
+    "deadline": "2025-12-09T22:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "DL2025@HSA Shared Task 3 - The Mini9 v2",
     "url": "https://www.codabench.org/competitions/11698",
     "tags": [],
@@ -583,6 +596,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts",
+    "url": "https://www.codabench.org/competitions/11661",
+    "tags": [],
+    "launched": "2025-11-07T21:00:00Z",
+    "deadline": "2025-12-15T20:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "Reto 2: Mejorando el Dataset (testing)",
@@ -726,6 +752,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "Test1",
+    "url": "https://www.codabench.org/competitions/11453",
+    "tags": [],
+    "launched": "2025-11-12T14:00:00Z",
+    "deadline": "2025-11-12T17:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "MeViS v2",
@@ -953,7 +992,7 @@
     "url": "https://www.codabench.org/competitions/11247",
     "tags": [],
     "launched": "2025-10-01T00:00:00Z",
-    "deadline": "2035-11-10T00:00:00Z",
+    "deadline": "2025-12-15T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1291,7 +1330,7 @@
     "url": "https://www.codabench.org/competitions/10839",
     "tags": [],
     "launched": "2025-10-02T00:00:00Z",
-    "deadline": "2025-12-18T00:00:00Z",
+    "deadline": "2025-12-22T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
