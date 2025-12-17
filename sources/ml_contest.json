@@ -4071,7 +4071,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Train LLMs to Play Chess",
@@ -4094,7 +4094,7 @@
     "conference": null,
     "conference-year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Estimate Consumption from Survey Data",
@@ -4114,6 +4114,6 @@
     "conference": null,
     "conference-year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
