@@ -1,10 +1,10 @@
 [
   {
     "name": "Predicting dry spells in Algadarif",
-    "url": "https://www.codabench.org/competitions/12320",
+    "url": "https://www.codabench.org/competitions/12327",
     "tags": [],
-    "launched": "2025-12-21T04:00:00Z",
-    "deadline": "2025-12-24T21:59:00Z",
+    "launched": "2025-12-21T00:00:00Z",
+    "deadline": "2025-12-25T21:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -23,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ICPR 2026 LRLPR",
