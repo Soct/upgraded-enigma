@@ -91,19 +91,6 @@
     "isNew": false
   },
   {
-    "name": "HoTacker",
-    "url": "https://www.codabench.org/competitions/12159",
-    "tags": [],
-    "launched": "2025-12-12T19:00:00Z",
-    "deadline": "2025-12-31T09:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
     "name": "test",
     "url": "https://www.codabench.org/competitions/12158",
     "tags": [],
@@ -1987,5 +1974,18 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "SemEval 2026 Task 4: Narrative Similarity",
+    "url": "https://www.codabench.org/competitions/10273",
+    "tags": [],
+    "launched": "2025-08-15T00:00:00Z",
+    "deadline": "2026-01-23T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   }
 ]
