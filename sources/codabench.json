@@ -10,7 +10,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Authorship Style Transfer - Arabic",
@@ -23,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AbjadAuthorID: Abjad Authorship Identification - Kurdish",
@@ -36,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AbjadAuthorID: Abjad Authorship Identification - Urdu",
@@ -49,7 +49,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AbjadAuthorID: Abjad Authorship Identification - Arabic",
@@ -62,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predicting dry spells in Algadarif",
@@ -453,6 +453,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "AdabEval 2026:  Arabic Politeness Detection Shared Task (Task A)",
+    "url": "https://www.codabench.org/competitions/11955",
+    "tags": [],
+    "launched": "2025-12-20T21:00:00Z",
+    "deadline": "2026-02-17T20:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "Swin CIFAR-10 Image Classification Challenge",
@@ -1781,32 +1794,6 @@
     "isNew": false
   },
   {
-    "name": "PWS CUP 2025 CLONE",
-    "url": "https://www.codabench.org/competitions/10500",
-    "tags": [],
-    "launched": "2025-08-19T00:00:00Z",
-    "deadline": "2025-10-21T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Data-Centric Land Cover Classification Challenge",
-    "url": "https://www.codabench.org/competitions/10453",
-    "tags": [],
-    "launched": "2025-09-10T00:00:00Z",
-    "deadline": "2025-11-14T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
     "name": "test",
     "url": "https://www.codabench.org/competitions/10435",
     "tags": [],
@@ -1863,19 +1850,6 @@
     "url": "https://www.codabench.org/competitions/10391",
     "tags": [],
     "launched": "2025-09-04T00:00:00Z",
-    "deadline": "2025-09-05T16:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "TaskA- German Language",
-    "url": "https://www.codabench.org/competitions/10389",
-    "tags": [],
-    "launched": "2025-09-04T03:00:00Z",
     "deadline": "2025-09-05T16:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -1968,19 +1942,6 @@
     "tags": [],
     "launched": "2025-08-28T00:00:00Z",
     "deadline": "2025-10-20T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Complex VOS (MOSEv2) Track of the 7th LSVOS Challenge",
-    "url": "https://www.codabench.org/competitions/10320",
-    "tags": [],
-    "launched": "2025-09-01T23:59:00Z",
-    "deadline": "2025-09-07T23:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
