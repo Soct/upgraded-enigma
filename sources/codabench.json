@@ -1,5 +1,18 @@
 [
   {
+    "name": "PBVS 2026 Thermal Image Super-Resolution challenge (GTISRc) - Track1",
+    "url": "https://www.codabench.org/competitions/12339",
+    "tags": [],
+    "launched": "2025-12-22T00:00:00Z",
+    "deadline": "2026-03-01T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Authorship Style Transfer - Urdu",
     "url": "https://www.codabench.org/competitions/12336",
     "tags": [],
@@ -180,6 +193,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "PBVS 2026 Thermal Image Super-Resolution challenge (GTISRc) - Track2",
+    "url": "https://www.codabench.org/competitions/12145",
+    "tags": [],
+    "launched": "2025-12-22T05:00:00Z",
+    "deadline": "2026-03-01T23:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "ARI-410/510 Job Recommendation System",
@@ -465,7 +491,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Swin CIFAR-10 Image Classification Challenge",
@@ -1794,6 +1820,32 @@
     "isNew": false
   },
   {
+    "name": "PWS CUP 2025 CLONE",
+    "url": "https://www.codabench.org/competitions/10500",
+    "tags": [],
+    "launched": "2025-08-19T00:00:00Z",
+    "deadline": "2025-10-21T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Data-Centric Land Cover Classification Challenge",
+    "url": "https://www.codabench.org/competitions/10453",
+    "tags": [],
+    "launched": "2025-09-10T00:00:00Z",
+    "deadline": "2025-11-14T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "test",
     "url": "https://www.codabench.org/competitions/10435",
     "tags": [],
@@ -1859,6 +1911,19 @@
     "isNew": false
   },
   {
+    "name": "TaskA- German Language",
+    "url": "https://www.codabench.org/competitions/10389",
+    "tags": [],
+    "launched": "2025-09-04T03:00:00Z",
+    "deadline": "2025-09-05T16:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "TaskA: Portuguse Language",
     "url": "https://www.codabench.org/competitions/10388",
     "tags": [],
@@ -1904,45 +1969,6 @@
     "launched": "2025-09-02T22:00:00Z",
     "deadline": "2025-10-27T01:59:00Z",
     "prize": "Chocolate bar or a healthy alternative",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Video-TT Challenge",
-    "url": "https://www.codabench.org/competitions/10355",
-    "tags": [],
-    "launched": "2025-09-05T00:00:00Z",
-    "deadline": "2025-10-10T12:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "JUST-NLP 2025 - Shared Task on Legal Machine Translation",
-    "url": "https://www.codabench.org/competitions/10351",
-    "tags": [],
-    "launched": "2025-08-24T18:30:00Z",
-    "deadline": "2025-10-18T23:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "JUST-NLP 2025 - Shared Task on Legal Summarization",
-    "url": "https://www.codabench.org/competitions/10326",
-    "tags": [],
-    "launched": "2025-08-28T00:00:00Z",
-    "deadline": "2025-10-20T00:00:00Z",
-    "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
