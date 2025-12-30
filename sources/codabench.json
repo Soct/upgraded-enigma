@@ -1,6 +1,6 @@
 [
   {
-    "name": "PBVS 2026 Thermal Image Super-Resolution challenge (GTISRc) - Track1",
+    "name": "PBVS 2026 - Thermal Image Super-Resolution (TISR) challenge - Track1",
     "url": "https://www.codabench.org/competitions/12339",
     "tags": [],
     "launched": "2025-12-22T00:00:00Z",
@@ -104,6 +104,19 @@
     "isNew": false
   },
   {
+    "name": "AdabEval 2026:  Arabic Politeness Detection Shared Task (Subtask B)",
+    "url": "https://www.codabench.org/competitions/12261",
+    "tags": [],
+    "launched": "2025-12-30T01:00:00Z",
+    "deadline": "2026-02-04T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "ICPR 2026 LRLPR",
     "url": "https://www.codabench.org/competitions/12259",
     "tags": [],
@@ -195,7 +208,7 @@
     "isNew": false
   },
   {
-    "name": "PBVS 2026 Thermal Image Super-Resolution challenge (GTISRc) - Track2",
+    "name": "PBVS 2026 - Guided Thermal Image Super-Resolution (GTISR) challenge - Track2",
     "url": "https://www.codabench.org/competitions/12145",
     "tags": [],
     "launched": "2025-12-22T05:00:00Z",
@@ -484,8 +497,8 @@
     "name": "AdabEval 2026:  Arabic Politeness Detection Shared Task (Task A)",
     "url": "https://www.codabench.org/competitions/11955",
     "tags": [],
-    "launched": "2025-12-20T21:00:00Z",
-    "deadline": "2026-02-17T20:55:00Z",
+    "launched": "2025-12-30T00:00:00Z",
+    "deadline": "2026-02-04T23:55:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
