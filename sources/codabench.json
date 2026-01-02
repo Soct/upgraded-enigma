@@ -1,5 +1,31 @@
 [
   {
+    "name": "Audio Reasoning Challenge - Single Model Track",
+    "url": "https://www.codabench.org/competitions/12460",
+    "tags": [],
+    "launched": "2026-01-01T00:00:00Z",
+    "deadline": "2026-02-01T23:59:59Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Audio Reasoning Challenge - Agent Track",
+    "url": "https://www.codabench.org/competitions/12459",
+    "tags": [],
+    "launched": "2026-01-01T00:00:00Z",
+    "deadline": "2026-02-01T23:59:59Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "SemEval 2026 Task 12 - Abductive Event Reasoning",
     "url": "https://www.codabench.org/competitions/12446",
     "tags": [],
@@ -10,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PBVS 2026 - Thermal Image Super-Resolution (TISR) challenge - Track1",
@@ -108,13 +134,13 @@
     "url": "https://www.codabench.org/competitions/12319",
     "tags": [],
     "launched": "2025-12-31T00:00:00Z",
-    "deadline": "2026-01-31T00:00:00Z",
+    "deadline": "2026-01-10T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ICPR 2026 - Top-View RGB-Depth Re-ID (TVRID)",
@@ -134,13 +160,13 @@
     "url": "https://www.codabench.org/competitions/12306",
     "tags": [],
     "launched": "2025-12-31T00:00:00Z",
-    "deadline": "2026-01-31T00:00:00Z",
+    "deadline": "2026-01-10T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AdabEval 2026:  Arabic Politeness Detection Shared Task (Task B)",
@@ -296,7 +322,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "X-ray detector calibration using ML - Datacamp 2025",
@@ -739,6 +765,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "SPARK2024_CVIA_Course",
+    "url": "https://www.codabench.org/competitions/11726",
+    "tags": [],
+    "launched": "2025-11-20T00:00:00Z",
+    "deadline": "2026-01-16T01:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "IACV 25 - Exercise 5",
@@ -1876,32 +1915,6 @@
     "url": "https://www.codabench.org/competitions/10391",
     "tags": [],
     "launched": "2025-09-04T00:00:00Z",
-    "deadline": "2025-09-05T16:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "TaskA- German Language",
-    "url": "https://www.codabench.org/competitions/10389",
-    "tags": [],
-    "launched": "2025-09-04T03:00:00Z",
-    "deadline": "2025-09-05T16:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "TaskA: Portuguse Language",
-    "url": "https://www.codabench.org/competitions/10388",
-    "tags": [],
-    "launched": "2025-09-04T03:00:00Z",
     "deadline": "2025-09-05T16:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
