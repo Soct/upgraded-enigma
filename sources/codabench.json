@@ -1,5 +1,18 @@
 [
   {
+    "name": "MS MARCO Passage Re-Ranking Challenge",
+    "url": "https://www.codabench.org/competitions/12499",
+    "tags": [],
+    "launched": "2026-01-01T00:00:00Z",
+    "deadline": "2026-01-14T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Audio Reasoning Challenge - Single Model Track",
     "url": "https://www.codabench.org/competitions/12460",
     "tags": [],
@@ -10,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Audio Reasoning Challenge - Agent Track",
@@ -23,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 12 - Abductive Event Reasoning",
@@ -37,6 +50,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "LangGraph Toy Challenge",
+    "url": "https://www.codabench.org/competitions/12356",
+    "tags": [],
+    "launched": "2025-12-01T00:00:00Z",
+    "deadline": "2027-12-01T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "PBVS 2026 - Thermal Image Super-Resolution (TISR) challenge - Track1",
@@ -199,7 +225,7 @@
     "url": "https://www.codabench.org/competitions/12240",
     "tags": [],
     "launched": "2025-12-15T12:00:00Z",
-    "deadline": "2026-01-02T23:00:00Z",
+    "deadline": "2026-01-11T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -212,7 +238,7 @@
     "url": "https://www.codabench.org/competitions/12225",
     "tags": [],
     "launched": "2025-12-15T12:00:00Z",
-    "deadline": "2026-01-02T23:00:00Z",
+    "deadline": "2026-01-11T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -777,7 +803,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 5",
@@ -992,7 +1018,7 @@
     "url": "https://www.codabench.org/competitions/11471",
     "tags": [],
     "launched": "2025-11-21T01:00:00Z",
-    "deadline": "2026-01-27T06:00:00Z",
+    "deadline": "2026-02-03T06:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1005,7 +1031,7 @@
     "url": "https://www.codabench.org/competitions/11470",
     "tags": [],
     "launched": "2025-11-20T00:00:00Z",
-    "deadline": "2026-01-27T00:00:00Z",
+    "deadline": "2026-02-03T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1889,32 +1915,6 @@
     "url": "https://www.codabench.org/competitions/10393",
     "tags": [],
     "launched": "2025-09-04T03:00:00Z",
-    "deadline": "2025-09-05T16:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Task B- sinhala language",
-    "url": "https://www.codabench.org/competitions/10392",
-    "tags": [],
-    "launched": "2025-09-04T00:00:00Z",
-    "deadline": "2025-09-05T16:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "TaskB-Portuguse",
-    "url": "https://www.codabench.org/competitions/10391",
-    "tags": [],
-    "launched": "2025-09-04T00:00:00Z",
     "deadline": "2025-09-05T16:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
