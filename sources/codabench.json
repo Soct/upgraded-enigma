@@ -1,10 +1,10 @@
 [
   {
-    "name": "MS MARCO Passage Re-Ranking Challenge",
-    "url": "https://www.codabench.org/competitions/12499",
+    "name": "High-Speed Objects Motion Compensation in Point Clouds",
+    "url": "https://www.codabench.org/competitions/12524",
     "tags": [],
     "launched": "2026-01-01T00:00:00Z",
-    "deadline": "2026-01-14T00:00:00Z",
+    "deadline": "2030-12-31T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -62,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PBVS 2026 - Thermal Image Super-Resolution (TISR) challenge - Track1",
