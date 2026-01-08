@@ -1,5 +1,31 @@
 [
   {
+    "name": "NAKBA NLP 2026: Arabic Manuscript Understanding Shared Task - Subtask 1",
+    "url": "https://www.codabench.org/competitions/12592",
+    "tags": [],
+    "launched": "2026-01-07T00:00:00Z",
+    "deadline": "2026-02-17T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "NAKBA NLP 2026: Arabic Manuscript Understanding Shared Task - Subtask 2",
+    "url": "https://www.codabench.org/competitions/12591",
+    "tags": [],
+    "launched": "2026-01-07T00:00:00Z",
+    "deadline": "2026-02-17T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "Eternal Development Phase: SemEval 2026 Task 4: Narrative Similarity",
     "url": "https://www.codabench.org/competitions/12547",
     "tags": [],
@@ -433,7 +459,7 @@
     "url": "https://www.codabench.org/competitions/12113",
     "tags": [],
     "launched": "2025-12-08T20:00:00Z",
-    "deadline": "2026-01-31T23:00:00Z",
+    "deadline": "2026-02-06T07:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1690,6 +1716,19 @@
     "isNew": false
   },
   {
+    "name": "Predicting Coastal Flooding Events - Scientific Out-of-Distribution Challenge",
+    "url": "https://www.codabench.org/competitions/10801",
+    "tags": [],
+    "launched": "2025-10-01T12:00:00Z",
+    "deadline": "2026-02-01T14:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "SemEval 2026 Task 10 PsyCoMark — Subtask 1: Conspiracy Marker Extraction",
     "url": "https://www.codabench.org/competitions/10751",
     "tags": [],
@@ -1701,6 +1740,71 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "SemEval 2026 Task 10 PsyCoMark  — Subtask 2: Conspiracy Detection",
+    "url": "https://www.codabench.org/competitions/10749",
+    "tags": [],
+    "launched": "2025-09-27T16:00:00Z",
+    "deadline": "2026-01-31T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "STP Open Challenge",
+    "url": "https://www.codabench.org/competitions/10696",
+    "tags": [],
+    "launched": "2025-09-25T00:00:00Z",
+    "deadline": "2025-12-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "SemEval 2026 Task 9 - Subtask 3: Multilingual Text Classification Challenge - Manifestation Identification",
+    "url": "https://www.codabench.org/competitions/10674",
+    "tags": [],
+    "launched": "2025-09-01T00:00:00Z",
+    "deadline": "2026-01-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "SemEval 2026 Task 9 - Subtask 2: Multilingual Text Classification Challenge - Polarization Type Classification",
+    "url": "https://www.codabench.org/competitions/10669",
+    "tags": [],
+    "launched": "2025-09-01T00:00:00Z",
+    "deadline": "2026-01-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Object Detection Assignment 2025-2026",
+    "url": "https://www.codabench.org/competitions/10661",
+    "tags": [],
+    "launched": "2025-09-23T08:00:00Z",
+    "deadline": "2026-01-13T21:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "Image Recognition Assignment 2025-2026",
@@ -1742,6 +1846,32 @@
     "isNew": false
   },
   {
+    "name": "AdMIRe 2.0: Advancing Multimodal Idiomaticity Representation  (TEXT ONLY)",
+    "url": "https://www.codabench.org/competitions/10548",
+    "tags": [],
+    "launched": "2025-10-01T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "AdMIRe 2.0: Advancing Multimodal Idiomaticity Representation  (IMAGES AND TEXT)",
+    "url": "https://www.codabench.org/competitions/10547",
+    "tags": [],
+    "launched": "2025-10-01T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "IACV 25 - Exercise 1",
     "url": "https://www.codabench.org/competitions/10546",
     "tags": [],
@@ -1755,29 +1885,42 @@
     "isNew": false
   },
   {
-    "name": "PWS CUP 2025 CLONE",
-    "url": "https://www.codabench.org/competitions/10500",
+    "name": "Shared Task on Patient-Centric Question Answering",
+    "url": "https://www.codabench.org/competitions/10527",
     "tags": [],
-    "launched": "2025-08-19T00:00:00Z",
-    "deadline": "2025-10-21T00:00:00Z",
+    "launched": "2025-09-09T18:30:00Z",
+    "deadline": "2025-10-17T23:55:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": false
+    "isNew": true
   },
   {
-    "name": "Data-Centric Land Cover Classification Challenge",
-    "url": "https://www.codabench.org/competitions/10453",
+    "name": "Machine Translation Challenge! CS-779",
+    "url": "https://www.codabench.org/competitions/10523",
     "tags": [],
-    "launched": "2025-09-10T00:00:00Z",
-    "deadline": "2025-11-14T00:00:00Z",
+    "launched": "2025-09-17T18:30:00Z",
+    "deadline": "2025-11-06T18:30:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": false
+    "isNew": true
+  },
+  {
+    "name": "SemEval 2026 Task 9 - Subtask 1: Multilingual Text Classification Challenge - Polarization Detection",
+    "url": "https://www.codabench.org/competitions/10522",
+    "tags": [],
+    "launched": "2025-09-01T00:00:00Z",
+    "deadline": "2026-01-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   }
 ]
