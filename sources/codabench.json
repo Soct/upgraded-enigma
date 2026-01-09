@@ -1,5 +1,18 @@
 [
   {
+    "name": "Lapathon2026 Mriia Benchmark",
+    "url": "https://www.codabench.org/competitions/12598",
+    "tags": [],
+    "launched": "2026-01-09T00:00:00Z",
+    "deadline": "2026-01-19T23:59:59Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "NAKBA NLP 2026: Arabic Manuscript Understanding Shared Task - Subtask 1",
     "url": "https://www.codabench.org/competitions/12592",
     "tags": [],
@@ -10,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NAKBA NLP 2026: Arabic Manuscript Understanding Shared Task - Subtask 2",
@@ -23,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Eternal Development Phase: SemEval 2026 Task 4: Narrative Similarity",
@@ -245,6 +258,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "1st Mars Landslide Segmentation (Mars-LS) Challenge",
+    "url": "https://www.codabench.org/competitions/12305",
+    "tags": [],
+    "launched": "2026-01-01T00:00:00Z",
+    "deadline": "2026-03-03T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "PBVS 2026 - Thermal MOT Challenge",
@@ -1726,7 +1752,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 10 PsyCoMark — Subtask 1: Conspiracy Marker Extraction",
@@ -1752,7 +1778,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "STP Open Challenge",
@@ -1765,7 +1791,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 9 - Subtask 3: Multilingual Text Classification Challenge - Manifestation Identification",
@@ -1778,7 +1804,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SemEval 2026 Task 9 - Subtask 2: Multilingual Text Classification Challenge - Polarization Type Classification",
@@ -1791,7 +1817,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Object Detection Assignment 2025-2026",
@@ -1804,7 +1830,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Image Recognition Assignment 2025-2026",
@@ -1856,7 +1882,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AdMIRe 2.0: Advancing Multimodal Idiomaticity Representation  (IMAGES AND TEXT)",
@@ -1869,7 +1895,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "IACV 25 - Exercise 1",
@@ -1895,32 +1921,6 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
-  },
-  {
-    "name": "Machine Translation Challenge! CS-779",
-    "url": "https://www.codabench.org/competitions/10523",
-    "tags": [],
-    "launched": "2025-09-17T18:30:00Z",
-    "deadline": "2025-11-06T18:30:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
-  },
-  {
-    "name": "SemEval 2026 Task 9 - Subtask 1: Multilingual Text Classification Challenge - Polarization Detection",
-    "url": "https://www.codabench.org/competitions/10522",
-    "tags": [],
-    "launched": "2025-09-01T00:00:00Z",
-    "deadline": "2026-01-31T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
+    "isNew": false
   }
 ]
