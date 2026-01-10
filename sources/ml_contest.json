@@ -4115,5 +4115,47 @@
     "conference-year": null,
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Predict Price Movements from Order Book States",
+    "url": "https://wundernn.io/predictorium?ref=mlcontests",
+    "tags": [
+      "supervised",
+      "finance",
+      "timeseries",
+      "regression",
+      "efficiency",
+      "forecasting",
+      "measurable"
+    ],
+    "launched": "31 Dec 2025",
+    "registration-deadline": "1 Mar 2026",
+    "deadline": "1 Mar 2026",
+    "prize": "$13,600",
+    "platform": "Independent",
+    "sponsor": "Wunder Fund",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "AI Agents Hackathon",
+    "url": "https://wundernn.io/predictorium?ref=mlcontests",
+    "tags": [
+      "hackathon",
+      "llm",
+      "subjective"
+    ],
+    "launched": "13 Jan 2025",
+    "registration-deadline": "13 Jan 2026",
+    "deadline": "9 Feb 2026",
+    "prize": "$30,000",
+    "platform": "Independent",
+    "sponsor": "Comet, Google DeepMind, Vercel",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
