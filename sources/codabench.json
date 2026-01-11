@@ -36,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Eternal Development Phase: SemEval 2026 Task 4: Narrative Similarity",
@@ -62,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AI/ML CTF Competition",
@@ -244,6 +244,19 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
+    "isNew": false
+  },
+  {
+    "name": "AraSentEval 2026: Subtask 1 - Arabic Dialect Sentiment Analysis",
+    "url": "https://www.codabench.org/competitions/12322",
+    "tags": [],
+    "launched": "2026-01-10T00:00:00Z",
+    "deadline": "2026-02-10T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
     "isNew": true
   },
   {
@@ -251,7 +264,7 @@
     "url": "https://www.codabench.org/competitions/12319",
     "tags": [],
     "launched": "2025-12-31T00:00:00Z",
-    "deadline": "2026-01-10T00:00:00Z",
+    "deadline": "2026-01-15T23:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -277,7 +290,7 @@
     "url": "https://www.codabench.org/competitions/12306",
     "tags": [],
     "launched": "2025-12-31T00:00:00Z",
-    "deadline": "2026-01-10T00:00:00Z",
+    "deadline": "2026-01-15T23:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -745,7 +758,7 @@
     "url": "https://www.codabench.org/competitions/11931",
     "tags": [],
     "launched": "2025-12-10T00:00:00Z",
-    "deadline": "2026-02-01T12:00:00Z",
+    "deadline": "2026-02-03T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -758,7 +771,7 @@
     "url": "https://www.codabench.org/competitions/11930",
     "tags": [],
     "launched": "2025-12-10T00:00:00Z",
-    "deadline": "2026-02-01T12:00:00Z",
+    "deadline": "2026-02-03T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -771,7 +784,7 @@
     "url": "https://www.codabench.org/competitions/11929",
     "tags": [],
     "launched": "2025-12-10T00:00:00Z",
-    "deadline": "2026-02-01T12:00:00Z",
+    "deadline": "2026-02-03T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -784,7 +797,7 @@
     "url": "https://www.codabench.org/competitions/11928",
     "tags": [],
     "launched": "2025-12-10T00:00:00Z",
-    "deadline": "2026-02-01T12:00:00Z",
+    "deadline": "2026-02-03T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1890,19 +1903,6 @@
     "tags": [],
     "launched": "2025-09-18T10:00:00Z",
     "deadline": "2100-01-01T07:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "AdMIRe 2.0: Advancing Multimodal Idiomaticity Representation  (TEXT ONLY)",
-    "url": "https://www.codabench.org/competitions/10548",
-    "tags": [],
-    "launched": "2025-10-01T00:00:00Z",
-    "deadline": null,
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
