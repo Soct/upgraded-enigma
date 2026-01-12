@@ -1,5 +1,44 @@
 [
   {
+    "name": "StanceNakba: Subtask B (Cross-Topic Stance Detection)",
+    "url": "https://www.codabench.org/competitions/12662",
+    "tags": [],
+    "launched": "2026-01-10T00:00:00Z",
+    "deadline": "2026-02-19T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "NakbaArchiveClassifier: Nakba Image Classification",
+    "url": "https://www.codabench.org/competitions/12654",
+    "tags": [],
+    "launched": "2026-01-09T00:00:00Z",
+    "deadline": "2026-02-17T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "StanceNakba2026: Subtask A (Actor-Level Stance Detection)",
+    "url": "https://www.codabench.org/competitions/12653",
+    "tags": [],
+    "launched": "2026-01-10T00:00:00Z",
+    "deadline": "2026-02-19T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "NAKBA NLP 2026: Arabic Manuscript Understanding Shared Task - Subtask 1",
     "url": "https://www.codabench.org/competitions/12592",
     "tags": [],
@@ -156,7 +195,7 @@
     "isNew": false
   },
   {
-    "name": "Authorship Style Transfer - Urdu",
+    "name": "AbjadStyleTransfer: Authorship Style Transfer - Urdu",
     "url": "https://www.codabench.org/competitions/12336",
     "tags": [],
     "launched": "2025-12-24T00:00:00Z",
@@ -169,7 +208,7 @@
     "isNew": false
   },
   {
-    "name": "Authorship Style Transfer - Arabic",
+    "name": "AbjadStyleTransfer: Authorship Style Transfer - Arabic",
     "url": "https://www.codabench.org/competitions/12335",
     "tags": [],
     "launched": "2025-12-24T21:00:00Z",
@@ -234,6 +273,19 @@
     "isNew": false
   },
   {
+    "name": "NakbaVirality: Multimodal Virality Classification",
+    "url": "https://www.codabench.org/competitions/12324",
+    "tags": [],
+    "launched": "2026-01-11T00:00:00Z",
+    "deadline": "2026-02-13T21:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "AraSentEval 2026: Subtask 2 - Arabic Sentiment Swap",
     "url": "https://www.codabench.org/competitions/12323",
     "tags": [],
@@ -257,7 +309,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AbjadGenEval: Urdu AI Detection",
@@ -1864,45 +1916,6 @@
     "tags": [],
     "launched": "2025-09-23T08:00:00Z",
     "deadline": "2026-01-13T21:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Image Recognition Assignment 2025-2026",
-    "url": "https://www.codabench.org/competitions/10658",
-    "tags": [],
-    "launched": "2025-09-22T09:00:00Z",
-    "deadline": "2026-01-13T21:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "FinSurvival Challenge - Advancing Survival Modeling for Financial Transactions",
-    "url": "https://www.codabench.org/competitions/10561",
-    "tags": [],
-    "launched": "2025-08-15T12:00:00Z",
-    "deadline": "2025-10-21T04:00:00Z",
-    "prize": "$1000 for the 1st, $500 for the 2nd and $250 for the 3rd",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "1st Workshop on Category-Level Object Pose Estimation for Robotic Manipulation (WCLOP 2025) - Phase 2",
-    "url": "https://www.codabench.org/competitions/10560",
-    "tags": [],
-    "launched": "2025-09-18T10:00:00Z",
-    "deadline": "2100-01-01T07:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
