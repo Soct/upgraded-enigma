@@ -10,7 +10,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NakbaArchiveClassifier: Nakba Image Classification",
@@ -23,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "StanceNakba2026: Subtask A (Actor-Level Stance Detection)",
@@ -36,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NAKBA NLP 2026: Arabic Manuscript Understanding Shared Task - Subtask 1",
@@ -169,17 +169,17 @@
     "isNew": false
   },
   {
-    "name": "LangGraph Toy Challenge",
-    "url": "https://www.codabench.org/competitions/12356",
+    "name": "PBVS 2026 - Hyperspectral Image Super-Resolution (HISR) challenge",
+    "url": "https://www.codabench.org/competitions/12418",
     "tags": [],
-    "launched": "2025-12-01T00:00:00Z",
-    "deadline": "2027-12-01T00:00:00Z",
+    "launched": "2025-12-22T05:00:00Z",
+    "deadline": "2026-03-01T23:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": false
+    "isNew": true
   },
   {
     "name": "PBVS 2026 - Thermal Image Super-Resolution (TISR) challenge - Track1",
@@ -283,7 +283,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AraSentEval 2026: Subtask 2 - Arabic Sentiment Swap",
@@ -316,7 +316,7 @@
     "url": "https://www.codabench.org/competitions/12319",
     "tags": [],
     "launched": "2025-12-31T00:00:00Z",
-    "deadline": "2026-01-15T23:59:00Z",
+    "deadline": "2026-01-12T23:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -393,7 +393,7 @@
     "name": "ICPR 2026 LRLPR",
     "url": "https://www.codabench.org/competitions/12259",
     "tags": [],
-    "launched": "2026-01-12T00:00:00Z",
+    "launched": "2026-01-19T00:00:00Z",
     "deadline": "2026-03-02T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -875,7 +875,7 @@
     "url": "https://www.codabench.org/competitions/11891",
     "tags": [],
     "launched": "2025-11-25T00:00:00Z",
-    "deadline": "2026-02-15T00:00:00Z",
+    "deadline": "2026-01-30T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1577,7 +1577,7 @@
     "url": "https://www.codabench.org/competitions/11131",
     "tags": [],
     "launched": "2025-10-10T00:00:00Z",
-    "deadline": "2026-01-30T00:00:00Z",
+    "deadline": "2026-02-02T23:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1837,7 +1837,7 @@
     "url": "https://www.codabench.org/competitions/10801",
     "tags": [],
     "launched": "2025-10-01T12:00:00Z",
-    "deadline": "2026-02-01T14:59:00Z",
+    "deadline": "2026-02-23T11:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1901,8 +1901,8 @@
     "name": "SemEval 2026 Task 9 - Subtask 2: Multilingual Text Classification Challenge - Polarization Type Classification",
     "url": "https://www.codabench.org/competitions/10669",
     "tags": [],
-    "launched": "2025-08-31T20:00:00Z",
-    "deadline": "2026-02-03T11:59:00Z",
+    "launched": "2025-08-31T18:00:00Z",
+    "deadline": "2026-02-03T10:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
