@@ -3610,8 +3610,8 @@
       "satellite"
     ],
     "launched": "6 Aug 2025",
-    "registration-deadline": "17 Jan 2026",
-    "deadline": "17 Jan 2026",
+    "registration-deadline": "24 Jan 2026",
+    "deadline": "24 Jan 2026",
     "prize": "$12,000",
     "platform": "Solafune",
     "sponsor": null,
@@ -4141,7 +4141,7 @@
   },
   {
     "name": "AI Agents Hackathon",
-    "url": "https://wundernn.io/predictorium?ref=mlcontests",
+    "url": "https://www.encodeclub.com/programmes/comet-resolution-v2-hackathon?ref=mlcontests",
     "tags": [
       "hackathon",
       "llm",
@@ -4156,6 +4156,6 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": false
+    "isNew": true
   }
 ]

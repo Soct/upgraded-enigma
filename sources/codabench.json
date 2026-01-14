@@ -1,5 +1,18 @@
 [
   {
+    "name": "DL2025@HSA Shared Task 5 - Mountain Car RL Agent",
+    "url": "https://www.codabench.org/competitions/12665",
+    "tags": [],
+    "launched": "2026-01-11T23:00:00Z",
+    "deadline": "2026-01-30T22:59:59Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "StanceNakba: Subtask B (Cross-Topic Stance Detection)",
     "url": "https://www.codabench.org/competitions/12662",
     "tags": [],
@@ -179,7 +192,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PBVS 2026 - Thermal Image Super-Resolution (TISR) challenge - Track1",
@@ -316,7 +329,7 @@
     "url": "https://www.codabench.org/competitions/12319",
     "tags": [],
     "launched": "2025-12-31T00:00:00Z",
-    "deadline": "2026-01-12T23:59:00Z",
+    "deadline": "2026-01-16T23:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -453,6 +466,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "ClimateCheck@NSLP 2026",
+    "url": "https://www.codabench.org/competitions/12213",
+    "tags": [],
+    "launched": "2026-01-13T00:00:00Z",
+    "deadline": "2026-02-16T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "test",
@@ -1890,32 +1916,6 @@
     "tags": [],
     "launched": "2025-09-01T00:00:00Z",
     "deadline": "2026-02-03T11:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "SemEval 2026 Task 9 - Subtask 2: Multilingual Text Classification Challenge - Polarization Type Classification",
-    "url": "https://www.codabench.org/competitions/10669",
-    "tags": [],
-    "launched": "2025-08-31T18:00:00Z",
-    "deadline": "2026-02-03T10:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Object Detection Assignment 2025-2026",
-    "url": "https://www.codabench.org/competitions/10661",
-    "tags": [],
-    "launched": "2025-09-23T08:00:00Z",
-    "deadline": "2026-01-13T21:55:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
