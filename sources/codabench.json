@@ -1,5 +1,31 @@
 [
   {
+    "name": "SPARK 2026 Challenge - Stream-2",
+    "url": "https://www.codabench.org/competitions/12706",
+    "tags": [],
+    "launched": "2026-02-12T00:00:00Z",
+    "deadline": "2026-02-28T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "SPARK 2026 Challenge - Stream-1",
+    "url": "https://www.codabench.org/competitions/12705",
+    "tags": [],
+    "launched": "2026-02-12T00:00:00Z",
+    "deadline": "2026-03-05T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "DL2025@HSA Shared Task 5 - Mountain Car RL Agent",
     "url": "https://www.codabench.org/competitions/12665",
     "tags": [],
@@ -10,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "StanceNakba: Subtask B (Cross-Topic Stance Detection)",
@@ -52,6 +78,32 @@
     "isNew": false
   },
   {
+    "name": "AIRS-2026-赛道一：「天眼智境」遥感图像语言引导分割挑战赛",
+    "url": "https://www.codabench.org/competitions/12624",
+    "tags": [],
+    "launched": "2026-01-23T00:00:00Z",
+    "deadline": "2026-03-29T03:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "SmartPilot Agentic-KG Challenge",
+    "url": "https://www.codabench.org/competitions/12608",
+    "tags": [],
+    "launched": "2026-01-14T00:00:00Z",
+    "deadline": "2026-03-18T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "NAKBA NLP 2026: Arabic Manuscript Understanding Shared Task - Subtask 1",
     "url": "https://www.codabench.org/competitions/12592",
     "tags": [],
@@ -68,7 +120,7 @@
     "name": "NAKBA NLP 2026: Arabic Manuscript Understanding Shared Task - Subtask 2",
     "url": "https://www.codabench.org/competitions/12591",
     "tags": [],
-    "launched": "2026-01-07T00:00:00Z",
+    "launched": "2026-02-10T00:00:00Z",
     "deadline": "2026-02-17T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -167,6 +219,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "AIRS-2026-赛道二：「耕序慧眼」农事进程语义分割挑战赛",
+    "url": "https://www.codabench.org/competitions/12447",
+    "tags": [],
+    "launched": "2026-01-23T00:00:00Z",
+    "deadline": "2026-03-29T03:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "SemEval 2026 Task 12 - Abductive Event Reasoning",
@@ -403,12 +468,12 @@
     "isNew": false
   },
   {
-    "name": "ICPR 2026 LRLPR",
+    "name": "ICPR 2026 Competition on Low-Resolution License Plate Recognition",
     "url": "https://www.codabench.org/competitions/12259",
     "tags": [],
     "launched": "2026-01-19T00:00:00Z",
     "deadline": "2026-03-02T00:00:00Z",
-    "prize": "N/A",
+    "prize": "The top 5 teams will be invited to contribute to the competition summary paper to be included in the ICPR 2026 proceedings.",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
@@ -478,7 +543,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "test",
@@ -1352,19 +1417,6 @@
     "isNew": false
   },
   {
-    "name": "Hope Speech Detection - DravidianLangTech@ACL 2026",
-    "url": "https://www.codabench.org/competitions/11328",
-    "tags": [],
-    "launched": "2025-11-16T00:00:00Z",
-    "deadline": "2026-07-03T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
     "name": "Political Multiclass Sentiment Analysis of Tamil X (Twitter) - DravidianLangTech@ACL 2026",
     "url": "https://www.codabench.org/competitions/11327",
     "tags": [],
@@ -1603,7 +1655,7 @@
     "url": "https://www.codabench.org/competitions/11131",
     "tags": [],
     "launched": "2025-10-10T00:00:00Z",
-    "deadline": "2026-02-02T23:00:00Z",
+    "deadline": "2026-02-02T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1720,7 +1772,7 @@
     "url": "https://www.codabench.org/competitions/10879",
     "tags": [],
     "launched": "2025-10-01T00:00:00Z",
-    "deadline": "2026-01-31T17:00:00Z",
+    "deadline": "2026-02-02T12:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1877,45 +1929,6 @@
     "tags": [],
     "launched": "2025-09-27T00:00:00Z",
     "deadline": "2026-01-31T23:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "SemEval 2026 Task 10 PsyCoMark  — Subtask 2: Conspiracy Detection",
-    "url": "https://www.codabench.org/competitions/10749",
-    "tags": [],
-    "launched": "2025-09-27T16:00:00Z",
-    "deadline": "2026-01-31T23:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "STP Open Challenge",
-    "url": "https://www.codabench.org/competitions/10696",
-    "tags": [],
-    "launched": "2025-09-25T00:00:00Z",
-    "deadline": "2025-12-31T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "SemEval 2026 Task 9 - Subtask 3: Multilingual Text Classification Challenge - Manifestation Identification",
-    "url": "https://www.codabench.org/competitions/10674",
-    "tags": [],
-    "launched": "2025-09-01T00:00:00Z",
-    "deadline": "2026-02-03T11:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
