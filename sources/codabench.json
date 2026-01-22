@@ -1,5 +1,18 @@
 [
   {
+    "name": "EarthVL - Semantic Segmentation",
+    "url": "https://www.codabench.org/competitions/13040",
+    "tags": [],
+    "launched": "2025-12-01T00:00:00Z",
+    "deadline": "2030-01-01T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "NTIRE 2026 Joint Denoising and Low Light Image Enhancement Challenge - Track 2",
     "url": "https://www.codabench.org/competitions/12994",
     "tags": [],
@@ -10,7 +23,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 Image Shadow Removal Challenge (@ CVPR 2026)",
@@ -88,7 +101,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Credit scoring",
@@ -114,7 +127,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 Image Denoising Challenge (noise level=50)",
@@ -127,7 +140,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 3D Content Super-Resolution Challenge  - Track 2 Realistic Degradation",
@@ -192,7 +205,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 Nighttime Image Dehazing Challenge (@ CVPR 2026)",
@@ -208,6 +221,19 @@
     "isNew": false
   },
   {
+    "name": "NTIRE 2026 Video Saliency Prediction Challenge",
+    "url": "https://www.codabench.org/competitions/12842",
+    "tags": [],
+    "launched": "2026-01-30T07:59:00Z",
+    "deadline": "2026-03-17T07:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "AI/ML CTF Competition",
     "url": "https://www.codabench.org/competitions/12819",
     "tags": [],
@@ -218,7 +244,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 the First Blind Computational Aberration Correction Challenge",
@@ -231,7 +257,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 The Second Challenge on Day and Night Raindrop Removal for Dual-Focused Images",
@@ -245,6 +271,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "NTIRE 2026 - Robust Deepfake Detection Callenge @ CVPR 2026",
+    "url": "https://www.codabench.org/competitions/12795",
+    "tags": [],
+    "launched": "2026-01-19T08:00:00Z",
+    "deadline": "2026-03-16T08:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "NTIRE 2026 Ambient Lighting Normalization Challenge - Color Lighting (@ CVPR 2026)",
@@ -309,7 +348,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 Robust AI-Generated Image Detection in the Wild",
@@ -601,8 +640,8 @@
     "name": "AIRS-2026-赛道二：「耕序慧眼」农事进程语义分割挑战赛",
     "url": "https://www.codabench.org/competitions/12447",
     "tags": [],
-    "launched": "2026-01-23T00:00:00Z",
-    "deadline": "2026-03-29T03:00:00Z",
+    "launched": "2026-01-22T16:00:00Z",
+    "deadline": "2026-03-28T19:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -654,7 +693,7 @@
     "url": "https://www.codabench.org/competitions/12365",
     "tags": [],
     "launched": "2026-01-30T00:00:00Z",
-    "deadline": "2026-04-25T00:00:00Z",
+    "deadline": "2026-04-26T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1388,7 +1427,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "KSAA-2026 Shared Task on Arabic Speech Dictation with Automatic Diacritization",
@@ -1916,84 +1955,6 @@
     "tags": [],
     "launched": "2025-10-01T00:00:00Z",
     "deadline": "2025-12-16T12:30:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "CMU 18734 17731 - Course Project (25 Fall) --END",
-    "url": "https://www.codabench.org/competitions/11238",
-    "tags": [],
-    "launched": "2025-09-20T04:00:00Z",
-    "deadline": "2025-12-14T05:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "2026 SoccerNet Player-Centric Ball Action Spotting - Challenge Phase",
-    "url": "https://www.codabench.org/competitions/11232",
-    "tags": [],
-    "launched": "2025-10-26T00:00:00Z",
-    "deadline": "2026-04-24T20:00:00Z",
-    "prize": "1000 $ for N°1 - Sponsored by Footovision",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Tokam2D - Structure detection in fusion plasma simulations - datacamp 2025",
-    "url": "https://www.codabench.org/competitions/11224",
-    "tags": [],
-    "launched": "2025-10-07T00:00:00Z",
-    "deadline": "2026-03-09T03:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "赛题三：无线基座模型WiFo赋能的多模态信息智能车定位",
-    "url": "https://www.codabench.org/competitions/11207",
-    "tags": [],
-    "launched": "2025-10-22T08:00:00Z",
-    "deadline": "2025-12-18T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "赛题一：预训练LLM4PG赋能的智能车射频地图构建",
-    "url": "https://www.codabench.org/competitions/11192",
-    "tags": [],
-    "launched": "2025-10-29T00:00:00Z",
-    "deadline": "2025-12-30T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Anti-BAD Challenge - IEEE SaTML 2026",
-    "url": "https://www.codabench.org/competitions/11188",
-    "tags": [],
-    "launched": "2025-11-07T00:00:00Z",
-    "deadline": "2026-02-07T23:59:59Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
