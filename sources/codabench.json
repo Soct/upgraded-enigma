@@ -1,5 +1,31 @@
 [
   {
+    "name": "SportsMOT",
+    "url": "https://www.codabench.org/competitions/13077",
+    "tags": [],
+    "launched": "2026-01-22T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "QIAS 2026 –  Islamic Inheritance Reasoning",
+    "url": "https://www.codabench.org/competitions/13067",
+    "tags": [],
+    "launched": "2026-01-01T00:00:00Z",
+    "deadline": "2026-04-01T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "EarthVL - Semantic Segmentation",
     "url": "https://www.codabench.org/competitions/13040",
     "tags": [],
@@ -10,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 Joint Denoising and Low Light Image Enhancement Challenge - Track 2",
@@ -169,11 +195,11 @@
     "isNew": false
   },
   {
-    "name": "The 3rd Restore Any Image Model (RAIM): An NTIRE Challenge in Conjunction with CVPR 2026 (Track 3: AI Flash Portrait)",
+    "name": "The 3rd Restore Any Image Model (RAIM): AI Flash Portrait (Track 3)",
     "url": "https://www.codabench.org/competitions/12885",
     "tags": [],
-    "launched": "2026-01-15T00:00:00Z",
-    "deadline": "2026-03-24T00:00:00Z",
+    "launched": "2026-01-23T00:00:00Z",
+    "deadline": "2026-03-17T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -182,7 +208,20 @@
     "isNew": false
   },
   {
-    "name": "RPSDG 2026: Remote Physiological Signal Domain Generalization Challenge",
+    "name": "ArchEHR-QA (\"Archer\") - CL4Health @ LREC 2026 - Subtask 1: Question Interpretation",
+    "url": "https://www.codabench.org/competitions/12865",
+    "tags": [],
+    "launched": "2026-01-02T00:00:00Z",
+    "deadline": "2026-01-26T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "PhysDG 2026: Domain Generalized Remote Physiological Measurement @CVPR2026",
     "url": "https://www.codabench.org/competitions/12857",
     "tags": [],
     "launched": "2026-02-01T00:00:00Z",
@@ -231,7 +270,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AI/ML CTF Competition",
@@ -283,7 +322,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 Ambient Lighting Normalization Challenge - Color Lighting (@ CVPR 2026)",
@@ -380,9 +419,9 @@
     "name": "The 3rd Restore Any Image Model (RAIM): Multi-Exposure Image Fusion in Dynamic Scenes (Track 2)",
     "url": "https://www.codabench.org/competitions/12728",
     "tags": [],
-    "launched": "2026-01-01T00:00:00Z",
-    "deadline": "2026-03-17T00:00:00Z",
-    "prize": "N/A",
+    "launched": "2026-01-21T08:00:00Z",
+    "deadline": "2026-03-16T16:00:00Z",
+    "prize": "US$1000; US$500; US$200",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
@@ -640,8 +679,8 @@
     "name": "AIRS-2026-赛道二：「耕序慧眼」农事进程语义分割挑战赛",
     "url": "https://www.codabench.org/competitions/12447",
     "tags": [],
-    "launched": "2026-01-22T16:00:00Z",
-    "deadline": "2026-03-28T19:00:00Z",
+    "launched": "2026-01-22T08:00:00Z",
+    "deadline": "2026-03-28T11:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1929,32 +1968,6 @@
     "tags": [],
     "launched": "2025-10-22T00:00:00Z",
     "deadline": "2025-10-30T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "2026 SoccerNet Player-Centric Ball Action Spotting - Validation Phase",
-    "url": "https://www.codabench.org/competitions/11249",
-    "tags": [],
-    "launched": "2025-09-01T00:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "赛题四：自动驾驶场景的交通事故风险预测",
-    "url": "https://www.codabench.org/competitions/11247",
-    "tags": [],
-    "launched": "2025-10-01T00:00:00Z",
-    "deadline": "2025-12-16T12:30:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
