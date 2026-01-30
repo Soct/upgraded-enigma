@@ -1,18 +1,5 @@
 [
   {
-    "name": "NTIRE 2026 Real-World Face Restoration",
-    "url": "https://www.codabench.org/competitions/13283",
-    "tags": [],
-    "launched": "2026-01-30T08:00:00Z",
-    "deadline": "2026-03-17T23:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
-  },
-  {
     "name": "MSLR CSLR-Task-1 (CVPR) - Post Challenge",
     "url": "https://www.codabench.org/competitions/13266",
     "tags": [],
@@ -31,7 +18,7 @@
     "tags": [],
     "launched": "2026-02-06T00:00:00Z",
     "deadline": "2026-03-15T00:00:00Z",
-    "prize": "N/A",
+    "prize": "$1000;$600$400",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
@@ -62,7 +49,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CRAC 2026 Shared Task on Multilingual Coreference Resolution UNC",
@@ -75,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "PARSEME 2.0 Multilingual Shared Task on Identification and Paraphrasing of Multiword Expressions - subtask 2 on MWE paraphrasing",
@@ -1655,7 +1642,7 @@
     "url": "https://www.codabench.org/competitions/11891",
     "tags": [],
     "launched": "2025-11-25T00:00:00Z",
-    "deadline": "2026-01-30T00:00:00Z",
+    "deadline": "2026-02-07T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -2000,5 +1987,18 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "[Task 1] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
+    "url": "https://www.codabench.org/competitions/11470",
+    "tags": [],
+    "launched": "2025-11-20T00:00:00Z",
+    "deadline": "2026-02-04T21:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   }
 ]
