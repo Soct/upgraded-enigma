@@ -1,5 +1,18 @@
 [
   {
+    "name": "NTIRE 2026 EFFICIENT LOW LIGHT IMAGE ENHANCEMENT CHALLENGE",
+    "url": "https://www.codabench.org/competitions/13382",
+    "tags": [],
+    "launched": "2026-01-28T00:00:00Z",
+    "deadline": "2026-03-17T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "MSLR CSLR-Task-1 (CVPR) - Post Challenge",
     "url": "https://www.codabench.org/competitions/13266",
     "tags": [],
@@ -432,7 +445,7 @@
     "name": "PhysDG 2026: Domain Generalized Remote Physiological Measurement @CVPR2026",
     "url": "https://www.codabench.org/competitions/12857",
     "tags": [],
-    "launched": "2026-01-26T16:00:00Z",
+    "launched": "2026-02-01T00:00:00Z",
     "deadline": "2026-03-15T00:00:00Z",
     "prize": "1st place: $500 + certificate 2nd place: $200 + certificate 3rd place: $100 + certificate",
     "platform": "Codabench",
@@ -614,7 +627,7 @@
     "name": "X-AIGC Quality Assessment - Track 1：Text-to-3D",
     "url": "https://www.codabench.org/competitions/12732",
     "tags": [],
-    "launched": "2026-01-15T16:00:00Z",
+    "launched": "2026-01-15T08:00:00Z",
     "deadline": null,
     "prize": "N/A",
     "platform": "Codabench",
@@ -1261,32 +1274,6 @@
     "isNew": false
   },
   {
-    "name": "ARI-410/510 Job Recommendation System",
-    "url": "https://www.codabench.org/competitions/12135",
-    "tags": [],
-    "launched": "2025-10-01T13:30:00Z",
-    "deadline": "2025-12-20T16:30:00Z",
-    "prize": "Course Credit",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "ARI510 Credit Card Fraud Detection",
-    "url": "https://www.codabench.org/competitions/12134",
-    "tags": [],
-    "launched": "2025-09-03T09:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
     "name": "PsyDefDetect @ BioNLP 2026: Detection of Psychological Defense Mechanisms in Conversations",
     "url": "https://www.codabench.org/competitions/12124",
     "tags": [],
@@ -1448,19 +1435,6 @@
     "tags": [],
     "launched": "2025-12-04T12:00:00Z",
     "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "EACL 2026 Abjad NLP Shared Task: Medical text classification in Arabic",
-    "url": "https://www.codabench.org/competitions/12025",
-    "tags": [],
-    "launched": "2025-12-04T00:00:00Z",
-    "deadline": "2026-01-25T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1987,18 +1961,5 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
-  },
-  {
-    "name": "[Task 1] CXR-LT: Long-tailed, multi-label, and zero-shot classification on chest X-rays",
-    "url": "https://www.codabench.org/competitions/11470",
-    "tags": [],
-    "launched": "2025-11-20T00:00:00Z",
-    "deadline": "2026-02-04T21:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
   }
 ]
