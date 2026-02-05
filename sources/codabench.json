@@ -1,16 +1,55 @@
 [
   {
-    "name": "The 5th DataCV Challenge in conjunction with the CVPR 2026",
-    "url": "https://www.codabench.org/competitions/13564",
+    "name": "URVIS 2026 Challenge - Object Tracking in the Real World (@ CVPRW 2026)",
+    "url": "https://www.codabench.org/competitions/13582",
     "tags": [],
-    "launched": "2026-02-06T00:00:00Z",
-    "deadline": null,
+    "launched": "2026-02-03T00:00:00Z",
+    "deadline": "2026-03-10T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
     "isNew": true
+  },
+  {
+    "name": "The 7th International Competition on Human Identification at a Distance 2026 (HID 2026)",
+    "url": "https://www.codabench.org/competitions/13568",
+    "tags": [],
+    "launched": "2026-02-05T00:00:00Z",
+    "deadline": "2026-04-30T23:59:00Z",
+    "prize": "19,000 CNY (approximately 2,660 USD) for top 6 teams",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "The 5th DataCV Challenge Task 2",
+    "url": "https://www.codabench.org/competitions/13567",
+    "tags": [],
+    "launched": "2026-02-04T03:59:00Z",
+    "deadline": "2026-03-10T12:29:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "The 5th DataCV Challenge Task 1",
+    "url": "https://www.codabench.org/competitions/13564",
+    "tags": [],
+    "launched": "2026-02-04T11:59:00Z",
+    "deadline": "2026-03-10T12:29:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": false
   },
   {
     "name": "HOPE-EXP at IberLEF 2026: Outcome-Oriented Expectation Analysis in Social Media",
@@ -23,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ESR Test",
@@ -36,7 +75,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 Image Super-Resolution (x4)",
@@ -91,7 +130,7 @@
     "isNew": false
   },
   {
-    "name": "LoViF 2026 Efficiency VLM",
+    "name": "LoViF @ CVPR 2026: Challenge on Efficient VLM for Multimodal Creative Quality Scoring",
     "url": "https://www.codabench.org/competitions/13463",
     "tags": [],
     "launched": "2026-01-31T00:00:00Z",
@@ -101,7 +140,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "LoViF 2026 The Challenge on Weather Removal in Videos @ CVPR2026",
@@ -114,7 +153,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DAC-304 ML/DL LAB",
@@ -156,7 +195,7 @@
     "isNew": false
   },
   {
-    "name": "POLINATOR Challenge by DRY-MFK",
+    "name": "POLLINATOR Challenge by DRY-MFK",
     "url": "https://www.codabench.org/competitions/13370",
     "tags": [],
     "launched": "2026-02-03T00:00:00Z",
@@ -167,6 +206,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "MSLR CSLR-Task-2 (CVPR)",
+    "url": "https://www.codabench.org/competitions/13267",
+    "tags": [],
+    "launched": "2026-01-27T00:00:00Z",
+    "deadline": "2026-02-28T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "MSLR CSLR-Task-1 (CVPR) - Post Challenge",
@@ -1070,7 +1122,7 @@
     "url": "https://www.codabench.org/competitions/12446",
     "tags": [],
     "launched": "2025-09-01T00:00:00Z",
-    "deadline": "2026-02-04T23:59:00Z",
+    "deadline": "2026-02-05T23:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1955,58 +2007,6 @@
     "tags": [],
     "launched": "2025-11-15T23:00:00Z",
     "deadline": "2025-12-08T22:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "FIFA Skeletal Tracking Light: Test Portal",
-    "url": "https://www.codabench.org/competitions/11682",
-    "tags": [],
-    "launched": "2025-11-15T22:00:00Z",
-    "deadline": "2026-04-30T22:59:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "FIFA Skeletal Tracking Light: Validation Portal",
-    "url": "https://www.codabench.org/competitions/11681",
-    "tags": [],
-    "launched": "2025-11-15T22:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Laboratorio 3: Indexación de trayectorias",
-    "url": "https://www.codabench.org/competitions/11674",
-    "tags": [],
-    "launched": "2025-11-13T05:00:00Z",
-    "deadline": "2025-11-22T04:55:00Z",
-    "prize": "20 para el primer puesto",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "Join JNUAI.",
-    "url": "https://www.codabench.org/competitions/11669",
-    "tags": [],
-    "launched": "2025-11-16T00:00:00Z",
-    "deadline": null,
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
