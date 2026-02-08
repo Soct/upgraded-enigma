@@ -4239,7 +4239,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Recognise Words Spoken by Children in Audio Clips",
@@ -4279,7 +4279,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Recognise Speech Sounds Made by Children in Audio Clips",
