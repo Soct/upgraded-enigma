@@ -1,5 +1,44 @@
 [
   {
+    "name": "SMM4H 2026 - Task 1 - Binary Classification of Social Media Posts containing Adverse Drug Events.",
+    "url": "https://www.codabench.org/competitions/14124",
+    "tags": [],
+    "launched": "2026-02-23T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Student Performance Prediction Challenge",
+    "url": "https://www.codabench.org/competitions/14121",
+    "tags": [],
+    "launched": "2025-10-07T00:00:00Z",
+    "deadline": "2026-03-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "V2OBELIX Reinforcement Learning Challenge",
+    "url": "https://www.codabench.org/competitions/14118",
+    "tags": [],
+    "launched": "2026-02-21T00:00:00Z",
+    "deadline": "2026-03-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "CS421 AY25/26 T2",
     "url": "https://www.codabench.org/competitions/14096",
     "tags": [],
@@ -10,10 +49,10 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
-    "name": "CS421 AY25/26 T2",
+    "name": "OLDDD CS421 AY25/26 T2",
     "url": "https://www.codabench.org/competitions/14095",
     "tags": [],
     "launched": "2026-02-25T16:00:00Z",
@@ -23,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "V1OBELIX Reinforcement Learning Challenge",
@@ -377,6 +416,19 @@
     "isNew": false
   },
   {
+    "name": "Epiclock -- ISLA2026",
+    "url": "https://www.codabench.org/competitions/13881",
+    "tags": [],
+    "launched": "2026-02-23T00:00:00Z",
+    "deadline": "2026-03-22T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "ICIP'2026 Grand Challenge on  Extreme In-The-Wild License Plate Super-Resolution",
     "url": "https://www.codabench.org/competitions/13877",
     "tags": [],
@@ -601,7 +653,7 @@
     "name": "Embodied VLM Robustness Challenge 2026",
     "url": "https://www.codabench.org/competitions/13658",
     "tags": [],
-    "launched": "2026-02-28T00:00:00Z",
+    "launched": "2026-02-22T00:00:00Z",
     "deadline": null,
     "prize": "N/A",
     "platform": "Codabench",
@@ -793,6 +845,19 @@
     "isNew": false
   },
   {
+    "name": "APS Challenge",
+    "url": "https://www.codabench.org/competitions/13548",
+    "tags": [],
+    "launched": "2026-02-09T16:00:00Z",
+    "deadline": "2026-04-10T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "PoliticHeadlinES 2026",
     "url": "https://www.codabench.org/competitions/13546",
     "tags": [],
@@ -817,6 +882,136 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "ArchEHR-QA (\"Archer\") - CL4Health @ LREC 2026 - Subtask 3: Answer Generation",
+    "url": "https://www.codabench.org/competitions/13527",
+    "tags": [],
+    "launched": "2026-01-02T00:00:00Z",
+    "deadline": "2026-02-19T11:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ArchEHR-QA (\"Archer\") - CL4Health @ LREC 2026 - Subtask 2: Evidence Identification",
+    "url": "https://www.codabench.org/competitions/13526",
+    "tags": [],
+    "launched": "2026-01-02T00:00:00Z",
+    "deadline": "2026-02-19T11:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "NTIRE 2026 Image Super-Resolution (x4)",
+    "url": "https://www.codabench.org/competitions/13516",
+    "tags": [],
+    "launched": "2026-01-29T00:00:00Z",
+    "deadline": "2026-03-17T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "NTIRE 2026 Mobile Real-World Image Super-Resolution",
+    "url": "https://www.codabench.org/competitions/13509",
+    "tags": [],
+    "launched": "2026-01-30T08:00:00Z",
+    "deadline": "2026-03-18T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "NTIRE 2026 Remote Sensing Infrared Image Super-Resolution",
+    "url": "https://www.codabench.org/competitions/13508",
+    "tags": [],
+    "launched": "2026-01-26T00:00:00Z",
+    "deadline": "2026-03-18T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "NTIRE 2026 Real-World Face Restoration",
+    "url": "https://www.codabench.org/competitions/13507",
+    "tags": [],
+    "launched": "2026-01-30T08:00:00Z",
+    "deadline": "2026-03-17T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "LoViF @ CVPR 2026: Challenge on Efficient VLM for Multimodal Creative Quality Scoring",
+    "url": "https://www.codabench.org/competitions/13463",
+    "tags": [],
+    "launched": "2026-01-30T16:00:00Z",
+    "deadline": "2026-03-15T23:00:00Z",
+    "prize": "$800；$400；$300",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "LoViF 2026 The Challenge on Weather Removal in Videos @ CVPR2026",
+    "url": "https://www.codabench.org/competitions/13462",
+    "tags": [],
+    "launched": "2026-02-03T00:00:00Z",
+    "deadline": "2026-03-12T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "DAC-304 ML/DL LAB",
+    "url": "https://www.codabench.org/competitions/13424",
+    "tags": [],
+    "launched": "2026-02-01T11:20:00Z",
+    "deadline": "2026-02-27T12:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "URVIS 2026 Challenge : MUSES-AXPS — Adverse-to-the-eXtreme Panoptic Segmentation @ CVPRW 2026",
+    "url": "https://www.codabench.org/competitions/13395",
+    "tags": [],
+    "launched": "2026-02-01T00:00:00Z",
+    "deadline": "2026-03-10T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "NTIRE 2026 Efficient Low Light Image Enhancement Challenge",
@@ -845,6 +1040,19 @@
     "isNew": false
   },
   {
+    "name": "GRACE @ IberLEF 2026: Granular Recognition of Argumentative Clinical Evidence",
+    "url": "https://www.codabench.org/competitions/13280",
+    "tags": [],
+    "launched": "2026-02-21T23:00:00Z",
+    "deadline": "2026-03-18T22:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "MSLR CSLR-Task-2 (CVPR)",
     "url": "https://www.codabench.org/competitions/13267",
     "tags": [],
@@ -856,6 +1064,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "MSLR CSLR-Task-1 (CVPR) - Post Challenge",
+    "url": "https://www.codabench.org/competitions/13266",
+    "tags": [],
+    "launched": "2026-01-26T00:00:00Z",
+    "deadline": "2026-02-25T23:55:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "NTIRE 2026 on Short-form UGC Video Restoration in the Wild with Generative Models @ CVPR2026",
@@ -897,6 +1118,19 @@
     "isNew": false
   },
   {
+    "name": "CRAC 2026 Shared Task on Multilingual Coreference Resolution UNC",
+    "url": "https://www.codabench.org/competitions/13197",
+    "tags": [],
+    "launched": "2026-01-14T23:00:00Z",
+    "deadline": "2026-03-18T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
     "name": "PARSEME 2.0 Multilingual Shared Task on Identification and Paraphrasing of Multiword Expressions - subtask 2 on MWE paraphrasing",
     "url": "https://www.codabench.org/competitions/13192",
     "tags": [],
@@ -934,6 +1168,19 @@
     "conference_year": null,
     "source": "Codabench",
     "isNew": false
+  },
+  {
+    "name": "BioASQ 2026: BioNNE-R  Shared Task",
+    "url": "https://www.codabench.org/competitions/13132",
+    "tags": [],
+    "launched": "2026-02-08T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
   },
   {
     "name": "Anomaly Detection of Face Enhancement for UGC Images Challenge (@ CVPR 2026)",
@@ -1128,7 +1375,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Mobile AI 2026 Real Image Denoising Challenge",
@@ -1167,7 +1414,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 Light Field Image Super-Resolution Challenge - Track 1 Classic",
@@ -1219,7 +1466,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 the 2nd Event-Based Image Deblurring Challenge",
@@ -1258,7 +1505,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ICDAR 2026 Competition - Sci-ImageMiner (VQA Task)",
@@ -1336,7 +1583,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NTIRE 2026 The 3rd Restore Any Image Model (RAIM): AI Flash Portrait (Track 3)",
@@ -1512,84 +1759,6 @@
     "url": "https://www.codabench.org/competitions/12778",
     "tags": [],
     "launched": "2026-01-29T00:00:00Z",
-    "deadline": "2026-03-17T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "NTIRE 2026 - HR Depth from Images of Specular and Transparent Surfaces - Track 1 - Stereo",
-    "url": "https://www.codabench.org/competitions/12777",
-    "tags": [],
-    "launched": "2026-01-29T00:00:00Z",
-    "deadline": "2026-03-17T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "TRIPLET Challenge @ ESWC2026 - Subtask 1: Relatedness",
-    "url": "https://www.codabench.org/competitions/12776",
-    "tags": [],
-    "launched": "2026-01-14T23:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "NTIRE 2026 Controllable Aperture Bokeh Rendering Challenge (@CVPR 2026)",
-    "url": "https://www.codabench.org/competitions/12764",
-    "tags": [],
-    "launched": "2026-01-20T00:00:00Z",
-    "deadline": "2026-03-17T23:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "NTIRE 2026 Robust AI-Generated Image Detection in the Wild",
-    "url": "https://www.codabench.org/competitions/12761",
-    "tags": [],
-    "launched": "2026-01-15T00:00:00Z",
-    "deadline": "2026-03-16T23:55:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "X-AIGC Quality Assessment - Track 1：Text-to-3D",
-    "url": "https://www.codabench.org/competitions/12732",
-    "tags": [],
-    "launched": "2026-01-15T00:00:00Z",
-    "deadline": null,
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": false
-  },
-  {
-    "name": "NTIRE 2026 Rip Current Detection and Segmentation (RipDetSeg) Challenge @CVPR2026",
-    "url": "https://www.codabench.org/competitions/12730",
-    "tags": [],
-    "launched": "2026-01-15T00:00:00Z",
     "deadline": "2026-03-17T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
