@@ -1,5 +1,72 @@
 [
   {
+    "name": "Predict Cross-sectional Equity Returns",
+    "url": "https://hub.crunchdao.com/competitions/datacrunch-2?ref=mlcontests",
+    "tags": [
+      "supervised",
+      "tabular",
+      "timeseries",
+      "forecasting",
+      "measurable",
+      "regression",
+      "finance"
+    ],
+    "launched": "5 Jan 2026",
+    "registration-deadline": "31 Dec 2026",
+    "deadline": "31 Dec 2026",
+    "prize": "$52,000",
+    "platform": "CrunchDAO",
+    "sponsor": "Crunch Capital",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Detect Structural Breaks in Time Series Data",
+    "url": "https://hub.crunchdao.com/competitions/structural-break-open-benchmark?ref=mlcontests",
+    "tags": [
+      "supervised",
+      "tabular",
+      "timeseries",
+      "forecasting",
+      "measurable",
+      "finance"
+    ],
+    "launched": "18 Dec 2025",
+    "registration-deadline": "31 Dec 2026",
+    "deadline": "31 Dec 2026",
+    "prize": "$24,000",
+    "platform": "CrunchDAO",
+    "sponsor": "ADIA Lab",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Identify Genes Driving Metabolic Diseases",
+    "url": "https://hub.crunchdao.com/competitions/broad-obesity-1?ref=mlcontests",
+    "tags": [
+      "supervised",
+      "regression",
+      "ranking",
+      "science",
+      "medical",
+      "measurable"
+    ],
+    "launched": "8 Dec 2025",
+    "registration-deadline": "1 May 2026",
+    "deadline": "1 May 2026",
+    "prize": "$12,000",
+    "platform": "CrunchDAO",
+    "sponsor": "Eric and Wendy Schmidt Center",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
     "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
     "url": "https://hub.crunchdao.com/competitions/falcon?ref=mlcontests",
     "tags": [
@@ -12,8 +79,8 @@
       "regression"
     ],
     "launched": "15 Oct 2025",
-    "registration-deadline": "31 Jan 2026",
-    "deadline": "31 Jan 2026",
+    "registration-deadline": "14 Feb 2026",
+    "deadline": "14 Feb 2026",
     "prize": "$30,000",
     "platform": "CrunchDAO",
     "sponsor": null,
@@ -2991,7 +3058,7 @@
     ],
     "prize": "$100,000",
     "platform": "CrunchDAO",
-    "sponsor": "ADIALAB",
+    "sponsor": "ADIA Lab",
     "source": "ML Contest",
     "isNew": false
   },
