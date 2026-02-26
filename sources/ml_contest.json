@@ -20,7 +20,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Detect Structural Breaks in Time Series Data",
@@ -42,7 +42,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Identify Genes Driving Metabolic Diseases",
@@ -64,7 +64,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Falcon: Price-Like Timeseries Forecasting Using Third-Party Predictions",
