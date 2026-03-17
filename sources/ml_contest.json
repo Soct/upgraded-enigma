@@ -1,5 +1,30 @@
 [
   {
+    "name": "Predict Liver-Related Events from Synthetic Patient Data",
+    "url": "https://annitia.trustii.io/?ref=mlcontests",
+    "tags": [
+      "measurable",
+      "supervised",
+      "regression",
+      "tabular",
+      "medical",
+      "science"
+    ],
+    "launched": "16 Mar 2026",
+    "registration-deadline": "11 May 2026",
+    "deadline": "11 May 2026",
+    "prize": "$16,000",
+    "platform": "Trustii",
+    "sponsor": "IHU ICAN, Health Data Hub, France 2030",
+    "conference": null,
+    "conference_year": null,
+    "additional_urls": [
+      "https://health-data-hub.fr/page/le-data-challenge-annitia"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
     "name": "Optimise LLM Inference Performance on AMD MI355X GPUs",
     "url": "https://luma.com/cqq4mojz?ref=mlcontests",
     "tags": [
@@ -280,7 +305,7 @@
     "deadline": "10 May 2025",
     "prize": "$50,000",
     "platform": "Pond",
-    "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, Allo Capital, Drips Network, Pairwisevote",
+    "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, others",
     "additional_urls": [
       "https://www.deepfunding.org/"
     ],
@@ -2446,7 +2471,7 @@
     "deadline": "15 Dec 2024",
     "prize": "$8,000",
     "platform": "Zindi",
-    "sponsor": "FAIR Forward, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+    "sponsor": "FAIR Forward, Deutsche GIZ",
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
@@ -2468,7 +2493,7 @@
     "deadline": "09 Feb 2025",
     "prize": "$7,300",
     "platform": "Zindi",
-    "sponsor": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)",
+    "sponsor": "Deutsche GIZ",
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
@@ -4416,5 +4441,167 @@
     "conference_year": null,
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Identify Safety-Critical Driving Scenarios",
+    "url": "https://www.argoverse.org/ScenarioMining.html?ref=mlcontests",
+    "tags": [
+      "driving",
+      "vision",
+      "nlp",
+      "video",
+      "detection",
+      "measurable"
+    ],
+    "launched": "18 Feb 2026",
+    "deadline": "31 May 2026",
+    "added": "16 Mar 2026",
+    "prize": "$7,500",
+    "platform": "EvalAI",
+    "sponsor": "Argo AI",
+    "conference": "CVPR",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://eval.ai/web/challenges/challenge-page/2484/overview"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Reconstruct 3D Buildings from Diverse Regions",
+    "url": "https://usm3d.github.io/?ref=mlcontests",
+    "tags": [
+      "3d",
+      "vision",
+      "segmentation",
+      "building"
+    ],
+    "deadline": "25 May 2026",
+    "added": "16 Mar 2026",
+    "prize": "$2,000",
+    "platform": "Hugging Face",
+    "sponsor": null,
+    "conference": "CVPR",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Detect and Localize Athletes in Soccer Broadcasts",
+    "url": "https://www.codabench.org/competitions/10155/?ref=mlcontests",
+    "tags": [
+      "detection",
+      "vision",
+      "sports",
+      "measurable"
+    ],
+    "deadline": "24 Apr 2026",
+    "added": "16 Mar 2026",
+    "prize": "$1,000",
+    "platform": "Codabench",
+    "sponsor": "Spiideo",
+    "conference": "CVPR",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://www.soccer-net.org/challenges/2026"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Anticipate Ball Actions in Soccer Videos",
+    "url": "https://www.codabench.org/competitions/10861/?ref=mlcontests",
+    "tags": [
+      "video",
+      "prediction",
+      "sports",
+      "timeseries",
+      "classification",
+      "measurable"
+    ],
+    "deadline": "24 Apr 2026",
+    "added": "16 Mar 2026",
+    "prize": "$1,000",
+    "platform": "Codabench",
+    "sponsor": "Game On Technologies",
+    "conference": "CVPR",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://www.soccer-net.org/challenges/2026"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Answer Visual Questions About Soccer Videos",
+    "url": "https://www.codabench.org/competitions/11087/?ref=mlcontests",
+    "tags": [
+      "video",
+      "nlp",
+      "multimodal",
+      "sports",
+      "measurable"
+    ],
+    "deadline": "24 Apr 2026",
+    "added": "16 Mar 2026",
+    "prize": "$1,000",
+    "platform": "Codabench",
+    "sponsor": "KNQ Technology",
+    "conference": "CVPR",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://www.soccer-net.org/challenges/2026"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Spot Player-Centric Actions in Soccer",
+    "url": "https://www.codabench.org/competitions/11232/?ref=mlcontests",
+    "tags": [
+      "video",
+      "detection",
+      "sports",
+      "timeseries",
+      "classification",
+      "measurable"
+    ],
+    "deadline": "24 Apr 2026",
+    "added": "16 Mar 2026",
+    "prize": "$1,000",
+    "platform": "Codabench",
+    "sponsor": "Footovision",
+    "conference": "CVPR",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://www.soccer-net.org/challenges/2026"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Synthesize Novel Views of Soccer Matches",
+    "url": "https://www.codabench.org/competitions/11339/?ref=mlcontests",
+    "tags": [
+      "3d",
+      "vision",
+      "sports",
+      "generative"
+    ],
+    "deadline": "24 Apr 2026",
+    "added": "16 Mar 2026",
+    "prize": "$1,000",
+    "platform": "Codabench",
+    "sponsor": "EVS Broadcast Equipment",
+    "conference": "CVPR",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://www.soccer-net.org/challenges/2026?ref=mlcontests"
+    ],
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
