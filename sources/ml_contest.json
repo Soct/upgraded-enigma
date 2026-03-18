@@ -22,7 +22,7 @@
       "https://health-data-hub.fr/page/le-data-challenge-annitia"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Optimise LLM Inference Performance on AMD MI355X GPUs",
@@ -4465,7 +4465,7 @@
       "https://eval.ai/web/challenges/challenge-page/2484/overview"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Reconstruct 3D Buildings from Diverse Regions",
@@ -4487,7 +4487,7 @@
       "https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Detect and Localize Athletes in Soccer Broadcasts",
@@ -4509,7 +4509,7 @@
       "https://www.soccer-net.org/challenges/2026"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Anticipate Ball Actions in Soccer Videos",
@@ -4533,7 +4533,7 @@
       "https://www.soccer-net.org/challenges/2026"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Answer Visual Questions About Soccer Videos",
@@ -4556,7 +4556,7 @@
       "https://www.soccer-net.org/challenges/2026"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Spot Player-Centric Actions in Soccer",
@@ -4580,7 +4580,7 @@
       "https://www.soccer-net.org/challenges/2026"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Synthesize Novel Views of Soccer Matches",
@@ -4602,6 +4602,6 @@
       "https://www.soccer-net.org/challenges/2026?ref=mlcontests"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
