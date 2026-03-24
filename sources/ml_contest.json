@@ -4443,6 +4443,107 @@
     "isNew": false
   },
   {
+    "name": "Predict Frog Species from Climate Variables",
+    "url": "https://zindi.africa/competitions/ey-biodiversity-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+    "tags": [
+      "supervised",
+      "classification",
+      "science",
+      "measurable",
+      "geo"
+    ],
+    "launched": "27 Mar 2026",
+    "registration-deadline": "25 May 2026",
+    "deadline": "25 May 2026",
+    "prize": "$3,500",
+    "platform": "Zindi",
+    "sponsor": "EY",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Identify LLM Failure Modes in African Contexts",
+    "url": "https://zindi.africa/competitions/the-african-trust-safety-llm-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+    "tags": [
+      "llm",
+      "subjective",
+      "safety"
+    ],
+    "launched": "20 Mar 2026",
+    "registration-deadline": "20 Apr 2026",
+    "deadline": "20 Apr 2026",
+    "prize": "$5,000",
+    "platform": "Zindi",
+    "sponsor": "CASSAVA, AMINI, meetkai, Qhala, LELAPA AI, MTN",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Classify Climate-sensitive Deaths",
+    "url": "https://zindi.africa/competitions/climate-health-risk-prediction-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+    "tags": [
+      "supervised",
+      "tabular",
+      "measurable",
+      "classification",
+      "geo"
+    ],
+    "launched": "28 Mar 2026",
+    "registration-deadline": "29 Mar 2026",
+    "deadline": "29 Mar 2026",
+    "prize": "$7,500",
+    "platform": "Zindi",
+    "sponsor": "AI4EAC",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Predict Household Financial Stress",
+    "url": "https://zindi.africa/competitions/liquidity-stress-early-warning-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+    "tags": [
+      "supervised",
+      "classification",
+      "measurable",
+      "tabular"
+    ],
+    "launched": "28 Mar 2026",
+    "registration-deadline": "29 Mar 2026",
+    "deadline": "29 Mar 2026",
+    "prize": "$7,500",
+    "platform": "Zindi",
+    "sponsor": "AI4EAC",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Recommend Occupations Based on Skills",
+    "url": "https://zindi.africa/competitions/skills2job-intelligent-career-pathways-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+    "tags": [
+      "supervised",
+      "classification",
+      "recommendation",
+      "measurable"
+    ],
+    "launched": "28 Mar 2026",
+    "registration-deadline": "29 Mar 2026",
+    "deadline": "29 Mar 2026",
+    "prize": "$7,500",
+    "platform": "Zindi",
+    "sponsor": "AI4EAC",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
     "name": "Identify Safety-Critical Driving Scenarios",
     "url": "https://www.argoverse.org/ScenarioMining.html?ref=mlcontests",
     "tags": [
@@ -4603,5 +4704,25 @@
     ],
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Identify Bean Plants in Images",
+    "url": "https://zindi.africa/competitions/bean-flowering-detection-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+    "tags": [
+      "supervised",
+      "vision",
+      "classification",
+      "measurable"
+    ],
+    "launched": "28 Mar 2026",
+    "registration-deadline": "29 Mar 2026",
+    "deadline": "29 Mar 2026",
+    "prize": "$7,500",
+    "platform": "Zindi",
+    "sponsor": "AI4EAC",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
