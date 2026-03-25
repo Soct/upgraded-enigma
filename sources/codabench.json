@@ -1,9 +1,22 @@
 [
   {
-    "name": "NALEF Food Safety",
-    "url": "https://www.codabench.org/competitions/15174",
+    "name": "Wykrywanie defektów na obiektach - tranzystory",
+    "url": "https://www.codabench.org/competitions/15228",
     "tags": [],
-    "launched": "2026-04-05T00:00:00Z",
+    "launched": "2026-03-22T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "NALEF Food Safety",
+    "url": "https://www.codabench.org/competitions/15215",
+    "tags": [],
+    "launched": "2026-04-03T00:00:00Z",
     "deadline": "2026-04-30T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
@@ -23,7 +36,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Cricket Over Prediction",
@@ -36,7 +49,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Classify Wheat Seeds",
@@ -49,7 +62,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Wykrywanie defektów na obiektach - kable elektryczne",
@@ -62,7 +75,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Single Class Movie Genre Classification",
@@ -75,7 +88,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Exploring Age Estimation with Facial and Tongue Biometrics: A Challenge for Multi-modal Medical Biometrics Dataset",
@@ -88,7 +101,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "NALEF Food Safety",
@@ -101,7 +114,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "catsdogs_competition",
@@ -114,7 +127,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "catsdogs_competition",
@@ -127,7 +140,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "catsdogs_competition",
@@ -140,7 +153,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "catsdogs_competition",
@@ -153,7 +166,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "catsdogs_competition",
@@ -166,7 +179,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TDDE70 Remote Sensing with CLIP - 2026",
@@ -179,7 +192,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "[VA] Evaluación del impacto de desastres naturales sobre zonas urbanas utilizando DNNs para la clasificación de imágenes satelitales",
@@ -192,7 +205,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Reddit Comment Classification",
@@ -205,7 +218,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predict the Movies Rating from Reviews",
@@ -218,7 +231,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paraphrasing Detection",
@@ -226,6 +239,110 @@
     "tags": [],
     "launched": "2026-03-16T00:00:00Z",
     "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": false
+  },
+  {
+    "name": "Paraphrase Detection",
+    "url": "https://www.codabench.org/competitions/14953",
+    "tags": [],
+    "launched": "2026-03-13T00:00:00Z",
+    "deadline": "2026-03-28T12:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "News Bias Classification",
+    "url": "https://www.codabench.org/competitions/14950",
+    "tags": [],
+    "launched": "2026-03-16T00:00:00Z",
+    "deadline": "2026-12-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Hallucination Detection in Question-Answer Systems (Group 32)",
+    "url": "https://www.codabench.org/competitions/14944",
+    "tags": [],
+    "launched": "2026-03-16T00:00:00Z",
+    "deadline": "2026-05-31T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Team 3 Sarcasm Detection on Reddit Comments",
+    "url": "https://www.codabench.org/competitions/14943",
+    "tags": [],
+    "launched": "2026-03-13T16:00:00Z",
+    "deadline": "2026-03-23T04:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ClickBait Classification",
+    "url": "https://www.codabench.org/competitions/14942",
+    "tags": [],
+    "launched": "2026-03-16T12:00:00Z",
+    "deadline": "2026-06-30T12:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Classify AG News Article Headlines - Group 8",
+    "url": "https://www.codabench.org/competitions/14941",
+    "tags": [],
+    "launched": "2026-03-16T12:00:00Z",
+    "deadline": "2026-04-30T12:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "ArXiv Abstract Topic Classification Benchmark",
+    "url": "https://www.codabench.org/competitions/14936",
+    "tags": [],
+    "launched": "2026-03-16T17:00:00Z",
+    "deadline": "2026-05-01T17:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Song Lyrics Genre Classification",
+    "url": "https://www.codabench.org/competitions/14931",
+    "tags": [],
+    "launched": "2026-01-01T05:00:00Z",
+    "deadline": "2026-05-31T18:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -244,7 +361,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "V-MAD Competition 2026 @ IJCB",
@@ -252,6 +369,19 @@
     "tags": [],
     "launched": "2026-03-16T00:00:00Z",
     "deadline": "2026-05-07T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": false
+  },
+  {
+    "name": "Movie Genre Classification from Synopsis",
+    "url": "https://www.codabench.org/competitions/14927",
+    "tags": [],
+    "launched": "2026-03-13T00:00:00Z",
+    "deadline": "2026-07-13T00:00:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -270,6 +400,84 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
+    "isNew": false
+  },
+  {
+    "name": "COMPSCI 4NL3 (group 21): Detecting Cyberbullying",
+    "url": "https://www.codabench.org/competitions/14912",
+    "tags": [],
+    "launched": "2026-03-15T00:00:00Z",
+    "deadline": "2026-04-17T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Genre no Jutsu: Anime Genre Classifier",
+    "url": "https://www.codabench.org/competitions/14904",
+    "tags": [],
+    "launched": "2026-03-17T00:00:00Z",
+    "deadline": "2026-04-08T23:59:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Test (4nl3)",
+    "url": "https://www.codabench.org/competitions/14902",
+    "tags": [],
+    "launched": "2025-09-01T01:00:00Z",
+    "deadline": "2026-08-01T01:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "\"Yahoo! Answers\" Question Classification",
+    "url": "https://www.codabench.org/competitions/14898",
+    "tags": [],
+    "launched": "2026-01-01T00:00:00Z",
+    "deadline": "2027-12-31T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Wykrywanie defektów na obiektach - szczoteczki",
+    "url": "https://www.codabench.org/competitions/14893",
+    "tags": [],
+    "launched": "2026-03-16T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": true
+  },
+  {
+    "name": "Weryfikacja platformy - prosta segmentacja",
+    "url": "https://www.codabench.org/competitions/14889",
+    "tags": [],
+    "launched": "2026-03-16T00:00:00Z",
+    "deadline": null,
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
     "isNew": true
   },
   {
@@ -283,7 +491,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Post Intent Detection (Group 27)",
@@ -296,7 +504,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Classify Articles As Clickbait",
@@ -309,7 +517,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Misinformation Classifier - CS4NL3 (Group 12)",
@@ -322,7 +530,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Idiom Classifier Model",
@@ -335,7 +543,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DigiForests: LiDAR Panoptic Segmentation of Forests",
@@ -348,7 +556,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Multi Label Email Classification",
@@ -361,7 +569,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Turn-Level User Intent Classification",
@@ -374,7 +582,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Educational Text Readability Prediction",
@@ -387,7 +595,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Phishing Email Detection",
@@ -400,7 +608,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Who Said That? Character Attribution in The Office",
@@ -413,7 +621,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Inshorts Short News Topic Classification",
@@ -426,7 +634,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Movie Genre Classification",
@@ -439,7 +647,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AG News Topic Classification",
@@ -452,7 +660,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "MedExACT @ ACL 2026",
@@ -465,7 +673,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Language Classification through Texts",
@@ -478,7 +686,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Emergency Audio Event Detection",
@@ -491,7 +699,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Reddit Comment Response Classification",
@@ -504,7 +712,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AITA Reddit Post Classification",
@@ -517,7 +725,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Classifying length of WikiHow pages",
@@ -530,7 +738,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paraphrasing Detection",
@@ -543,7 +751,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "EgoExo4D Procedure Understanding",
@@ -556,7 +764,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Legal Advice Classification Competition",
@@ -564,6 +772,19 @@
     "tags": [],
     "launched": "2026-03-11T04:00:00Z",
     "deadline": "2026-04-20T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": false
+  },
+  {
+    "name": "CLPsych 2026 Shared Task: Capturing and Characterizing Mental Health Changes through Social Media Timeline Dynamics (Task 2)",
+    "url": "https://www.codabench.org/competitions/14703",
+    "tags": [],
+    "launched": "2026-03-23T19:00:00Z",
+    "deadline": "2026-04-01T11:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -582,7 +803,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DDFF 12-Scene Depth From Focus Competition",
@@ -595,7 +816,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Phishing Email Detection Challenge",
@@ -608,7 +829,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Directional Forecasting of the S&P 500 Index",
@@ -621,7 +842,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ChemSmiles classification",
@@ -634,7 +855,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Örebro 4D-radar SLAM Challenge",
@@ -647,7 +868,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "EuroZone GDP Nowcasting",
@@ -660,7 +881,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "BEA 2026 Shared Task: Unseen Questions 3-Way",
@@ -673,7 +894,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "BEA 2026 Shared Task: Unseen Answers 3-Way",
@@ -686,7 +907,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "BEA 2026 Shared Task: Unseen Questions 2-Way",
@@ -699,7 +920,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "BEA 2026 Shared Task: Unseen Answers 2-Way",
@@ -712,7 +933,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Classify Youtube Video's Text and Title",
@@ -725,7 +946,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predictive AI Evaluation Challenge",
@@ -738,7 +959,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WomenHelp 2026: Classification of Gender-Based Violence Reports to Help Threatened Women in Northern Mexico",
@@ -751,7 +972,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ChemSmiles classification",
@@ -764,7 +985,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ADEME DPE Prediction Challenge",
@@ -777,7 +998,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Studying the French socio-economic factors on highschool education",
@@ -790,7 +1011,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Multi-label Offender Report Classification in League of Legends",
@@ -803,7 +1024,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "EuroZone GDP Nowcasting",
@@ -816,7 +1037,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AAV Capsid Optimization Challenge",
@@ -829,7 +1050,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Snow Depth Forecasting - French Alps",
@@ -842,7 +1063,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Reinforcement Learning Challenge! CS780",
@@ -855,7 +1076,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Diabetic Retinopathy Detection",
@@ -868,7 +1089,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paris Weather Prediction Challenge",
@@ -881,7 +1102,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Crystal Formation Energy Challenge - DATACAMP 2026",
@@ -894,7 +1115,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "20 Newsgroups Text Classification",
@@ -907,7 +1128,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paris Weather Prediction Challenge",
@@ -920,7 +1141,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paris Weather Prediction Challenge",
@@ -933,7 +1154,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paris Weather Prediction Challenge",
@@ -946,7 +1167,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ClearSky - Predicting PM2.5 Air Pollution in Beijing",
@@ -959,7 +1180,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paris Weather Prediction Challenge",
@@ -972,7 +1193,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paris Weather Prediction Challenge",
@@ -985,7 +1206,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TalentCLEF 2026 Task B - Job-Skill Matching with Skill Type Classification",
@@ -998,7 +1219,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Ego4D Short Term Object Interaction Anticipation Challenge",
@@ -1011,7 +1232,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Datacamp - Prediction of exchange fluxes",
@@ -1024,7 +1245,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "EPIC-KITCHENS-100 Action Anticipation",
@@ -1037,7 +1258,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Paris Weather Prediction Challenge",
@@ -1050,7 +1271,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "[OLD with fails] - Global Cybersecurity Severity Prediction",
@@ -1063,7 +1284,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Dying galaxies : Predicting Star Formation Shutdown with Euclid",
@@ -1076,7 +1297,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TiVA Time-Machine — Nowcasting des Chaînes de Valeur Mondiales",
@@ -1089,7 +1310,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WVS Happiness Prediction Competition",
@@ -1102,7 +1323,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WVS Happiness Prediction Challenge Final",
@@ -1115,7 +1336,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CRAC 2026 Shared Task on Multilingual Coreference Resolution LLM - DEV",
@@ -1128,7 +1349,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CRAC 2026 Shared Task on Multilingual Coreference Resolution UNC - DEV",
@@ -1141,7 +1362,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "GEMS-GER Groundwater Level Prediction Challenge",
@@ -1154,7 +1375,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Drug-Induced Autoimmunity Prediction",
@@ -1167,7 +1388,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DPE Energy Consumption Prediction Challenge",
@@ -1180,7 +1401,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WVS Happiness Prediction Challenge test",
@@ -1193,7 +1414,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Prompt compression",
@@ -1206,7 +1427,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Micro-Expression Grand Challenge (MEGC) 2026 - Track 2 Long Video Question Answering",
@@ -1219,7 +1440,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "X-FAID:Inter-Product Few-Shot Flexible Anomaly-aware Industrial Defect Detection Challenge @SciVIS2026",
@@ -1232,7 +1453,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "GOOSE 2D Fine-Grained Semantic Segmentation Challenge",
@@ -1245,7 +1466,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "OncoSegment - Breast Tumor Mapping",
@@ -1258,7 +1479,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "WVS Happiness Prediction Challenge",
@@ -1271,7 +1492,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TidyLang Challenge 2026",
@@ -1284,7 +1505,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Online Shoppers Purchasing Intention",
@@ -1297,7 +1518,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "TalentCLEF 2026 Task A - Contextualized Job-Person Matching",
@@ -1310,20 +1531,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
-  },
-  {
-    "name": "SMM4H-HeaRD 2026 Task 4: MedSynth Dialogue-to-Note Generation",
-    "url": "https://www.codabench.org/competitions/14194",
-    "tags": [],
-    "launched": "2026-02-05T00:00:00Z",
-    "deadline": "2026-12-31T00:00:00Z",
-    "prize": "N/A",
-    "platform": "Codabench",
-    "conference": null,
-    "conference_year": null,
-    "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Cross-Cultural Misogynistic Meme Detection Challenge (CC-MMD) 2026",
@@ -1336,7 +1544,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Speech Accessibility Project Challenge 2, Track 2 - Streaming ASR",
@@ -1349,7 +1557,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Speech Accessibility Project Challenge 2, Track 1 - Unconstrained ASR",
@@ -1362,7 +1570,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "HISEMOTIONS at IberLEF 2026: Historical Text-Based Emotion Detection in Early Modern Spanish Correspondence",
@@ -1375,7 +1583,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CS712 Course Project 2026",
@@ -1388,7 +1596,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SMM4H 2026 - Task 1 - Binary Classification of Social Media Posts containing Adverse Drug Events.",
@@ -1401,7 +1609,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "CS421 AY25/26 T2",
@@ -1414,7 +1622,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "OLDDD CS421 AY25/26 T2",
@@ -1427,7 +1635,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "V1OBELIX Reinforcement Learning Challenge",
@@ -1440,7 +1648,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SMM4H-HeaRD 2026 Task 6 - Predicting TNM Staging from TCGA Pathology Reports",
@@ -1453,7 +1661,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Physics-aware Video Instance Removal",
@@ -1466,7 +1674,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Generic Instructional Video Editing @ CVPR VGBE 2026",
@@ -1479,7 +1687,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Mobile AI 4K Quantized Image Super-Resolution Challenge",
@@ -1492,7 +1700,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Mobile AI 2026 Efficient LLMs Challenge",
@@ -1500,6 +1708,19 @@
     "tags": [],
     "launched": "2026-02-01T00:00:00Z",
     "deadline": "2026-03-20T00:00:00Z",
+    "prize": "N/A",
+    "platform": "Codabench",
+    "conference": null,
+    "conference_year": null,
+    "source": "Codabench",
+    "isNew": false
+  },
+  {
+    "name": "CLPsych 2026 Shared Task: Capturing and Characterizing Mental Health Changes through Social Media Timeline Dynamics (Task 1)",
+    "url": "https://www.codabench.org/competitions/14057",
+    "tags": [],
+    "launched": "2026-03-23T00:00:00Z",
+    "deadline": "2026-04-01T11:59:00Z",
     "prize": "N/A",
     "platform": "Codabench",
     "conference": null,
@@ -1518,7 +1739,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "ClimateCheck@NSLP 2026 (DUMMY)",
@@ -1531,7 +1752,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "2026 DriveX Grand Challenge - TUMTraf V2X Cooperative Perception Dataset",
@@ -1544,7 +1765,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Mobile AI 2026 Real-Time Image Super-Resolution Challenge",
@@ -1557,7 +1778,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Mobile AI 2026 Real-Time Video Super-Resolution Challenge",
@@ -1570,7 +1791,7 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "SMM4H-HEARD 2026 Task 3 - Estimating Flu Vaccine Effectiveness from Social Media Posts",
@@ -1583,6 +1804,6 @@
     "conference": null,
     "conference_year": null,
     "source": "Codabench",
-    "isNew": true
+    "isNew": false
   }
 ]
