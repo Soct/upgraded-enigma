@@ -4744,7 +4744,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predict Bank Transaction Volume from Behavioural Signals",
@@ -4765,7 +4765,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build AI Agents for Telecom Network Troubleshooting",
@@ -4784,6 +4784,6 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
