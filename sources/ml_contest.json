@@ -1,5 +1,31 @@
 [
   {
+    "name": "Foundation Models for General CT Image Diagnosis",
+    "url": "https://www.codabench.org/competitions/12650/?ref=mlcontests",
+    "tags": [
+      "measurable",
+      "supervised",
+      "classification",
+      "vision",
+      "medical",
+      "science",
+      "deep learning"
+    ],
+    "deadline": "15 May 2026",
+    "added": "15 Apr 2026",
+    "prize": null,
+    "additional_prizes": "Amazon gift cards (300/200/100 CAD) for top 3 if >20 docker submissions; oral presentation invitation for top 3; poster presentation invitation for top 10; souvenirs for top 4-10; certificates for top 10",
+    "platform": "Codabench",
+    "sponsor": null,
+    "conference": "CVPR",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://fmv-cvpr26workshop.github.io/"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
     "name": "Predict Liver-Related Events from Synthetic Patient Data",
     "url": "https://annitia.trustii.io/?ref=mlcontests",
     "tags": [
