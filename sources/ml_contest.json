@@ -23,7 +23,7 @@
       "https://fmv-cvpr26workshop.github.io/"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predict Liver-Related Events from Synthetic Patient Data",
