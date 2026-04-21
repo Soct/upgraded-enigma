@@ -4811,5 +4811,25 @@
     "conference_year": null,
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Identify Harmful LLM Outputs",
+    "url": "https://bitgrit.net/competition/27",
+    "tags": [
+      "nlp",
+      "classification",
+      "supervised",
+      "measurable"
+    ],
+    "launched": "1 Apr 2026",
+    "registration-deadline": "31 May 2026",
+    "deadline": "31 May 2026",
+    "prize": "$3,000",
+    "platform": "Bitgrit",
+    "sponsor": "Bitgrit",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
