@@ -5038,7 +5038,7 @@
     ],
     "added": "11 May 2026",
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "AI for Math Challenges",
@@ -5064,6 +5064,6 @@
     ],
     "added": "11 May 2026",
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
