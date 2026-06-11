@@ -5110,7 +5110,7 @@
       "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build Open-Source AI Agents on Qwen Cloud",
@@ -5132,7 +5132,7 @@
     "conference-year": null,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build Intelligent Agents with Microsoft Azure",
@@ -5156,7 +5156,7 @@
       "https://github.com/microsoft/Agents-League-AISF-Regulations"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build AI Agents for Observability and Security",
@@ -5178,7 +5178,7 @@
     "conference-year": null,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build AI Data Agents for Data Analysis",
@@ -5201,7 +5201,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Segment Lesions in Whole-Body Scans",
@@ -5223,7 +5223,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Detect Rare Early-Stage Cancers in Endoscopy",
@@ -5245,7 +5245,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Segment and Plan Pelvic Fracture Repair",
@@ -5267,7 +5267,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Generate Diagnostic Reports from Pathology Slides",
@@ -5290,6 +5290,6 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
