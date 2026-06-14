@@ -5314,7 +5314,7 @@
     "conference": null,
     "conference-year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build Real Products with Google Gemini",
@@ -5335,6 +5335,6 @@
     "conference": null,
     "conference-year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
