@@ -1,5 +1,24 @@
 [
   {
+    "name": "Project Omnibus: Optimise School Bus Routes",
+    "url": "https://competition.bcamlc.com?ref=mlcontests",
+    "tags": [
+      "reinforcement learning",
+      "optimisation",
+      "measurable",
+      "tabular",
+      "geo",
+      "deep learning",
+      "search"
+    ],
+    "deadline": "1 Aug 2026",
+    "prize": "$1,000",
+    "platform": "Independent",
+    "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy",
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
     "name": "Identify Gene Pairs Driving Metabolic Diseases (Part 3)",
     "url": "https://hub.crunchdao.com/competitions/broad-obesity-3?ref=mlcontests",
     "tags": [
