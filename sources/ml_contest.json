@@ -16,7 +16,7 @@
     "platform": "Independent",
     "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy",
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Identify Gene Pairs Driving Metabolic Diseases (Part 3)",
