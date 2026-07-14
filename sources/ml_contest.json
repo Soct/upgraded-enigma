@@ -5436,5 +5436,50 @@
     "conference-year": null,
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Predict Student Learning Outcomes from Tutoring Transcripts",
+    "url": "https://platform.k12-ai-infrastructure.org/competitions/3/tutoring-outcomes/?ref=mlcontests",
+    "tags": [
+      "education",
+      "nlp",
+      "supervised",
+      "tabular",
+      "prediction"
+    ],
+    "launched": "15 Jun 2026",
+    "registration-deadline": null,
+    "deadline": "27 Aug 2026",
+    "added": "13 Jul 2026",
+    "prize": "$50,000",
+    "platform": "DrivenData",
+    "sponsor": "National Tutoring Observatory",
+    "conference": null,
+    "conference-year": null,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Fine-Tune Domain-Specific LLMs",
+    "url": "https://adaptionlabs.ai/blog/autoscientist-challenge?ref=mlcontests",
+    "tags": [
+      "fine-tuning",
+      "hackathon",
+      "data",
+      "llm"
+    ],
+    "launched": "8 Jun 2026",
+    "registration-deadline": null,
+    "deadline": "10 Aug 2026",
+    "added": "13 Jul 2026",
+    "prize": "$50,000",
+    "platform": "Independent",
+    "sponsor": "Adaption Labs",
+    "conference": null,
+    "conference-year": null,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
