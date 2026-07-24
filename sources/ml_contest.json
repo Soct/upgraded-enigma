@@ -5406,8 +5406,8 @@
       "measurable"
     ],
     "launched": "12 Jun 2025",
-    "registration-deadline": "28 Jul 2026",
-    "deadline": "28 Jul 2026",
+    "registration-deadline": "4 Aug 2026",
+    "deadline": "4 Aug 2026",
     "prize": "$12,000",
     "platform": "Solafune",
     "sponsor": null,
@@ -5436,6 +5436,26 @@
     "conference-year": null,
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Identify Reef Fish Species with Computer Vision Models",
+    "url": "https://zindi.africa/competitions/wishlist-hackathon-2026-marine-vision-challenge?utm_source=mlcontest&utm_medium=referral&utm_campaign=compupdates",
+    "tags": [
+      "supervised",
+      "classification",
+      "vision",
+      "measurable"
+    ],
+    "launched": "25 Jul 2026",
+    "registration-deadline": "29 Aug 2026",
+    "deadline": "29 Aug 2026",
+    "prize": "$1,500",
+    "platform": "Zindi",
+    "sponsor": "Fairytale, bluebot, GovTech, INFOLYTICS",
+    "conference": null,
+    "conference_year": null,
+    "source": "ML Contest",
+    "isNew": true
   },
   {
     "name": "Predict Student Learning Outcomes from Tutoring Transcripts",
