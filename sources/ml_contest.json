@@ -5455,7 +5455,7 @@
     "conference": null,
     "conference_year": null,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predict Student Learning Outcomes from Tutoring Transcripts",
@@ -5501,5 +5501,30 @@
     "additional_urls": [],
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Build Smart, Reliable Email Agents",
+    "url": "https://theemailgame.com/?ref=mlcontests",
+    "tags": [
+      "agents",
+      "llm",
+      "nlp",
+      "game",
+      "security",
+      "pvp",
+      "hackathon"
+    ],
+    "launched": null,
+    "registration-deadline": null,
+    "deadline": "1 Aug 2026",
+    "added": "22 Jul 2026",
+    "prize": "$1,700",
+    "platform": "Independent",
+    "sponsor": "WithAI",
+    "conference": null,
+    "conference-year": null,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
