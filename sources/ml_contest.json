@@ -5526,5 +5526,96 @@
     "additional_urls": [],
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Design Physics Experiments for Gravitational Waves",
+    "url": "https://www.learn2design2026.com/?ref=mlcontests",
+    "tags": [
+      "physics",
+      "design",
+      "science",
+      "optimisation"
+    ],
+    "launched": "15 Jul 2026",
+    "registration-deadline": null,
+    "deadline": "15 Oct 2026",
+    "added": "29 Jul 2026",
+    "prize": "$27,000",
+    "platform": "Independent",
+    "sponsor": "SPRIN-D",
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Infer Fusion Reactor Magnetic Geometry",
+    "url": "https://fusion-equilibrium-challenge.sophelio.io/?ref=mlcontests",
+    "tags": [
+      "physics",
+      "science",
+      "prediction"
+    ],
+    "launched": null,
+    "deadline": "26 Oct 2026",
+    "added": "29 Jul 2026",
+    "prize": "$1,000",
+    "platform": "Independent",
+    "sponsor": "Sophelio, General Atomics, UKAEA, UT Austin",
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "RealPDE: Scientific ML for Real-World Physical Systems",
+    "url": "https://realpdecompetition.github.io/?ref=mlcontests",
+    "tags": [
+      "physics",
+      "science",
+      "deep learning",
+      "simulation"
+    ],
+    "launched": "5 Jul 2026",
+    "registration-deadline": "20 Aug 2026",
+    "deadline": "25 Oct 2026",
+    "added": "29 Jul 2026",
+    "prize": "$21,000",
+    "platform": "Codabench",
+    "sponsor": "Uniforce AI",
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://www.codabench.org/competitions/17363/",
+      "https://www.codabench.org/competitions/17385/"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Weak Lensing Uncertainty under Distribution Shift",
+    "url": "https://fair-universe.lbl.gov/?ref=mlcontests",
+    "tags": [
+      "astronomy",
+      "science",
+      "uncertainty",
+      "physics"
+    ],
+    "launched": "22 Apr 2026",
+    "registration-deadline": null,
+    "deadline": "11 Oct 2026",
+    "added": "29 Jul 2026",
+    "prize": "$4,000",
+    "platform": "Codabench",
+    "sponsor": "US Department of Energy",
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://www.codabench.org/competitions/10902/"
+    ],
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
