@@ -5547,7 +5547,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Infer Fusion Reactor Magnetic Geometry",
@@ -5567,7 +5567,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "RealPDE: Scientific ML for Real-World Physical Systems",
@@ -5592,7 +5592,7 @@
       "https://www.codabench.org/competitions/17385/"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Weak Lensing Uncertainty under Distribution Shift",
@@ -5616,6 +5616,6 @@
       "https://www.codabench.org/competitions/10902/"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
