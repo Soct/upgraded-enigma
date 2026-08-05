@@ -5617,5 +5617,290 @@
     ],
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "Generate Synthetic Humanitarian Survey Responses",
+    "url": "https://situatedevals.org/simulacrabench?ref=mlcontests",
+    "tags": [
+      "llm",
+      "benchmarks",
+      "generative",
+      "research"
+    ],
+    "launched": "1 Aug 2026",
+    "registration-deadline": null,
+    "deadline": "14 Nov 2026",
+    "added": "29 Jul 2026",
+    "prize": null,
+    "platform": "Independent",
+    "sponsor": null,
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Generative AI for Antimicrobial Peptide Design",
+    "url": "https://szczurek-lab.github.io/amp-challenge-website/?ref=mlcontests",
+    "tags": [
+      "biology",
+      "generative",
+      "chemistry",
+      "science"
+    ],
+    "launched": null,
+    "registration-deadline": null,
+    "deadline": "1 Oct 2026",
+    "added": "29 Jul 2026",
+    "prize": null,
+    "platform": "Independent",
+    "sponsor": null,
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Automated Speech Recognition Under Diverse Speech Patterns",
+    "url": "https://xiuwenz2.github.io/SAPC2-website/?ref=mlcontests",
+    "tags": [
+      "speech",
+      "audio",
+      "nlp",
+      "health"
+    ],
+    "launched": "3 Dec 2025",
+    "registration-deadline": null,
+    "deadline": "31 Aug 2026",
+    "added": "29 Jul 2026",
+    "prize": "$10,000",
+    "platform": "Codabench",
+    "sponsor": "AI Accessibility Coalition",
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Generative Modeling of Mouse Embryo Development",
+    "url": "https://virtualembryo.ai/challenge?ref=mlcontests",
+    "tags": [
+      "biology",
+      "generative",
+      "science",
+      "genomics"
+    ],
+    "launched": "30 Jun 2026",
+    "registration-deadline": null,
+    "deadline": "25 Oct 2026",
+    "added": "29 Jul 2026",
+    "prize": "$54,000",
+    "platform": "Independent",
+    "sponsor": "Laude Institute",
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Interpretability for AI Mathematical Olympiad Reasoning",
+    "url": "https://aimo-interp.github.io/?ref=mlcontests",
+    "tags": [
+      "interpretability",
+      "llm",
+      "mathematics",
+      "reasoning"
+    ],
+    "launched": "15 Jul 2026",
+    "registration-deadline": null,
+    "deadline": "25 Oct 2026",
+    "added": "29 Jul 2026",
+    "prize": "$10,000",
+    "platform": "Codabench",
+    "sponsor": "Fields Model Initiative",
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [
+      "https://www.codabench.org/competitions/16180/"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Quantitative Physical Reasoning for VLMs",
+    "url": "https://quantiphy.stanford.edu/competition/index.html?ref=mlcontests",
+    "tags": [
+      "vision",
+      "reasoning",
+      "physics",
+      "multimodal"
+    ],
+    "launched": "30 Jun 2026",
+    "registration-deadline": null,
+    "deadline": "5 Nov 2026",
+    "added": "29 Jul 2026",
+    "prize": null,
+    "platform": "Independent",
+    "sponsor": "Stanford HAI, UST",
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Robust Optical Flow Correspondence Matching",
+    "url": "https://roco-spring.github.io/?ref=mlcontests",
+    "tags": [
+      "vision",
+      "images",
+      "3d"
+    ],
+    "launched": "2 Jul 2026",
+    "registration-deadline": null,
+    "deadline": "30 Sep 2026",
+    "added": "29 Jul 2026",
+    "prize": null,
+    "platform": "Independent",
+    "sponsor": null,
+    "conference": "NeurIPS",
+    "conference-year": 2026,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Classify DaT Scans for Parkinson's Detection",
+    "url": "https://www.drivendata.org/competitions/311/dat-parkinsons-challenge/?ref=mlcontests",
+    "tags": [
+      "supervised",
+      "vision",
+      "classification",
+      "medical",
+      "measurable"
+    ],
+    "launched": "23 Jul 2026",
+    "registration-deadline": "16 Sep 2026",
+    "deadline": "16 Sep 2026",
+    "prize": "$27,000",
+    "platform": "DrivenData",
+    "sponsor": "SFMN, Health Data Hub, France 2030",
+    "conference": null,
+    "conference_year": null,
+    "additional_urls": [
+      "https://www.health-data-hub.fr/bibliotheque-ouverte-algorithmes-sante"
+    ],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "DataHub Agent Hackathon",
+    "url": "https://datahub.devpost.com/?ref=mlcontests",
+    "tags": [
+      "hackathon",
+      "agents",
+      "llm",
+      "code",
+      "generative"
+    ],
+    "launched": "6 Jul 2026",
+    "registration-deadline": "10 Aug 2026",
+    "deadline": "10 Aug 2026",
+    "prize": "$20,500",
+    "platform": "Devpost",
+    "sponsor": "DataHub",
+    "conference": null,
+    "conference_year": null,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Build On-Device LLMs for Laptop Hardware",
+    "url": "https://adtc-2026.devpost.com/?ref=mlcontests",
+    "tags": [
+      "hackathon",
+      "llm",
+      "generative",
+      "efficiency"
+    ],
+    "launched": "16 Jun 2026",
+    "registration-deadline": "24 Aug 2026",
+    "deadline": "24 Aug 2026",
+    "prize": "$16,500",
+    "platform": "Devpost",
+    "sponsor": "Various",
+    "conference": null,
+    "conference_year": null,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Showcase AI Systems Optimised for Arm Platforms",
+    "url": "https://arm-ai-optimization-challenge.devpost.com/?ref=mlcontests",
+    "tags": [
+      "hackathon",
+      "efficiency",
+      "hardware",
+      "generative"
+    ],
+    "launched": "10 Jun 2026",
+    "registration-deadline": "14 Aug 2026",
+    "deadline": "14 Aug 2026",
+    "prize": "$8,000",
+    "platform": "Devpost",
+    "sponsor": "Arm",
+    "conference": null,
+    "conference_year": null,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Backblaze Generative Media Hackathon",
+    "url": "https://backblaze-generative-media.devpost.com/?ref=mlcontests",
+    "tags": [
+      "hackathon",
+      "generative",
+      "vision",
+      "multimodal"
+    ],
+    "launched": "22 Jun 2026",
+    "registration-deadline": "3 Aug 2026",
+    "deadline": "3 Aug 2026",
+    "prize": "$10,000",
+    "platform": "Devpost",
+    "sponsor": "Backblaze, GMI Cloud",
+    "conference": null,
+    "conference_year": null,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
+  },
+  {
+    "name": "Build Agents With CockroachDB Memory",
+    "url": "https://cockroachdb-ai.devpost.com/?ref=mlcontests",
+    "tags": [
+      "hackathon",
+      "agents",
+      "llm",
+      "code"
+    ],
+    "launched": "30 Jun 2026",
+    "registration-deadline": "18 Aug 2026",
+    "deadline": "18 Aug 2026",
+    "prize": "$8,750",
+    "platform": "Devpost",
+    "sponsor": "Cockroach Labs, AWS",
+    "conference": null,
+    "conference_year": null,
+    "additional_urls": [],
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
