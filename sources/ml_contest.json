@@ -5638,7 +5638,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Generative AI for Antimicrobial Peptide Design",
@@ -5660,7 +5660,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Automated Speech Recognition Under Diverse Speech Patterns",
@@ -5682,7 +5682,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Generative Modeling of Mouse Embryo Development",
@@ -5704,7 +5704,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Interpretability for AI Mathematical Olympiad Reasoning",
@@ -5728,7 +5728,7 @@
       "https://www.codabench.org/competitions/16180/"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Quantitative Physical Reasoning for VLMs",
@@ -5750,7 +5750,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Robust Optical Flow Correspondence Matching",
@@ -5771,7 +5771,7 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Classify DaT Scans for Parkinson's Detection",
@@ -5795,7 +5795,7 @@
       "https://www.health-data-hub.fr/bibliotheque-ouverte-algorithmes-sante"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "DataHub Agent Hackathon",
@@ -5817,7 +5817,7 @@
     "conference_year": null,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build On-Device LLMs for Laptop Hardware",
@@ -5838,7 +5838,7 @@
     "conference_year": null,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Showcase AI Systems Optimised for Arm Platforms",
@@ -5859,7 +5859,7 @@
     "conference_year": null,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Backblaze Generative Media Hackathon",
@@ -5880,7 +5880,7 @@
     "conference_year": null,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Build Agents With CockroachDB Memory",
@@ -5901,6 +5901,6 @@
     "conference_year": null,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
