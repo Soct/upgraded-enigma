@@ -5979,7 +5979,7 @@
       "https://competitions.mozilladatacollective.com/competitions/1/lost-in-transcription-in-jv/"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predict Price Movements from Limit Order Book Data",
@@ -6005,6 +6005,6 @@
       "https://wundernn.io/connectome/docs/quick_start"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
