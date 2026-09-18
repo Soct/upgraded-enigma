@@ -22,7 +22,7 @@
     ],
     "added": "15 Sep 2026",
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predict Aircraft Taxi-Out Time at European Airports",
