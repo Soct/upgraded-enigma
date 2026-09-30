@@ -5672,7 +5672,7 @@
       "https://fair-universe.lbl.gov/?ref=mlcontests"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Generate Synthetic Humanitarian Survey Responses",
@@ -6058,7 +6058,7 @@
     "conference": "NeurIPS Brain & Body Workshop",
     "conference_year": 2026,
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predict Whether AI Systems Answer Benchmark Items Correctly",
@@ -6083,7 +6083,7 @@
       "https://www.codabench.org/competitions/17828/"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Sim2Real Bimanual Robot Manipulation",
@@ -6108,7 +6108,7 @@
       "https://github.com/EDEM-AI/RoboSynChallenge"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Verifiable AI Agents for Quantitative Finance",
@@ -6133,6 +6133,6 @@
     "conference-year": 2026,
     "additional_urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
