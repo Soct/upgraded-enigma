@@ -16,7 +16,7 @@
     "prize": "$14,925",
     "platform": "Independent",
     "sponsor": "FlagOS Community, IEEE",
-    "additional_urls": [
+    "additional-urls": [
       "https://flagos.io/race-detail-season2?id=782kzq4m&lang=en",
       "https://flagos.io/race-detail-season2?id=539vlt2p&lang=en"
     ],
@@ -41,7 +41,7 @@
     "platform": "Independent",
     "sponsor": "EUROCONTROL Performance Review Commission (PRC)",
     "launched": "1 Sep 2026",
-    "additional_urls": [
+    "additional-urls": [
       "https://ansperformance.eu/study/data-challenge/",
       "https://ansperformance.eu/study/data-challenge/dc2026/eligibility.html",
       "https://ansperformance.eu/study/data-challenge/dc2026/rationale.html",
@@ -71,7 +71,7 @@
     "prize": "$1,200",
     "platform": "Codabench",
     "sponsor": "Jane Street, AoPS, Nord Sec, Interview Buddy",
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/16945/"
     ],
     "source": "ML Contest",
@@ -95,7 +95,7 @@
     "platform": "CrunchDAO",
     "sponsor": "Eric and Wendy Schmidt Center",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -116,7 +116,7 @@
     "platform": "CrunchDAO",
     "sponsor": "ADIA Lab",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -135,12 +135,12 @@
     "deadline": "15 May 2026",
     "added": "15 Apr 2026",
     "prize": null,
-    "additional_prizes": "Amazon gift cards (300/200/100 CAD) for top 3 if >20 docker submissions; oral presentation invitation for top 3; poster presentation invitation for top 10; souvenirs for top 4-10; certificates for top 10",
+    "additional-prizes": "Amazon gift cards (300/200/100 CAD) for top 3 if >20 docker submissions; oral presentation invitation for top 3; poster presentation invitation for top 10; souvenirs for top 4-10; certificates for top 10",
     "platform": "Codabench",
     "sponsor": null,
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://fmv-cvpr26workshop.github.io/"
     ],
     "source": "ML Contest",
@@ -164,8 +164,8 @@
     "platform": "Trustii",
     "sponsor": "IHU ICAN, Health Data Hub, France 2030",
     "conference": null,
-    "conference_year": null,
-    "additional_urls": [
+    "conference-year": null,
+    "additional-urls": [
       "https://health-data-hub.fr/page/le-data-challenge-annitia"
     ],
     "source": "ML Contest",
@@ -188,7 +188,7 @@
     "platform": "Independent",
     "sponsor": "AMD, GPU Mode",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -210,7 +210,7 @@
     "platform": "CrunchDAO",
     "sponsor": "Eric and Wendy Schmidt Center",
     "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
-    "conference_year": 2026,
+    "conference-year": 2026,
     "source": "ML Contest",
     "isNew": false
   },
@@ -233,7 +233,7 @@
     "platform": "CrunchDAO",
     "sponsor": "Crunch Capital",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -255,7 +255,7 @@
     "platform": "CrunchDAO",
     "sponsor": "Eric and Wendy Schmidt Center",
     "conference": "https://events.zoom.us/egj/AviNQoyXkI53omXr5K-Nm-7HEWwUbO72ISftYGti-zP4qZJg7fJm~A11jVpJ_Mxa68cex-0qgYciyiK1UbB6gj-i8wlyc2yYc3AzUtV-DoqsjugKJQ",
-    "conference_year": 2026,
+    "conference-year": 2026,
     "source": "ML Contest",
     "isNew": false
   },
@@ -278,7 +278,7 @@
     "platform": "CrunchDAO",
     "sponsor": null,
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -300,8 +300,8 @@
     "platform": "Trustii.io",
     "sponsor": "IHU ICAN, Health Data Hub",
     "conference": "France 2030 – Grand Défi",
-    "conference_year": 2025,
-    "additional_urls": [
+    "conference-year": 2025,
+    "additional-urls": [
       "https://www.ihuican.org/"
     ],
     "source": "ML Contest",
@@ -343,7 +343,7 @@
     "platform": "Independent",
     "sponsor": "INNIO, KS Engineers, WinGD",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -366,7 +366,7 @@
     "platform": "Zindi",
     "sponsor": "IBM",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -387,7 +387,7 @@
     "platform": "Zindi",
     "sponsor": "PATH",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -407,7 +407,7 @@
     "platform": "Zindi",
     "sponsor": "Amini",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -431,11 +431,11 @@
     "prize": "$50,000",
     "platform": "Pond",
     "sponsor": "Vitalik Buterin, DeepFunding, OSObserver, others",
-    "additional_urls": [
+    "additional-urls": [
       "https://www.deepfunding.org/"
     ],
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -464,7 +464,7 @@
     "platform": "CrunchDAO",
     "sponsor": "Eric and Wendy Schmidt Center",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -493,7 +493,7 @@
     "platform": "CrunchDAO",
     "sponsor": "Eric and Wendy Schmidt Center",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -522,7 +522,7 @@
     "platform": "CrunchDAO",
     "sponsor": "Eric and Wendy Schmidt Center",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -541,7 +541,7 @@
     "prize": "$25,000",
     "platform": "Trustii",
     "sponsor": "Various",
-    "additional_urls": [
+    "additional-urls": [
       "https://app.trustii.io",
       "https://www.health-data-hub.fr/actualites/pre-inscriptions-au-data-challenge-cytologia"
     ],
@@ -565,12 +565,12 @@
     "prize": "$5,000",
     "platform": "Trustii",
     "sponsor": "Understand Tech",
-    "additional_urls": [
+    "additional-urls": [
       "https://app.trustii.io",
       "https://app.understand.tech"
     ],
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "data-size": null,
     "source": "ML Contest",
     "isNew": false
@@ -610,7 +610,7 @@
       "nlp",
       "measurable"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://www.cooperativeai.com/contests/concordia-2024"
     ],
     "launched": "17 Sep 2024",
@@ -633,7 +633,7 @@
       "security",
       "measurable"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "31 Jul 2024",
     "registration-deadline": "5 Nov 2024",
     "deadline": "5 Nov 2024",
@@ -656,7 +656,7 @@
       "supervised",
       "measurable"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "31 Aug 2024",
     "registration-deadline": "2 Nov 2024",
     "deadline": "2 Nov 2024",
@@ -679,7 +679,7 @@
       "supervised",
       "measurable"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "11 Sep 2024",
     "registration-deadline": "21 Nov 2024",
     "deadline": "21 Nov 2024",
@@ -701,7 +701,7 @@
       "medical",
       "subjective"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "11 Sep 2024",
     "registration-deadline": "21 Nov 2024",
     "deadline": "21 Nov 2024",
@@ -743,7 +743,7 @@
       "measurable",
       "control"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024?ref=mlcontests"
     ],
     "launched": "31 Jul 2024",
@@ -951,7 +951,7 @@
       "regression"
     ],
     "launched": "9 Jul 2024",
-    "additional_urls": [
+    "additional-urls": [
       "https://adrenalin.energy"
     ],
     "registration-deadline": "15 Sep 2024",
@@ -960,7 +960,7 @@
     "platform": "CodaLab",
     "sponsor": "EUDP, ReMoni",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -975,7 +975,7 @@
       "measurable"
     ],
     "launched": "9 Jul 2024",
-    "additional_urls": [
+    "additional-urls": [
       "https://adrenalin.energy"
     ],
     "registration-deadline": "15 Sep 2024",
@@ -984,7 +984,7 @@
     "platform": "CodaLab",
     "sponsor": "AES Innovation, synavision, Kiona",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -1004,7 +1004,7 @@
     "platform": "Bitgrit",
     "sponsor": "NASA",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -1018,7 +1018,7 @@
       "generative",
       "multimodal"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "1 Jun 2024",
     "deadline": "14 Aug 2024",
     "prize": "$6,800",
@@ -1043,7 +1043,7 @@
     "platform": "Independent",
     "sponsor": "Google",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -1062,7 +1062,7 @@
     "prize": "$25,000",
     "platform": "Trustii",
     "sponsor": "Various",
-    "additional_urls": [
+    "additional-urls": [
       "https://app.trustii.io",
       "https://www.health-data-hub.fr/actualites/lancement-data-challenge-digilut"
     ],
@@ -1087,7 +1087,7 @@
     "platform": "Independent",
     "sponsor": "Center for AI Safety",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -1099,7 +1099,7 @@
       "measurable",
       "multiple"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://optimize.esa.int/challenges"
     ],
     "launched": "1 Apr 2024",
@@ -1122,7 +1122,7 @@
       "supervised",
       "regression"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/BVRA/SnakeCLEF2024"
     ],
     "launched": "29 Feb 2024",
@@ -1146,7 +1146,7 @@
       "supervised",
       "regression"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/BVRA/PlantCLEF2024?ref=mlcontests"
     ],
     "launched": "21 Mar 2024",
@@ -1170,7 +1170,7 @@
       "supervised",
       "classification"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/BVRA/FungiCLEF2024?ref=mlcontests"
     ],
     "launched": "13 Mar 2024",
@@ -1194,7 +1194,7 @@
       "supervised",
       "driving"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/AGC2024/mapless-driving-2024?ref=mlcontests"
     ],
     "launched": "25 Mar 2024",
@@ -1219,7 +1219,7 @@
       "supervised",
       "driving"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/AGC2024/driving-with-language-2024?ref=mlcontests"
     ],
     "launched": "25 Mar 2024",
@@ -1243,7 +1243,7 @@
       "supervised",
       "driving"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://eval.ai/web/challenges/challenge-page/2098/overview"
     ],
     "launched": "25 Mar 2024",
@@ -1267,7 +1267,7 @@
       "supervised",
       "driving"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/AGC2024/visual-grounding-2024?ref=mlcontests"
     ],
     "launched": "25 Mar 2024",
@@ -1291,7 +1291,7 @@
       "supervised",
       "driving"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/AGC2024-S/occupancy-and-flow-2024?ref=mlcontests"
     ],
     "launched": "25 Mar 2024",
@@ -1315,7 +1315,7 @@
       "supervised",
       "driving"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/AGC2024-P/predictive-world-model-2024?ref=mlcontests"
     ],
     "launched": "25 Mar 2024",
@@ -1340,7 +1340,7 @@
       "driving",
       "reinforcement learning"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/AGC2024-P/e2e-driving-2024"
     ],
     "launched": "25 Mar 2024",
@@ -1363,7 +1363,7 @@
       "measurable",
       "supervised"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "14 Mar 2024",
     "registration-deadline": "28 May 2024",
     "deadline": "28 May 2024",
@@ -1391,7 +1391,7 @@
     "platform": "Independent",
     "sponsor": "MM01",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "data-size": null,
     "source": "ML Contest",
     "isNew": false
@@ -1487,7 +1487,7 @@
       "satellite",
       "regression"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "15 Mar 2024",
     "registration-deadline": "16 Jun 2024",
     "deadline": "16 Jun 2024",
@@ -1510,7 +1510,7 @@
       "satellite",
       "regression"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "15 Mar 2024",
     "registration-deadline": "23 Jun 2024",
     "deadline": "23 Jun 2024",
@@ -1534,7 +1534,7 @@
       "classification",
       "tabular"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "15 Mar 2024",
     "registration-deadline": "31 May 2024",
     "deadline": "31 May 2024",
@@ -1558,7 +1558,7 @@
       "classification",
       "measurable"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "31 Jan 2024",
     "registration-deadline": "20 Mar 2024",
     "deadline": "11 Apr 2024",
@@ -1579,7 +1579,7 @@
       "vision",
       "nlp"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "27 Feb 2024",
     "registration-deadline": "31 Dec 2024",
     "deadline": "31 Dec 2024",
@@ -1601,7 +1601,7 @@
       "measurable",
       "supervised"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://building3d.ucalgary.ca/"
     ],
     "launched": "15 Feb 2024",
@@ -1626,7 +1626,7 @@
       "measurable",
       "supervised"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": null,
     "registration-deadline": "14 Mar 2024",
     "deadline": "14 May 2024",
@@ -1648,7 +1648,7 @@
       "measurable",
       "supervised"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": null,
     "registration-deadline": "14 Mar 2024",
     "deadline": "14 May 2024",
@@ -1670,7 +1670,7 @@
       "measurable",
       "annotation"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": null,
     "registration-deadline": "5 Mar 2024",
     "deadline": "5 Mar 2024",
@@ -1693,7 +1693,7 @@
       "nlp",
       "llm"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://tianchi.aliyun.com/competition/entrance/532170"
     ],
     "launched": "4 Jan 2024",
@@ -1717,7 +1717,7 @@
       "subjective",
       "multiple"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "15 Jan 2024",
     "deadline": "28 Jun 2024",
     "prize": "$9,000",
@@ -1738,7 +1738,7 @@
       "nlp",
       "supervised"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "10 Jan 2024",
     "deadline": "19 Mar 2024",
     "prize": "$4,200",
@@ -1764,7 +1764,7 @@
     "prize": "$15,000",
     "platform": "MIT",
     "sponsor": "HRT, Jane Street, Spark, Others",
-    "additional_urls": [],
+    "additional-urls": [],
     "conference": null,
     "conference-year": null,
     "source": "ML Contest",
@@ -1802,7 +1802,7 @@
     "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
     "conference": "IEEE SaTML",
     "conference-year": 2024,
-    "additional_urls": [
+    "additional-urls": [
       "https://ctf.spylab.ai/static/rules.pdf",
       "https://satml.org/participate-competitions/"
     ],
@@ -1824,7 +1824,7 @@
     "sponsor": "CISPA, European Lighthouse on Secure and Safe AI",
     "conference": "IEEE SaTML",
     "conference-year": 2024,
-    "additional_urls": [
+    "additional-urls": [
       "https://ctf.spylab.ai/static/rules.pdf",
       "https://satml.org/participate-competitions/"
     ],
@@ -1883,7 +1883,7 @@
       "vision",
       "interpretability"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "22 Sep 2023",
     "registration-deadline": "22 Mar 2024",
     "deadline": "22 Mar 2024",
@@ -1904,7 +1904,7 @@
       "medical",
       "science"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "1 Sep 2023",
     "registration-deadline": "17 Jan 2024",
     "deadline": "31 Jan 2024",
@@ -1923,7 +1923,7 @@
       "security",
       "subjective"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "13 Dec 2023",
     "registration-deadline": "30 Apr 2023",
     "deadline": "30 Apr 2024",
@@ -1949,7 +1949,7 @@
     "prize": "$1,500",
     "platform": "Trustii",
     "sponsor": "Trustii",
-    "additional_urls": [
+    "additional-urls": [
       "https://app.trustii.io",
       "https://www.data.gouv.fr/en/datasets/resultats-des-controles-officiels-sanitaires-dispositif-dinformation-alimconfiance/?reuses_page=1#community-reuses"
     ],
@@ -2018,7 +2018,7 @@
       "geo",
       "3d"
     ],
-    "additional_urls": [],
+    "additional-urls": [],
     "launched": "22 Nov 2023",
     "registration-deadline": "8 Jan 2024",
     "deadline": "8 Jan 2024",
@@ -2329,7 +2329,7 @@
     "prize": "$8,300",
     "platform": "Algotester",
     "sponsor": "HUAWEI",
-    "additional_urls": [
+    "additional-urls": [
       "https://algotester.com/en/Contest/Display/110635",
       "https://algotester.com/en/ContestProblem/DisplayWithFile/135254"
     ],
@@ -2574,7 +2574,7 @@
     "platform": "Zindi",
     "sponsor": "Google DeepMind",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2598,7 +2598,7 @@
     "platform": "Zindi",
     "sponsor": "FAIR Forward, Deutsche GIZ",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2620,7 +2620,7 @@
     "platform": "Zindi",
     "sponsor": "Deutsche GIZ",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2642,7 +2642,7 @@
     "platform": "Zindi",
     "sponsor": null,
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2666,7 +2666,7 @@
     "platform": "Zindi",
     "sponsor": "AWS",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2690,7 +2690,7 @@
     "platform": "Zindi",
     "sponsor": "AWS",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2751,7 +2751,7 @@
     "platform": "ThinkOnward",
     "sponsor": null,
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2771,7 +2771,7 @@
     "platform": "Zindi",
     "sponsor": "CGIAR",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2791,7 +2791,7 @@
     "platform": "Zindi",
     "sponsor": "Amini",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2812,7 +2812,7 @@
     "platform": "Zindi",
     "sponsor": "Lacuna Fund, MAIDI",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2934,7 +2934,7 @@
     "platform": "In-person",
     "sponsor": "Clearpath Robotics",
     "conference": "ICRA",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2953,7 +2953,7 @@
     "platform": "In-person",
     "sponsor": "MathWorks",
     "conference": "ICRA",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2972,7 +2972,7 @@
     "platform": "In-person",
     "sponsor": "Discover Robotics",
     "conference": "ICRA",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -2992,8 +2992,8 @@
     "platform": "CodaLab",
     "sponsor": "Watrix Technology",
     "conference": "IJCB",
-    "conference_year": 2025,
-    "additional_urls": [
+    "conference-year": 2025,
+    "additional-urls": [
       "https://hid.iapr-tc4.org/"
     ],
     "source": "ML Contest",
@@ -3036,7 +3036,7 @@
     "platform": "Bitgrit",
     "sponsor": null,
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3145,7 +3145,7 @@
     "platform": "Zindi",
     "sponsor": "Digital Africa",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3166,13 +3166,13 @@
     "prize": "$20,000",
     "platform": "Pond",
     "sponsor": "Human Passport, Octant, Ethereum Foundation",
-    "additional_urls": [
+    "additional-urls": [
       "https://ethereum.foundation/",
       "https://x.com/HumnPassport",
       "https://x.com/OctantApp"
     ],
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3193,7 +3193,7 @@
     "platform": "Zindi",
     "sponsor": "ITU",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3213,7 +3213,7 @@
     "platform": "Zindi",
     "sponsor": "Philips",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3248,7 +3248,7 @@
     "launched": "14 May 2025",
     "registration-deadline": "20 Sep 2025",
     "deadline": "25 Sep 2025",
-    "additional_urls": [
+    "additional-urls": [
       "https://www.adialab.ae/structural-break-challenge"
     ],
     "prize": "$100,000",
@@ -3270,13 +3270,13 @@
     "registration-deadline": "1 Jul 2025",
     "deadline": "1 Jul 2025",
     "prize": null,
-    "additional_urls": [
+    "additional-urls": [
       "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
     ],
     "platform": "Codabench",
     "sponsor": null,
     "conference": "ICML",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3294,13 +3294,13 @@
     "registration-deadline": "1 Jul 2025",
     "deadline": "1 Jul 2025",
     "prize": null,
-    "additional_urls": [
+    "additional-urls": [
       "https://sites.google.com/view/ai4mathworkshopicml2025/challenge"
     ],
     "platform": "Codabench",
     "sponsor": null,
     "conference": "ICML",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3319,7 +3319,7 @@
     "platform": "DEVPOST",
     "sponsor": "HP, NVIDIA",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "note": "This competition is open to U.S. residents only",
     "source": "ML Contest",
     "isNew": false
@@ -3341,7 +3341,7 @@
     "platform": "Zindi",
     "sponsor": "Amini",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3362,7 +3362,7 @@
     "platform": "Zindi",
     "sponsor": "ITU",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3385,7 +3385,7 @@
     "platform": "Zindi",
     "sponsor": "ITU",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3406,7 +3406,7 @@
     "platform": "Bitgrit",
     "sponsor": "Bitgrit",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3427,7 +3427,7 @@
     "platform": "Zindi",
     "sponsor": "Lands and Surveys Department, Barbados",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3448,7 +3448,7 @@
     "platform": "Zindi",
     "sponsor": "Philips",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3470,7 +3470,7 @@
     "platform": "Zindi",
     "sponsor": "Alliance of Bioversity & CIAT, data.org",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3492,8 +3492,8 @@
     "platform": "EvalAI",
     "sponsor": "LibriBrain/Various",
     "conference": "NeurIPS",
-    "conference_year": 2025,
-    "additional_urls": [
+    "conference-year": 2025,
+    "additional-urls": [
       "https://neural-processing-lab.github.io/2025-libribrain-competition/"
     ],
     "source": "ML Contest",
@@ -3516,8 +3516,8 @@
     "platform": "EvalAI",
     "sponsor": "LibriBrain/Various",
     "conference": "NeurIPS",
-    "conference_year": 2025,
-    "additional_urls": [
+    "conference-year": 2025,
+    "additional-urls": [
       "https://neural-processing-lab.github.io/2025-libribrain-competition/"
     ],
     "source": "ML Contest",
@@ -3539,7 +3539,7 @@
     "platform": "Independent",
     "sponsor": "Memorial Sloan Kettering Cancer Center",
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3560,7 +3560,7 @@
     "platform": "Tianchi",
     "sponsor": "Alibaba",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3582,7 +3582,7 @@
     "platform": "Zindi",
     "sponsor": "Alliance of Bioversity & CIAT, data.org",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3600,7 +3600,7 @@
     "platform": "Zindi",
     "sponsor": "Lands and Surveys Department, Barbados",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3622,7 +3622,7 @@
     "platform": "Zindi",
     "sponsor": "Alliance of Bioversity & CIAT, data.org",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3644,7 +3644,7 @@
     "platform": "Zindi",
     "sponsor": "Alliance of Bioversity & CIAT, data.org",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3666,7 +3666,7 @@
     "platform": "Zindi",
     "sponsor": "Alliance of Bioversity & CIAT, data.org",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3686,7 +3686,7 @@
     "platform": "Zindi",
     "sponsor": "Digital Africa, agriBORA",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3705,8 +3705,8 @@
     "platform": "Hugging Face",
     "sponsor": "Various",
     "conference": "NeurIPS",
-    "conference_year": 2025,
-    "additional_urls": [
+    "conference-year": 2025,
+    "additional-urls": [
       "https://huggingface.co/spaces/e2lmc-competition/leaderboard"
     ],
     "source": "ML Contest",
@@ -3729,7 +3729,7 @@
     "platform": "Independent",
     "sponsor": "Various",
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3749,7 +3749,7 @@
     "platform": "Independent",
     "sponsor": "Various",
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3769,7 +3769,7 @@
     "platform": "Independent",
     "sponsor": "Various",
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3789,7 +3789,7 @@
     "platform": "Independent",
     "sponsor": null,
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3809,8 +3809,8 @@
     "platform": "Codabench",
     "sponsor": null,
     "conference": "NeurIPS",
-    "conference_year": 2025,
-    "additional_urls": [
+    "conference-year": 2025,
+    "additional-urls": [
       "https://www.codabench.org/competitions/7166/"
     ],
     "source": "ML Contest",
@@ -3834,7 +3834,7 @@
     "platform": "Zindi",
     "sponsor": "ROAD",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3856,7 +3856,7 @@
     "platform": "Zindi",
     "sponsor": "Alliance of Bioversity & CIAT, data.org",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3878,7 +3878,7 @@
     "platform": "Solafune",
     "sponsor": null,
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3900,7 +3900,7 @@
     "platform": "Independent",
     "sponsor": null,
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3915,7 +3915,7 @@
       "measurable",
       "supervised"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://eeg2025.github.io"
     ],
     "launched": "1 Aug 2025",
@@ -3925,7 +3925,7 @@
     "platform": "Codabench",
     "sponsor": "Meta",
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3948,7 +3948,7 @@
     "platform": "Independent",
     "sponsor": "AWS",
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -3963,7 +3963,7 @@
       "measurable",
       "control"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025?ref=mlcontests"
     ],
     "launched": "1 Aug 2025",
@@ -3988,7 +3988,7 @@
       "measurable",
       "control"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://neurips25-eai.github.io/?ref=mlcontests"
     ],
     "launched": "15 Aug 2025",
@@ -4020,8 +4020,8 @@
     "platform": "Codabench",
     "sponsor": "RPI, Codabench, AvaLabs",
     "conference": "ICAIF",
-    "conference_year": 2025,
-    "additional_urls": [
+    "conference-year": 2025,
+    "additional-urls": [
       "https://finsurvival.github.io/",
       "https://icaif25.org"
     ],
@@ -4044,7 +4044,7 @@
     "platform": "Zindi",
     "sponsor": "French Embassy in Ghana",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4064,7 +4064,7 @@
     "platform": "Zindi",
     "sponsor": "ITU",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4106,7 +4106,7 @@
     "platform": "Codabench",
     "sponsor": "MAFAT",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4120,7 +4120,7 @@
       "regression",
       "measurable"
     ],
-    "additional_urls": [
+    "additional-urls": [
       "https://fair-universe.lbl.gov/?ref=mlcontests"
     ],
     "launched": "24 Aug 2025",
@@ -4130,7 +4130,7 @@
     "platform": "Codabench",
     "sponsor": "FAIR Universe",
     "conference": "NeurIPS",
-    "conference_year": 2025,
+    "conference-year": 2025,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4153,7 +4153,7 @@
     "platform": "DataSource.ai",
     "sponsor": "Supchains",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4175,7 +4175,7 @@
     "platform": "Independent",
     "sponsor": "EUROCONTROL Performance Review Commission (PRC)",
     "launched": "1 Oct 2025",
-    "additional_urls": [
+    "additional-urls": [
       "https://ansperformance.eu/study/data-challenge/",
       "https://ansperformance.eu/study/data-challenge/dc2025/data.html",
       "https://ansperformance.eu/study/data-challenge/dc2025/submission.html",
@@ -4209,7 +4209,7 @@
     "platform": "Zindi",
     "sponsor": "Various",
     "conference": "MWC Barcelona",
-    "conference_year": 2026,
+    "conference-year": 2026,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4231,7 +4231,7 @@
     "platform": "Solafune",
     "sponsor": null,
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4253,7 +4253,7 @@
     "platform": "ThinkOnward",
     "sponsor": null,
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4272,7 +4272,7 @@
     "platform": "ThinkOnward",
     "sponsor": null,
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4292,7 +4292,7 @@
     "platform": "Zindi",
     "sponsor": "Digital Africa",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4312,7 +4312,7 @@
     "platform": "Zindi",
     "sponsor": "UWI AI Innovation Centre, CIBC, Infolytics, Data Axis, CTU",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4333,7 +4333,7 @@
     "platform": "Zindi",
     "sponsor": "EY",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4353,7 +4353,7 @@
     "platform": "Zindi",
     "sponsor": "data.org",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4374,7 +4374,7 @@
     "platform": "Zindi",
     "sponsor": "EY",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4394,7 +4394,7 @@
     "platform": "Zindi",
     "sponsor": "UNIDO",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4457,7 +4457,7 @@
     "platform": "Zindi",
     "sponsor": "Digital Africa",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4480,7 +4480,7 @@
     "platform": "Independent",
     "sponsor": "Wunder Fund",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4499,7 +4499,7 @@
     "platform": "Independent",
     "sponsor": "Comet, Google DeepMind, Vercel",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4521,7 +4521,7 @@
     "platform": "Zindi",
     "sponsor": "Digital Africa",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4542,7 +4542,7 @@
     "platform": "DrivenData",
     "sponsor": "Gates Foundation",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4561,7 +4561,7 @@
     "platform": "Zindi",
     "sponsor": "UNIDO",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4582,7 +4582,7 @@
     "platform": "DrivenData",
     "sponsor": "Gates Foundation",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4603,7 +4603,7 @@
     "platform": "Zindi",
     "sponsor": "EY",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4622,7 +4622,7 @@
     "platform": "Zindi",
     "sponsor": "CASSAVA, AMINI, meetkai, Qhala, LELAPA AI, MTN",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4643,7 +4643,7 @@
     "platform": "Zindi",
     "sponsor": "AI4EAC",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4663,7 +4663,7 @@
     "platform": "Zindi",
     "sponsor": "AI4EAC",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4683,7 +4683,7 @@
     "platform": "Zindi",
     "sponsor": "AI4EAC",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4706,7 +4706,7 @@
     "sponsor": "Argo AI",
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://eval.ai/web/challenges/challenge-page/2484/overview"
     ],
     "source": "ML Contest",
@@ -4728,7 +4728,7 @@
     "sponsor": null,
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://huggingface.co/spaces/BuildingWorld/BuildingWorldChallenge"
     ],
     "source": "ML Contest",
@@ -4750,7 +4750,7 @@
     "sponsor": "Spiideo",
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.soccer-net.org/challenges/2026"
     ],
     "source": "ML Contest",
@@ -4774,7 +4774,7 @@
     "sponsor": "Game On Technologies",
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.soccer-net.org/challenges/2026"
     ],
     "source": "ML Contest",
@@ -4797,7 +4797,7 @@
     "sponsor": "KNQ Technology",
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.soccer-net.org/challenges/2026"
     ],
     "source": "ML Contest",
@@ -4821,7 +4821,7 @@
     "sponsor": "Footovision",
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.soccer-net.org/challenges/2026"
     ],
     "source": "ML Contest",
@@ -4843,7 +4843,7 @@
     "sponsor": "EVS Broadcast Equipment",
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.soccer-net.org/challenges/2026?ref=mlcontests"
     ],
     "source": "ML Contest",
@@ -4865,7 +4865,7 @@
     "platform": "Zindi",
     "sponsor": "AI4EAC",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4886,7 +4886,7 @@
     "platform": "Zindi",
     "sponsor": "Google DeepMind",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4907,7 +4907,7 @@
     "platform": "Zindi",
     "sponsor": "Nedbank",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4926,7 +4926,7 @@
     "platform": "Zindi",
     "sponsor": "HUAWEI",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4947,7 +4947,7 @@
     "platform": "Zindi",
     "sponsor": "ITU, Hash",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4967,7 +4967,7 @@
     "platform": "Bitgrit",
     "sponsor": "Bitgrit",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -4986,7 +4986,7 @@
     "platform": "Zindi",
     "sponsor": "Google Research",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -5006,7 +5006,7 @@
     "platform": "Zindi",
     "sponsor": "ITU",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -5024,7 +5024,7 @@
     "platform": "Independent",
     "sponsor": "Dwarkesh Patel",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -5044,7 +5044,7 @@
     "platform": "Zindi",
     "sponsor": "Reclaiming Our Atlantic Destinity (R.O.A.D.)",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -5065,7 +5065,7 @@
     "sponsor": "Amazon, Intel, MVTec, Voxel51",
     "conference": "CVPR",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/14156/"
     ],
     "source": "ML Contest",
@@ -5087,7 +5087,7 @@
     "sponsor": "SANS Institute",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5107,7 +5107,7 @@
     "sponsor": "Amazon Web Services",
     "conference": "MICCAI",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5127,7 +5127,7 @@
     "sponsor": null,
     "conference": "MICCAI",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5148,7 +5148,7 @@
     "sponsor": null,
     "conference": "MICCAI",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5168,7 +5168,7 @@
     "sponsor": null,
     "conference": "MICCAI",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5190,7 +5190,7 @@
     "sponsor": "Huawei Technologies",
     "conference": "INTERSPEECH",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5210,7 +5210,7 @@
     "sponsor": "Various",
     "conference": "RecSys",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/15786/",
       "https://recsys.acm.org/recsys26/challenge/"
     ],
@@ -5235,7 +5235,7 @@
     "sponsor": "Various",
     "conference": "ICML",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/16104/",
       "https://www.codabench.org/competitions/16161/",
       "https://www.codabench.org/competitions/16010/"
@@ -5262,7 +5262,7 @@
     "sponsor": "ARC",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.alignmentforum.org/posts/Kben8CzS4awCwNw5c/announcing-the-arc-white-box-estimation-challenge"
     ],
     "source": "ML Contest",
@@ -5286,7 +5286,7 @@
     "sponsor": "Alibaba Cloud",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5308,7 +5308,7 @@
     "sponsor": "Microsoft",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [
+    "additional-urls": [
       "https://github.com/microsoft/Agents-League-AISF-Regulations"
     ],
     "source": "ML Contest",
@@ -5332,7 +5332,7 @@
     "sponsor": "Splunk",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5355,7 +5355,7 @@
     "sponsor": "Tsinghua University",
     "conference": "KDD",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5377,7 +5377,7 @@
     "sponsor": null,
     "conference": "MICCAI",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5399,7 +5399,7 @@
     "sponsor": null,
     "conference": "MICCAI",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5421,7 +5421,7 @@
     "sponsor": null,
     "conference": "MICCAI",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5444,7 +5444,7 @@
     "sponsor": null,
     "conference": "MICCAI",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5482,7 +5482,7 @@
     ],
     "launched": "19 May 2025",
     "deadline": "17 Aug 2026",
-    "additional_urls": [
+    "additional-urls": [
       "https://xprize.devpost.com/"
     ],
     "prize": "$2,000,000",
@@ -5509,7 +5509,7 @@
     "platform": "Zindi",
     "sponsor": "Fairytale, bluebot, GovTech, INFOLYTICS",
     "conference": null,
-    "conference_year": null,
+    "conference-year": null,
     "source": "ML Contest",
     "isNew": false
   },
@@ -5532,7 +5532,7 @@
     "sponsor": "National Tutoring Observatory",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5554,7 +5554,7 @@
     "sponsor": "Adaption Labs",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5579,7 +5579,7 @@
     "sponsor": "WithAI",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5601,7 +5601,7 @@
     "sponsor": "SPRIN-D",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5621,7 +5621,7 @@
     "sponsor": "Sophelio, General Atomics, UKAEA, UT Austin",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5643,7 +5643,7 @@
     "sponsor": "Uniforce AI",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/17363/",
       "https://www.codabench.org/competitions/17385/"
     ],
@@ -5668,7 +5668,7 @@
     "sponsor": "US Department of Energy",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://fair-universe.lbl.gov/?ref=mlcontests"
     ],
     "source": "ML Contest",
@@ -5692,7 +5692,7 @@
     "sponsor": null,
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5714,7 +5714,7 @@
     "sponsor": null,
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5729,14 +5729,14 @@
     ],
     "launched": "3 Dec 2025",
     "registration-deadline": null,
-    "deadline": "31 Aug 2026",
+    "deadline": "24 Oct 2026",
     "added": "29 Jul 2026",
     "prize": "$10,000",
     "platform": "Codabench",
     "sponsor": "AI Accessibility Coalition",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5758,7 +5758,7 @@
     "sponsor": "Laude Institute",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5780,7 +5780,7 @@
     "sponsor": "Fields Model Initiative",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/16180/"
     ],
     "source": "ML Contest",
@@ -5804,7 +5804,7 @@
     "sponsor": "Stanford HAI, UST",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5825,7 +5825,7 @@
     "sponsor": null,
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [],
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5846,8 +5846,8 @@
     "platform": "DrivenData",
     "sponsor": "SFMN, Health Data Hub, France 2030",
     "conference": null,
-    "conference_year": null,
-    "additional_urls": [
+    "conference-year": null,
+    "additional-urls": [
       "https://www.health-data-hub.fr/bibliotheque-ouverte-algorithmes-sante"
     ],
     "source": "ML Contest",
@@ -5870,8 +5870,8 @@
     "platform": "Devpost",
     "sponsor": "DataHub",
     "conference": null,
-    "conference_year": null,
-    "additional_urls": [],
+    "conference-year": null,
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5891,8 +5891,8 @@
     "platform": "Devpost",
     "sponsor": "Various",
     "conference": null,
-    "conference_year": null,
-    "additional_urls": [],
+    "conference-year": null,
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5912,8 +5912,8 @@
     "platform": "Devpost",
     "sponsor": "Arm",
     "conference": null,
-    "conference_year": null,
-    "additional_urls": [],
+    "conference-year": null,
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5933,8 +5933,8 @@
     "platform": "Devpost",
     "sponsor": "Backblaze, GMI Cloud",
     "conference": null,
-    "conference_year": null,
-    "additional_urls": [],
+    "conference-year": null,
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5954,8 +5954,8 @@
     "platform": "Devpost",
     "sponsor": "Cockroach Labs, AWS",
     "conference": null,
-    "conference_year": null,
-    "additional_urls": [],
+    "conference-year": null,
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5976,8 +5976,8 @@
     "platform": "Independent",
     "sponsor": "Pasteur Labs",
     "conference": null,
-    "conference_year": null,
-    "additional_urls": [],
+    "conference-year": null,
+    "additional-urls": [],
     "source": "ML Contest",
     "isNew": false
   },
@@ -5998,7 +5998,7 @@
     "prize": "$20,000",
     "platform": "DrivenData",
     "sponsor": "Mozilla Data Collective",
-    "additional_urls": [
+    "additional-urls": [
       "https://competitions.mozilladatacollective.com/competitions/2/lost-in-transcription-sp-en/",
       "https://competitions.mozilladatacollective.com/competitions/3/lost-in-transcription-sp-nh/",
       "https://competitions.mozilladatacollective.com/competitions/1/lost-in-transcription-in-jv/"
@@ -6026,7 +6026,7 @@
     "sponsor": "Wunder Fund",
     "conference": null,
     "conference-year": null,
-    "additional_urls": [
+    "additional-urls": [
       "https://wundernn.io/connectome/docs/quick_start"
     ],
     "source": "ML Contest",
@@ -6035,7 +6035,7 @@
   {
     "name": "Decode Brains Signals in Task-Specific Settings",
     "url": "https://neural-interfaces26.github.io",
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/17974/",
       "https://www.codabench.org/competitions/17982/",
       "https://www.codabench.org/competitions/17983/",
@@ -6056,7 +6056,7 @@
     "platform": "Codabench",
     "sponsor": "Various",
     "conference": "NeurIPS Brain & Body Workshop",
-    "conference_year": 2026,
+    "conference-year": 2026,
     "source": "ML Contest",
     "isNew": false
   },
@@ -6079,7 +6079,7 @@
     "sponsor": null,
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/17828/"
     ],
     "source": "ML Contest",
@@ -6104,7 +6104,7 @@
     "sponsor": "DexForce, Tencent Cloud, AgileX, Computational Freedom",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://github.com/EDEM-AI/RoboSynChallenge"
     ],
     "source": "ML Contest",
@@ -6131,7 +6131,7 @@
     "sponsor": "NVIDIA, Bloomberg, AllianceBernstein",
     "conference": "NeurIPS",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://www.codabench.org/competitions/17765/",
       "https://www.codabench.org/competitions/17766/",
       "https://www.codabench.org/competitions/17767/",
@@ -6159,12 +6159,37 @@
     "sponsor": null,
     "conference": "NeurIPS RoboPAD Workshop",
     "conference-year": 2026,
-    "additional_urls": [
+    "additional-urls": [
       "https://f1y1113.github.io/worldnav-challenge/",
       "https://roboworld2026.github.io/",
       "https://github.com/F1y1113/worldnav-challenge"
     ],
     "source": "ML Contest",
     "isNew": false
+  },
+  {
+    "name": "L2RPN 2026: Optimal Power Network Management",
+    "url": "https://www.codabench.org/competitions/17866/",
+    "tags": [
+      "agents",
+      "graph",
+      "timeseries",
+      "reinforcement learning",
+      "climate",
+      "measurable",
+      "supervised"
+    ],
+    "launched": "24 Aug 2026",
+    "added": "7 Oct 2026",
+    "registration-deadline": "9 Oct 2026",
+    "deadline": "9 Oct 2026",
+    "prize": "$6,700",
+    "platform": "Codabench",
+    "sponsor": null,
+    "conference": null,
+    "conference-year": null,
+    "additional-urls": [],
+    "source": "ML Contest",
+    "isNew": true
   }
 ]
