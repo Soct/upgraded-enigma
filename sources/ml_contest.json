@@ -6261,7 +6261,7 @@
       "https://github.com/ASGuard-UCI/safedrive-vla"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Human-Aware Vision-and-Language Navigation",
@@ -6288,7 +6288,7 @@
       "https://arxiv.org/abs/2503.14229"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Domain-Specific Question Answering with LLMs",
@@ -6313,6 +6313,6 @@
       "https://github.com/jucls/IEEE-CIS-DSQA-Starter-Kit"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
