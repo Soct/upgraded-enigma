@@ -6338,7 +6338,7 @@
       "https://emprise.cs.cornell.edu/phyrc/challenge-2027"
     ],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   },
   {
     "name": "Predict Cognitive Outcomes from Digital Clock Drawings",
@@ -6362,6 +6362,6 @@
     "conference-year": 2027,
     "additional-urls": [],
     "source": "ML Contest",
-    "isNew": true
+    "isNew": false
   }
 ]
